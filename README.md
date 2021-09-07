@@ -13,6 +13,6 @@
 
 Flex
 + https://heropy.blog/2018/11/24/css-flexible-box/
-<br>
+
 Grid
 + https://heropy.blog/2019/08/17/css-grid/
