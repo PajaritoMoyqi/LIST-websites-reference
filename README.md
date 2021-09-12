@@ -1,7 +1,6 @@
 
 # 코딩할 때 유용한 사이트들을 정리했습니다
-<div style="text-align: right"> - by   Pajarito Moyqi </div>
-<br>
+<div style="text-align: right"> - By   Pajarito Moyqi, HQ kim </div>
 
 ## MARKDOWN
 
