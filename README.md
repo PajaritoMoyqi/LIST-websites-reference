@@ -1,6 +1,6 @@
 
 # 코딩할 때 유용한 사이트들을 정리했습니다
-<div style="text-align: right"> - By   Pajarito Moyqi </div>
+<div style="text-align: right"> - by   Pajarito Moyqi </div>
 <br>
 
 ## MARKDOWN
@@ -10,6 +10,9 @@
 + https://gist.github.com/ihoneymon/652be052a0727ad59601   (마크다운 총정리)
 
 ## CSS
+
+Block & Inline
++ https://junistory.blogspot.com/2017/07/html5.html   (Block 요소 및 Inline 요소 리스트)
 
 Flex
 + https://heropy.blog/2018/11/24/css-flexible-box/   (Flex 완벽 가이드)
