@@ -13,6 +13,9 @@
 Block & Inline
 + https://junistory.blogspot.com/2017/07/html5.html   (Block 요소 및 Inline 요소 리스트)
 
+Color
++ https://colorhunt.co/   (색상 조합표 list)
+
 Flex
 + https://heropy.blog/2018/11/24/css-flexible-box/   (Flex 완벽 가이드)
 + https://studiomeal.com/archives/197 (Flex 예시 실시간 확인 가능)
@@ -24,6 +27,9 @@ Grid
 
 Javascript
 + https://poiemaweb.com/   (자바스크립트 및 연관된 프레임워크/언어 기초가 초심자에게는 살짝 깊은 정도로 설명되어 있음)
+
+this
++ https://velog.io/@koseungbin/This-Binding   (this가 경우에 따라 어떻게 바인딩 되는가를 다룬 문서)
 
 ## Github
 
