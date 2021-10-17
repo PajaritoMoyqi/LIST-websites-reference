@@ -40,3 +40,7 @@ this
 
 Github Profile
 + http://blog.cowkite.com/blog/2102241544/   (Github Profile 꾸미기)
+
+## Front-end
+
++ https://www.youtube.com/user/dongjukim75   (전문 프론트엔드 작업자는 어떻게 작업하는가)
