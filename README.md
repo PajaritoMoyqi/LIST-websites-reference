@@ -44,3 +44,7 @@ Github Profile
 ## Front-end
 
 + https://www.youtube.com/user/dongjukim75   (전문 프론트엔드 작업자는 어떻게 작업하는가)
+
+## Hosting
+
++ https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting   (노드 프로젝트 호스팅이 가능한 곳 목록)
