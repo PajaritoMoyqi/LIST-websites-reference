@@ -41,6 +41,12 @@ this
 개론
 + https://react.vlpt.us/ (기본적인 게 기억 안 날 때)
 
+## VUE
+
+Vue3 변경점
++ https://v3.vuejs.org/guide/migration/introduction.html#global-api (공식페이지)
++ https://velog.io/@bluestragglr/Vue3-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B0%94%EB%80%8C%EB%82%98%EC%9A%94 (변경점 생기기 전 기준 자세한 설명)
+
 ## Github
 
 Github Profile
