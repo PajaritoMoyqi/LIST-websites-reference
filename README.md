@@ -19,6 +19,7 @@ Color
 Flex
 + https://heropy.blog/2018/11/24/css-flexible-box/   (Flex 완벽 가이드)
 + https://studiomeal.com/archives/197 (Flex 예시 실시간 확인 가능)
++ https://velog.io/@jary/flex%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%80%EC%9A%B4%EB%8D%B0-%EC%A0%95%EB%A0%AC (수직/수평 정렬)
 
 Grid
 + https://heropy.blog/2019/08/17/css-grid/   (Grid 완벽 가이드)
