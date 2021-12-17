@@ -42,6 +42,10 @@ this
 보안
 + https://m.blog.naver.com/PostView.nhn?blogId=cck223&logNo=221019399455&proxyReferer=https:%2F%2Fwww.google.com%2F (Helmet & Cookie/Session 중심)
 
+package.json
++ https://docs.npmjs.com/cli/v8/configuring-npm/package-json (package-json properties 설명)
++ https://spdx.org/licenses/ (package.json의 license에 쓸 수 있는 목록)
+
 ## REACT
 
 개론
@@ -52,6 +56,9 @@ this
 Vue3 변경점
 + https://v3.vuejs.org/guide/migration/introduction.html#global-api (공식페이지)
 + https://velog.io/@bluestragglr/Vue3-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B0%94%EB%80%8C%EB%82%98%EC%9A%94 (변경점 생기기 전 기준 자세한 설명)
+
+기타
++ https://jess2.xyz/vue/vue-tip/ (실무에 적용하면 좋은 내용 정리)
 
 ## Github
 
