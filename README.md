@@ -37,6 +37,10 @@ Javascript
 this
 + https://velog.io/@koseungbin/This-Binding   (this가 경우에 따라 어떻게 바인딩 되는가를 다룬 문서)
 
+Object
++ https://geometery-programing.tistory.com/23   (map, filter로 object 가공하기)
++ https://ko.javascript.info/keys-values-entries   (keys, values, entries로 object 가공하기)
+
 ## Node.js
 
 보안
