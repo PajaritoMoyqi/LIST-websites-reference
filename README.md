@@ -61,6 +61,9 @@ Vue3 변경점
 + https://v3.vuejs.org/guide/migration/introduction.html#global-api (공식페이지)
 + https://velog.io/@bluestragglr/Vue3-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B0%94%EB%80%8C%EB%82%98%EC%9A%94 (변경점 생기기 전 기준 자세한 설명)
 
+css deep rendering
++ https://stackoverflow.com/questions/44844788/vue-js-style-v-html-with-scoped-css (두 가지 해결방법)
+
 기타
 + https://jess2.xyz/vue/vue-tip/ (실무에 적용하면 좋은 내용 정리)
 
