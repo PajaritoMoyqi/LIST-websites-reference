@@ -67,6 +67,11 @@ css deep rendering
 기타
 + https://jess2.xyz/vue/vue-tip/ (실무에 적용하면 좋은 내용 정리)
 
+## Linux
+
+SSH
++ http://taewan.kim/post/ssh_config/ (ssh config file)
+
 ## Github
 
 Github Profile
