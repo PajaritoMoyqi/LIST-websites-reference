@@ -72,6 +72,7 @@ css deep rendering
 Environment Variable
 + https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/ (how to set and where to set)
 + https://unix.stackexchange.com/questions/117467/how-to-permanently-set-environmental-variables (where to set)
++ https://seulcode.tistory.com/546 (where to set 한국어)
 
 Screen Shot
 + https://www.linuxadictos.com/ko/tres-maneras-diferentes-de-hacer-capturas-de-pantalla-en-linux.html (기본적인 스샷 단축키)
