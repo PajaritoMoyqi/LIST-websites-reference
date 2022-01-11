@@ -90,6 +90,7 @@ branch 생성 및 연동
 ## Hosting
 
 VPS
++ https://www.youtube.com/watch?v=oykl1Ih9pMg   (배포과정 nodejs)
 + https://www.youtube.com/watch?v=w3RFk35synM   (배포과정 with nginx)
 
 + https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting   (노드 프로젝트 호스팅이 가능한 곳 목록)
