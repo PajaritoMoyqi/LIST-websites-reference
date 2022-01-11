@@ -69,6 +69,9 @@ css deep rendering
 
 ## Linux
 
+Screen Shot
++ https://www.linuxadictos.com/ko/tres-maneras-diferentes-de-hacer-capturas-de-pantalla-en-linux.html (기본적인 스샷 단축키)
+
 SSH
 + http://taewan.kim/post/ssh_config/ (ssh config file)
 
