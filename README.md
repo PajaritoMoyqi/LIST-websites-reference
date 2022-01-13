@@ -50,6 +50,9 @@ package.json
 + https://docs.npmjs.com/cli/v8/configuring-npm/package-json (package-json properties 설명)
 + https://spdx.org/licenses/ (package.json의 license에 쓸 수 있는 목록)
 
+pm2
++ https://pm2.io/docs/runtime/best-practices/environment-variables/ (when you want to update env var)
+
 ## REACT
 
 개론
