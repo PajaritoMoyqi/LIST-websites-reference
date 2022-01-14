@@ -1,6 +1,6 @@
 
 # 코딩할 때 유용한 사이트들을 정리했습니다
-<div style="text-align: right"> - By   Pajarito Moyqi, HQ kim </div>
+<div style="text-align: right"> - By   Pajarito Moyqi </div>
 
 ## MARKDOWN
 
@@ -67,6 +67,9 @@ Vue3 변경점
 css deep rendering
 + https://stackoverflow.com/questions/44844788/vue-js-style-v-html-with-scoped-css (두 가지 해결방법)
 
+htmlWebpackPlugin.options.title
++ https://stackoverflow.com/questions/62023604/where-to-find-or-how-to-set-htmlwebpackplugin-options-title-in-project-created-w (title 바꾸기)
+
 기타
 + https://jess2.xyz/vue/vue-tip/ (실무에 적용하면 좋은 내용 정리)
 
@@ -102,6 +105,17 @@ VPS
 + https://www.youtube.com/watch?v=w3RFk35synM   (배포과정 with nginx)
 
 + https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting   (노드 프로젝트 호스팅이 가능한 곳 목록)
+
+## SEO
+
+SEO 기본
++ https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=ko (구글 기본 가이드)
+
+BlackHat SEO
++ https://www.youtube.com/watch?v=J2hj2s9gtG4 (블랙햇이란 무엇인가?)
+
+favicon maker
++ https://favicon.io/ (text도 가능)
 
 ## CDN
 
