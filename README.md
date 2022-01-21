@@ -70,6 +70,9 @@ css deep rendering
 htmlWebpackPlugin.options.title
 + https://stackoverflow.com/questions/62023604/where-to-find-or-how-to-set-htmlwebpackplugin-options-title-in-project-created-w (title 바꾸기)
 
+v-model과 selected
++ https://stackoverflow.com/questions/46772060/vue-selected-prop-not-working-with-v-model (answer: "gives initial value to binded variable")
+
 기타
 + https://jess2.xyz/vue/vue-tip/ (실무에 적용하면 좋은 내용 정리)
 
