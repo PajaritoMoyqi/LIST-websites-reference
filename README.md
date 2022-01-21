@@ -35,7 +35,7 @@ Img
 ## Javascript
 
 Javascript
-+ <a href="https://poiemaweb.com/" target="_blank" rel="noopener">https://poiemaweb.com/</a>   (자바스크립트 및 연관된 프레임워크/언어 기초가 초심자에게는 살짝 깊은 정도로 설명되어 있음)
++ https://poiemaweb.com/  (자바스크립트 및 연관된 프레임워크/언어 기초가 초심자에게는 살짝 깊은 정도로 설명되어 있음)
 
 this
 + https://velog.io/@koseungbin/This-Binding   (this가 경우에 따라 어떻게 바인딩 되는가를 다룬 문서)
@@ -96,6 +96,9 @@ SSH
 
 Github Profile
 + http://blog.cowkite.com/blog/2102241544/   (Github Profile 꾸미기)
+
+Markdown
++ https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank (깃허브에서는 markdown에 target=_blank를 넣어줄 수 없다)
 
 branch 생성 및 연동
 + https://goddaehee.tistory.com/274 (간단하게 설명되어 있음)
