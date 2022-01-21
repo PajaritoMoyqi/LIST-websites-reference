@@ -29,6 +29,9 @@ Flex
 Grid
 + https://heropy.blog/2019/08/17/css-grid/   (Grid 완벽 가이드)
 
+Img
++ https://www.remove.bg/ko (이미지 배경 쉽게 지우는 웹사이트)
+
 ## Javascript
 
 Javascript
