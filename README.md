@@ -40,6 +40,9 @@ Javascript
 Date
 + https://nowonbun.tistory.com/566   (moment 라이브러리를 사용해 format을 다양하게 활용하는 법)
 
+fetch
++ https://stackoverflow.com/questions/7346563/loading-local-json-file (local json 파일 불러오기 - fetch)
+
 this
 + https://velog.io/@koseungbin/This-Binding   (this가 경우에 따라 어떻게 바인딩 되는가를 다룬 문서)
 
@@ -78,6 +81,9 @@ htmlWebpackPlugin.options.title
 
 v-model과 selected
 + https://stackoverflow.com/questions/46772060/vue-selected-prop-not-working-with-v-model (answer: "gives initial value to binded variable")
+
+중첩된 데이터 처리하기
++ https://ui.toast.com/weekly-pick/ko_20190307 (deep, immediate, handler)
 
 기타
 + https://jess2.xyz/vue/vue-tip/ (실무에 적용하면 좋은 내용 정리)
