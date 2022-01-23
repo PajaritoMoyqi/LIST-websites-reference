@@ -32,6 +32,9 @@ Grid
 Img
 + https://www.remove.bg/ko (이미지 배경 쉽게 지우는 웹사이트)
 
+Text
++ http://www.tcpschool.com/css/css_basic_text   (text와 관련된 모든 css)
+
 ## Javascript
 
 Javascript
