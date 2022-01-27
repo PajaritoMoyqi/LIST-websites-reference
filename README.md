@@ -133,7 +133,8 @@ VPS
 ## SEO
 
 SEO 기본
-+ https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=ko (구글 기본 가이드)
++ https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=ko   (구글 기본 가이드)
++ https://velog.io/@byeol4001/Meta-Tag-OG%EC%98%A4%ED%94%88%EA%B7%B8%EB%9E%98%ED%94%84-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0   (og tags)
 
 BlackHat SEO
 + https://www.youtube.com/watch?v=J2hj2s9gtG4 (블랙햇이란 무엇인가?)
