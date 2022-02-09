@@ -138,6 +138,9 @@ VPS
 
 + https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting   (노드 프로젝트 호스팅이 가능한 곳 목록)
 
+SSG, SSR, CSR, SPA, TTV, TTI
++ https://www.youtube.com/watch?v=iZ9csAfU5Os    (10분 내로 간단 정리)
+
 ## SEO
 
 SEO 기본
