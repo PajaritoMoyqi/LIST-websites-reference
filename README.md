@@ -58,6 +58,9 @@ Object
 보안
 + https://m.blog.naver.com/PostView.nhn?blogId=cck223&logNo=221019399455&proxyReferer=https:%2F%2Fwww.google.com%2F (Helmet & Cookie/Session 중심)
 
+npm
++ https://opentutorials.org/module/4571/27567 (npm에 public으로 배포해보자!)
+
 package.json
 + https://docs.npmjs.com/cli/v8/configuring-npm/package-json (package-json properties 설명)
 + https://spdx.org/licenses/ (package.json의 license에 쓸 수 있는 목록)
