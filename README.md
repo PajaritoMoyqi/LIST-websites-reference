@@ -162,6 +162,11 @@ favicon maker
 + https://hianna.tistory.com/550  (화면/메뉴 글자들이 전체적으로 작아졌을 때)
 
 
+## etc
+
++ https://ryugod.com/pages/ide/bash (별의별 코딩언어 다 있는 실행환경)
+
+
 # 구인구직 / 협업
 
 + https://www.beginmate.com/   (협업할 사람 구합니다)
