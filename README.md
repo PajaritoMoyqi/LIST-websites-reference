@@ -11,7 +11,10 @@
 ## HTML
 
 Tags
-+ https://yunbinni.tistory.com/63 (HTML 모든 태그 정리)
++ https://yunbinni.tistory.com/63     (HTML 모든 태그 정리)
+
+Img
++ https://placeholder.com/     (임시 이미지 넣어둘 때 활용하면 좋은 API)
 
 ## CSS
 
@@ -20,6 +23,8 @@ Block & Inline
 
 Color
 + https://colorhunt.co/   (색상 조합표 list)
++ https://color.adobe.com/ko/create/color-wheel  (색상 원형 팔레트)
++ https://zetawiki.com/wiki/CSS_%EC%83%89%EC%83%81%EB%AA%85,_X11_%EC%83%89%EC%83%81%EB%AA%85  (색상 명명표)
 
 Flex
 + https://heropy.blog/2018/11/24/css-flexible-box/   (Flex 완벽 가이드)
@@ -30,10 +35,18 @@ Grid
 + https://heropy.blog/2019/08/17/css-grid/   (Grid 완벽 가이드)
 
 Img
-+ https://www.remove.bg/ko (이미지 배경 쉽게 지우는 웹사이트)
++ https://www.remove.bg/ko     (이미지 배경 쉽게 지우는 웹사이트)
+
+Icon
++ https://fontawesome.com/     (수많은 아이콘 가져오자)
 
 Text
 + http://www.tcpschool.com/css/css_basic_text   (text와 관련된 모든 css)
++ https://www.dafont.com/   (상업 free 영어 폰트)
+
+## BootStrap
+
++ https://startbootstrap.com/     (부트스트랩을 가지고 좀 더 많은 템플릿을 쓰고 싶을 때)
 
 ## Javascript
 
@@ -93,6 +106,11 @@ v-model과 selected
 
 기타
 + https://jess2.xyz/vue/vue-tip/ (실무에 적용하면 좋은 내용 정리)
+
+## Data
+
+JSON
++ http://json.parser.online.fr/      (보기 어려운 JSON 파싱)
 
 ## PWA
 
