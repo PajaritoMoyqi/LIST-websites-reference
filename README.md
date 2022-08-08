@@ -135,7 +135,10 @@ Screen Shot
 SSH
 + http://taewan.kim/post/ssh_config/ (ssh config file)
 
-## Github
+## Git & Github
+
+Git
++ https://www.toptal.com/developers/gitignore (프로젝트에 따른 gitignore 자동생성)
 
 Github Profile
 + http://blog.cowkite.com/blog/2102241544/   (Github Profile 꾸미기)
