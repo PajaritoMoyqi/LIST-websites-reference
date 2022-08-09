@@ -16,6 +16,10 @@ Tags
 Img
 + https://placeholder.com/     (임시 이미지 넣어둘 때 활용하면 좋은 API)
 
+Text
++ https://www.lipsum.com/ (임시 text generator)
++ https://hangul.thefron.me/ (임시 text generator 한글판)
+
 ## CSS
 
 After & Before
