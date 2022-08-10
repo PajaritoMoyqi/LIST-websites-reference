@@ -15,6 +15,7 @@ Tags
 
 Img
 + https://placeholder.com/     (임시 이미지 넣어둘 때 활용하면 좋은 API)
++ https://picsum.photos/  (임시 이미지 넣어둘 때 활용하면 좋은 API)
 
 Text
 + https://www.lipsum.com/ (임시 text generator)
