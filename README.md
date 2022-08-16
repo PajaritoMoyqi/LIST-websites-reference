@@ -23,6 +23,9 @@ Text
 
 ## CSS
 
+Guide
++ https://css-tricks.com/ (다양한 css trick에 대한 가이드 및 재미있는 글들)
+
 After & Before
 + https://fromnowwon.tistory.com/entry/css-triangle-bubble (삼각형 그리기)
 
