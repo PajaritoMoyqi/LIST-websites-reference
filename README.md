@@ -65,6 +65,9 @@ Text
 Javascript
 + https://poiemaweb.com/  (자바스크립트 및 연관된 프레임워크/언어 기초가 초심자에게는 살짝 깊은 정도로 설명되어 있음)
 
+Beautifier
++ https://beautifier.io/ (JS, CSS, HTML 한 줄로 된 거 indent 해주는 beautifier 사이트)
+
 Date
 + https://nowonbun.tistory.com/566   (moment 라이브러리를 사용해 format을 다양하게 활용하는 법)
 
