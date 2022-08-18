@@ -124,6 +124,9 @@ v-model과 selected
 
 ## Data
 
+정규화
++ https://www.youtube.com/watch?v=pMcv0Zhh3J0 (제1 정규화부터 제3 정규화까지 가장 깔끔하게 설명 - 완벽하게 올바른 설명인지는 아직 모르겠음)
+
 JSON
 + http://json.parser.online.fr/      (보기 어려운 JSON 파싱)
 + http://www.jsondiff.com/ (두 JSON 파일 비교하기)
