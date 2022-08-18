@@ -126,6 +126,7 @@ v-model과 selected
 
 정규화
 + https://www.youtube.com/watch?v=pMcv0Zhh3J0 (제1 정규화부터 제3 정규화까지 가장 깔끔하게 설명 - 완벽하게 올바른 설명인지는 아직 모르겠음)
++ https://mr-dan.tistory.com/10 (제1 정규화부터 제3 정규화까지 조금 더 어렵지만 원론에 충실하게 한 설명 - 어려워서 여러 번 봐야할 것 같음)
 
 JSON
 + http://json.parser.online.fr/      (보기 어려운 JSON 파싱)
