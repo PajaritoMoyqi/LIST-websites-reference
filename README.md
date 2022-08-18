@@ -132,7 +132,7 @@ JSON
 + http://json.parser.online.fr/      (보기 어려운 JSON 파싱)
 + http://www.jsondiff.com/ (두 JSON 파일 비교하기)
 
-SQL
+MariaDB(SQL)
 + https://hdhdeveloper.tistory.com/61 (MariaDB error 1452 - 외래키 삽입 시 오류가 있는 경우)
 
 ## PWA
