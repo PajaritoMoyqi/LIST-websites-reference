@@ -218,3 +218,4 @@ favicon maker
 # 구인구직 / 협업
 
 + https://www.beginmate.com/   (협업할 사람 구합니다)
++ https://discordbot.tistory.com/51 (디코에서 코드 공유하기)
