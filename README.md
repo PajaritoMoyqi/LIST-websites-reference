@@ -134,6 +134,7 @@ JSON
 
 SQL
 + https://sqlbolt.com/lesson/select_queries_order_of_execution (SQL 쿼리문 실행 순서)
++ https://stackoverflow.com/questions/4596467/order-of-execution-of-the-sql-query (근데 그거 아니 사실 그 순서를 무작정 따르지는 않는단다)
 
 MariaDB(SQL)
 + https://hdhdeveloper.tistory.com/61 (MariaDB error 1452 - 외래키 삽입 시 오류가 있는 경우)
