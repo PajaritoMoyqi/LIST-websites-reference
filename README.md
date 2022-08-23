@@ -133,6 +133,9 @@ v-model과 selected
 
 ## Data
 
+ERD
++ https://inpa.tistory.com/entry/DB-%F0%9F%93%9A-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81-1N-%EA%B4%80%EA%B3%84-%F0%9F%93%88-ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8 (ERD 총정리)
+
 정규화
 + https://www.youtube.com/watch?v=pMcv0Zhh3J0 (제1 정규화부터 제3 정규화까지 가장 깔끔하게 설명 - 완벽하게 올바른 설명인지는 아직 모르겠음)
 + https://mr-dan.tistory.com/10 (제1 정규화부터 제3 정규화까지 조금 더 어렵지만 원론에 충실하게 한 설명 - 어려워서 여러 번 봐야할 것 같음)
