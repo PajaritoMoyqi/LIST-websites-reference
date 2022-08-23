@@ -21,6 +21,12 @@ Text
 + https://www.lipsum.com/ (임시 text generator)
 + https://hangul.thefron.me/ (임시 text generator 한글판)
 
+HTML, HTML5, XHTML, XML
++ http://tcpschool.com/html/html_expand_xhtml (기본적인 XHTML과 HTML5 간의 차이)
++ https://www.interviewbit.com/blog/difference-between-html-and-xhtml/ (difference between HTML and XHTML - advanced)
++ https://www.interviewbit.com/html-interview-questions/ (63 HTML interview questions)
++ https://www.interviewbit.com/blog/difference-between-html-and-xml/ (difference between HTML and XML - advanced)
+
 ## CSS
 
 Guide
