@@ -92,6 +92,10 @@ Object
 
 + https://jins-sw.tistory.com/category/Python (Python 카테고리 글이 상당히 양질인 블로그)
 
+module
+
++ https://jins-sw.tistory.com/17 (sys.path 누구냐 넌)
+
 ## Node.js
 
 보안
@@ -115,6 +119,10 @@ flow
 
 slug
 + https://stackoverflow.com/questions/427102/what-is-a-slug-in-django (what is slug - basic)
+
+venv & virtualenv
++ https://jins-sw.tistory.com/19 (venv 내부동작은 어떻게 될까?)
++ https://bubtaylor.com/how-pythons-virtualenv-works-f21c298f8061 (how venv works internally?)
 
 ## REACT
 
