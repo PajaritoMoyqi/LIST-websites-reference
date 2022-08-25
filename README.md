@@ -88,6 +88,10 @@ Object
 + https://geometery-programing.tistory.com/23   (map, filter로 object 가공하기)
 + https://ko.javascript.info/keys-values-entries   (keys, values, entries로 object 가공하기)
 
+## Python
+
++ https://jins-sw.tistory.com/category/Python (Python 카테고리 글이 상당히 양질인 블로그)
+
 ## Node.js
 
 보안
