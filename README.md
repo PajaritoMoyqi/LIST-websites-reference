@@ -157,6 +157,7 @@ SQL
 + https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/ (근데 그거 아니 사실 그 순서를 무작정 따르지는 않는단다 2)
 + https://cornswrold.tistory.com/131 (SQL문이 SQL Engine에 닿기까지 - 짧, 한국어)
 + https://coding-factory.tistory.com/743 (optimizer 자세한 설명 - 한국어)
++ https://www.jooq.org/translate/ (SQL translator)
 
 MariaDB(SQL)
 + https://hdhdeveloper.tistory.com/61 (MariaDB error 1452 - 외래키 삽입 시 오류가 있는 경우)
