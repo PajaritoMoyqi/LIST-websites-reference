@@ -258,13 +258,18 @@ module, package, library, framwork 차이
 + https://www.beginmate.com/   (협업할 사람 구합니다)
 + https://discordbot.tistory.com/51 (디코에서 코드 공유하기)
 
+# 놀자 놀아
+
++ https://www.waveon.io/apps/544 (나와 닮은 프로그래밍 언어는?)
+
+# 듣자 들어
+
++ https://www.inflearn.com/ (인프런)
++ https://www.udemy.com/ (udemy)
+
 # 풀자 풀어
 
 + https://www.acmicpc.net/ (백준)
 + https://swexpertacademy.com/main/main.do (SWEA)
 + https://programmers.co.kr/ (프로그래머스)
 + https://codeup.kr/ (코드업)
-
-# 놀자 놀아
-
-+ https://www.waveon.io/apps/544 (나와 닮은 프로그래밍 언어는?)
