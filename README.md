@@ -257,3 +257,7 @@ module, package, library, framwork 차이
 
 + https://www.beginmate.com/   (협업할 사람 구합니다)
 + https://discordbot.tistory.com/51 (디코에서 코드 공유하기)
+
+# 놀자 놀아
+
++ https://www.waveon.io/apps/544 (나와 닮은 프로그래밍 언어는?)
