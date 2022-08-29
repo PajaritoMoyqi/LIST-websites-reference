@@ -27,6 +27,9 @@ HTML, HTML5, XHTML, XML
 + https://www.interviewbit.com/html-interview-questions/ (63 HTML interview questions)
 + https://www.interviewbit.com/blog/difference-between-html-and-xml/ (difference between HTML and XML - advanced)
 
+크로스브라우징
++ https://caniuse.com/ (기술 호환성 체크 사이트)
+
 ## CSS
 
 Guide
