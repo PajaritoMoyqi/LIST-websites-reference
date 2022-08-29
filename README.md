@@ -250,6 +250,11 @@ favicon maker
 
 ## etc
 
+기술블로그
++ https://d2.naver.com/home (naver D2)
++ https://techblog.woowahan.com/ (우아한형제들)
+
+실행환경
 + https://ryugod.com/pages/ide/bash (별의별 코딩언어 다 있는 실행환경)
 
 module, package, library, framwork 차이
