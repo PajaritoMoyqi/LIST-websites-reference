@@ -264,6 +264,11 @@ favicon maker
 
 + https://hianna.tistory.com/550  (화면/메뉴 글자들이 전체적으로 작아졌을 때)
 
+## Optimization
+
++ https://tools.pingdom.com/ (website speed test)
++ https://pagespeed.web.dev/ (website speed test 2)
+
 
 ## etc
 
