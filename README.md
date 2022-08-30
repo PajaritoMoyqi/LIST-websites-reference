@@ -20,6 +20,7 @@ Img
 + https://picsum.photos/  (임시 이미지 넣어둘 때 활용하면 좋은 API)
 + https://velog.io/@hustle-dev/%EC%9B%B9-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94 (웹사이트 최적화를 위한 이미지 제언)
 + https://web.dev/fast/#optimize-your-images (optimize your image)
++ https://oliveyoung.tech/blog/2021-11-22/How-to-Improve-Web-Performance-with-Image-Optimization/ (웹사이트 최적화 - 이미지 파트)
 
 Text
 + https://www.lipsum.com/ (임시 text generator)
