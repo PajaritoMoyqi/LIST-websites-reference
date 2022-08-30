@@ -12,6 +12,7 @@
 
 Tags
 + https://yunbinni.tistory.com/63     (HTML 모든 태그 정리)
++ https://docs.emmet.io/cheat-sheet/ (emmet 기능 총정리!)
 
 Img
 + https://placeholder.com/     (임시 이미지 넣어둘 때 활용하면 좋은 API)
