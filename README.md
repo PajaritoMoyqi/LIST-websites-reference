@@ -71,6 +71,9 @@ Text
 Design
 + https://magazinevm.com/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-16%EA%B3%B3-%EA%B5%AD%EB%82%B4-%ED%95%B4%EC%99%B8-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0/ (design benchmarking websites 모음)
 
+크로스브라우징
++ https://sung-studynote.tistory.com/131 (크롬의 최소 폰트 크기는 10px이다!!)
+
 ## BootStrap
 
 + https://getbootstrap.com/docs/4.1/getting-started/introduction/ (부트스트랩 documentation)
