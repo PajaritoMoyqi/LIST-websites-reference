@@ -267,6 +267,10 @@ favicon maker
 
 ## Optimization
 
+CLS
++ https://wit.nts-corp.com/2020/12/28/6240 (새로운 웹페이지 성능 측정 지표 - CLS)
+
+Speed Test
 + https://tools.pingdom.com/ (website speed test)
 + https://pagespeed.web.dev/ (website speed test 2)
 
