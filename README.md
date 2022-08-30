@@ -13,6 +13,7 @@
 Tags
 + https://yunbinni.tistory.com/63     (HTML 모든 태그 정리)
 + https://docs.emmet.io/cheat-sheet/ (emmet 기능 총정리!)
++ https://html.spec.whatwg.org/#toc-dom (html tag들 공식문서)
 
 Img
 + https://placeholder.com/     (임시 이미지 넣어둘 때 활용하면 좋은 API)
@@ -38,6 +39,7 @@ Svg
 
 Guide
 + https://css-tricks.com/ (다양한 css trick에 대한 가이드 및 재미있는 글들)
++ http://www.standardista.com/css3/css-specificity/ (css 우선순위에 대한 이해가 아주 잘 가는 사진이 있는 글!)
 
 After & Before
 + https://fromnowwon.tistory.com/entry/css-triangle-bubble (삼각형 그리기)
