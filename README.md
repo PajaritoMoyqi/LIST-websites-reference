@@ -13,6 +13,9 @@ provisional
 
 ## HTML
 
+Inline, Inline-block, block
++ https://norux.me/63 (inline 요소에 기본으로 있는 4px의 공백에 대하여)
+
 Tags
 + https://yunbinni.tistory.com/63     (HTML 모든 태그 정리)
 + https://docs.emmet.io/cheat-sheet/ (emmet 기능 총정리!)
@@ -47,6 +50,9 @@ Svg
 Guide
 + https://css-tricks.com/ (다양한 css trick에 대한 가이드 및 재미있는 글들)
 + http://www.standardista.com/css3/css-specificity/ (css 우선순위에 대한 이해가 아주 잘 가는 사진이 있는 글!)
+
+Selector
++ https://flukeout.github.io/ (Selector 재미있게 배우기!)
 
 After & Before
 + https://fromnowwon.tistory.com/entry/css-triangle-bubble (삼각형 그리기)
