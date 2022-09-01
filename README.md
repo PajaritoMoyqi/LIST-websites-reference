@@ -328,6 +328,7 @@ module, package, library, framwork 차이
 # 놀자 놀아
 
 + https://www.waveon.io/apps/544 (나와 닮은 프로그래밍 언어는?)
++ https://codingspeedtest.com/ (코딩 스피드 테스트)
 
 # 듣자 들어
 
