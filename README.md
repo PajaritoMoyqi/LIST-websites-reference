@@ -28,7 +28,8 @@ Img
 + https://velog.io/@hustle-dev/%EC%9B%B9-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94 (웹사이트 최적화를 위한 이미지 제언)
 + https://web.dev/fast/#optimize-your-images (optimize your image)
 + https://oliveyoung.tech/blog/2021-11-22/How-to-Improve-Web-Performance-with-Image-Optimization/ (웹사이트 최적화 - 이미지 파트)
-+ https://techit.kr/view/?no=20200701213803 (**##### [kor]** webp is really better than jpeg?)
++ https://techit.kr/view/?no=20200701213803 (<img src="https://img.shields.io/badge/F7DF1E?style=flat-square&logo=KOR&logoColor=white"/>
+ webp is really better than jpeg?)
 
 Text
 + https://www.lipsum.com/ (임시 text generator)
