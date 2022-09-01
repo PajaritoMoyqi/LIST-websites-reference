@@ -7,6 +7,7 @@
 마크다운 총정리
 + https://heropy.blog/2017/09/30/markdown/   (마크다운 총정리)
 + https://gist.github.com/ihoneymon/652be052a0727ad59601   (마크다운 총정리)
++ https://samsara-ku.dev/common_sense/difference-between-markup-and-markdown/ (마크업 vs 마크다운)
 
 provisional
 + https://www.youtube.com/watch?v=1NrHkjlWVhM (how to make markdown blog by nodejs, express, mongodb)
