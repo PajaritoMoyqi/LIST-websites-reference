@@ -33,6 +33,9 @@ Text
 + https://www.lipsum.com/ (임시 text generator)
 + https://hangul.thefron.me/ (임시 text generator 한글판)
 
+font
++ https://noonnu.cc/ (용도별 한글 폰트 추천)
+
 HTML, HTML5, XHTML, XML
 + http://tcpschool.com/html/html_expand_xhtml (기본적인 XHTML과 HTML5 간의 차이)
 + https://www.interviewbit.com/blog/difference-between-html-and-xhtml/ (difference between HTML and XHTML - advanced)
@@ -44,6 +47,9 @@ Svg
 
 크로스브라우징
 + https://caniuse.com/ (기술 호환성 체크 사이트)
+
+debug
++ https://ui.toast.com/weekly-pick/ko_20211027 (2021 최신 디버깅도구 - 스타일링)
 
 ## CSS
 
@@ -79,6 +85,7 @@ Img
 
 Icon
 + https://fontawesome.com/     (수많은 아이콘 가져오자)
++ https://www.flaticon.com/icons (get free icons)
 
 Text
 + http://www.tcpschool.com/css/css_basic_text   (text와 관련된 모든 css)
@@ -292,6 +299,7 @@ Speed Test
 기술블로그
 + https://d2.naver.com/home (naver D2)
 + https://techblog.woowahan.com/ (우아한형제들)
++ https://ui.toast.com/posts/ko (TOAST UI)
 
 코딩 컨벤션
 + https://nuli.navercorp.com/tool/codingCon (네이버 코딩 컨벤션)
