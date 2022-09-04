@@ -55,6 +55,9 @@ debug
 
 ## CSS
 
+History
++ https://velog.io/@teo/css-history-1 (CSS의 역사)
+
 Guide
 + https://css-tricks.com/ (다양한 css trick에 대한 가이드 및 재미있는 글들)
 + http://www.standardista.com/css3/css-specificity/ (css 우선순위에 대한 이해가 아주 잘 가는 사진이 있는 글!)
