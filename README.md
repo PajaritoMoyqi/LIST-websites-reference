@@ -1,5 +1,6 @@
 
 # 코딩할 때 유용한 사이트들을 정리했습니다
+언어 표시가 안 된 글들은 한글로 된 글들입니다.
 <div style="text-align: right"> - By   Pajarito Moyqi </div>
 
 ## MARKDOWN
