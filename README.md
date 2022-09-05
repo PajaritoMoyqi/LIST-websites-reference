@@ -10,7 +10,7 @@
 + https://samsara-ku.dev/common_sense/difference-between-markup-and-markdown/ (마크업 vs 마크다운)
 
 provisional
-+ https://www.youtube.com/watch?v=1NrHkjlWVhM (<img src="https://img.shields.io/badge/ENG-253EF5?style=flat-square&logoColor=white"/> how to make markdown blog by nodejs, express, mongodb)
++ https://www.youtube.com/watch?v=1NrHkjlWVhM ( <img src="https://img.shields.io/badge/ENG-253EF5?style=flat-square&logoColor=white"/> how to make markdown blog by nodejs, express, mongodb)
 
 ## HTML
 
