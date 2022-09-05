@@ -20,19 +20,19 @@ Inline, Inline-block, block
 
 Tags
 + https://yunbinni.tistory.com/63     (HTML 모든 태그 정리)
-+ https://docs.emmet.io/cheat-sheet/ (emmet 기능 총정리!)
-+ https://html.spec.whatwg.org/#toc-dom (html tag들 공식문서)
++ https://docs.emmet.io/cheat-sheet/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> emmet 기능 총정리!)
++ https://html.spec.whatwg.org/#toc-dom ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> html tag들 공식문서)
 
 Img
-+ https://placeholder.com/     (임시 이미지 넣어둘 때 활용하면 좋은 API)
-+ https://picsum.photos/  (임시 이미지 넣어둘 때 활용하면 좋은 API)
++ https://placeholder.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 임시 이미지 넣어둘 때 활용하면 좋은 API)
++ https://picsum.photos/  ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 임시 이미지 넣어둘 때 활용하면 좋은 API)
 + https://velog.io/@hustle-dev/%EC%9B%B9-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94 (웹사이트 최적화를 위한 이미지 제언)
 + https://web.dev/fast/#optimize-your-images (optimize your image)
 + https://oliveyoung.tech/blog/2021-11-22/How-to-Improve-Web-Performance-with-Image-Optimization/ (웹사이트 최적화 - 이미지 파트)
 + https://techit.kr/view/?no=20200701213803 (webp is really better than jpeg?)
 
 Text
-+ https://www.lipsum.com/ (임시 text generator)
++ https://www.lipsum.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 임시 text generator)
 + https://hangul.thefron.me/ (임시 text generator 한글판)
 
 font
@@ -40,15 +40,15 @@ font
 
 HTML, HTML5, XHTML, XML
 + http://tcpschool.com/html/html_expand_xhtml (기본적인 XHTML과 HTML5 간의 차이)
-+ https://www.interviewbit.com/blog/difference-between-html-and-xhtml/ (difference between HTML and XHTML - advanced)
-+ https://www.interviewbit.com/html-interview-questions/ (63 HTML interview questions)
-+ https://www.interviewbit.com/blog/difference-between-html-and-xml/ (difference between HTML and XML - advanced)
++ https://www.interviewbit.com/blog/difference-between-html-and-xhtml/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> difference between HTML and XHTML - advanced)
++ https://www.interviewbit.com/html-interview-questions/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 63 HTML interview questions)
++ https://www.interviewbit.com/blog/difference-between-html-and-xml/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> difference between HTML and XML - advanced)
 
 Svg
-+ https://heropatterns.com/ (다양한 svg 태그를 가져올 수 있는 곳)
++ https://heropatterns.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 다양한 svg 태그를 가져올 수 있는 곳)
 
 크로스브라우징
-+ https://caniuse.com/ (기술 호환성 체크 사이트)
++ https://caniuse.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 기술 호환성 체크 사이트)
 
 debug
 + https://ui.toast.com/weekly-pick/ko_20211027 (2021 최신 디버깅도구 - 스타일링)
