@@ -9,6 +9,7 @@
 + https://heropy.blog/2017/09/30/markdown/   (마크다운 총정리)
 + https://gist.github.com/ihoneymon/652be052a0727ad59601   (마크다운 총정리)
 + https://samsara-ku.dev/common_sense/difference-between-markup-and-markdown/ (마크업 vs 마크다운)
++ https://mangkyu.tistory.com/80 (윈도우 새로만들기에 마크다운 추가하기)
 
 provisional
 + https://www.youtube.com/watch?v=1NrHkjlWVhM ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how to make markdown blog by nodejs, express, mongodb)
@@ -90,6 +91,7 @@ Grid
 
 Img
 + https://www.remove.bg/ko     (이미지 배경 쉽게 지우는 웹사이트)
++ https://unsplash.com/ (get free image)
 
 Icon
 + https://fontawesome.com/     (수많은 아이콘 가져오자)
@@ -138,6 +140,9 @@ this
 Object
 + https://geometery-programing.tistory.com/23   (map, filter로 object 가공하기)
 + https://ko.javascript.info/keys-values-entries   (keys, values, entries로 object 가공하기)
+
+Swiper.js
++ https://swiperjs.com/ (모던 터치 슬라이더 라이브러리)
 
 ## Python
 
@@ -263,6 +268,12 @@ branch 생성 및 연동
 ## Front-end
 
 + https://www.youtube.com/user/dongjukim75   (전문 프론트엔드 작업자는 어떻게 작업하는가)
+
+## Design
+
++ https://www.cssdesignawards.com/ (이달의 웹디자인)
++ https://www.awwwards.com/ (오늘의 웹디자인)
++ https://designus.io/topic (A-B 어느게 어떨 때 좋을까요? 디자인 비교)
 
 ## Hosting
 
