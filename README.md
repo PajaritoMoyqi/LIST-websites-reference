@@ -60,11 +60,11 @@ History
 + https://velog.io/@teo/css-history-1 (CSS의 역사)
 
 Guide
-+ https://css-tricks.com/ (다양한 css trick에 대한 가이드 및 재미있는 글들)
-+ http://www.standardista.com/css3/css-specificity/ (css 우선순위에 대한 이해가 아주 잘 가는 사진이 있는 글!)
++ https://css-tricks.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 다양한 css trick에 대한 가이드 및 재미있는 글들)
++ http://www.standardista.com/css3/css-specificity/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> css 우선순위에 대한 이해가 아주 잘 가는 사진이 있는 글!)
 
 Selector
-+ https://flukeout.github.io/ (Selector 재미있게 배우기!)
++ https://flukeout.github.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Selector 재미있게 배우기!)
 
 After & Before
 + https://fromnowwon.tistory.com/entry/css-triangle-bubble (삼각형 그리기)
@@ -73,7 +73,7 @@ Block & Inline
 + https://junistory.blogspot.com/2017/07/html5.html   (Block 요소 및 Inline 요소 리스트)
 
 Color
-+ https://colorhunt.co/   (색상 조합표 list)
++ https://colorhunt.co/   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 색상 조합표 list)
 + https://color.adobe.com/ko/create/color-wheel  (색상 원형 팔레트)
 + https://zetawiki.com/wiki/CSS_%EC%83%89%EC%83%81%EB%AA%85,_X11_%EC%83%89%EC%83%81%EB%AA%85  (색상 명명표)
 
@@ -84,22 +84,22 @@ Flex
 + https://flexboxfroggy.com/#ko (Flexbox 재미있게 배워보아요!)
 
 Form
-+ https://web.dev/learn/forms/ (forms 배우자!)
++ https://web.dev/learn/forms/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> forms 배우자!)
 
 Grid
 + https://heropy.blog/2019/08/17/css-grid/   (Grid 완벽 가이드)
 
 Img
 + https://www.remove.bg/ko     (이미지 배경 쉽게 지우는 웹사이트)
-+ https://unsplash.com/ (get free image)
++ https://unsplash.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> get free image)
 
 Icon
-+ https://fontawesome.com/     (수많은 아이콘 가져오자)
-+ https://www.flaticon.com/icons (get free icons)
++ https://fontawesome.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 수많은 아이콘 가져오자)
++ https://www.flaticon.com/icons ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> get free icons)
 
 Text
 + http://www.tcpschool.com/css/css_basic_text   (text와 관련된 모든 css)
-+ https://www.dafont.com/   (상업 free 영어 폰트)
++ https://www.dafont.com/   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 상업 free 영어 폰트)
 
 Design
 + https://magazinevm.com/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-16%EA%B3%B3-%EA%B5%AD%EB%82%B4-%ED%95%B4%EC%99%B8-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0/ (design benchmarking websites 모음)
@@ -110,14 +110,14 @@ Design
 ## BootStrap and another
 
 BootStrap
-+ https://getbootstrap.com/docs/4.1/getting-started/introduction/ (부트스트랩 documentation)
-+ https://startbootstrap.com/     (부트스트랩을 가지고 좀 더 많은 템플릿을 쓰고 싶을 때)
++ https://getbootstrap.com/docs/4.1/getting-started/introduction/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 부트스트랩 documentation)
++ https://startbootstrap.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 부트스트랩을 가지고 좀 더 많은 템플릿을 쓰고 싶을 때)
 
 MaterialUI
-+ https://mui.com/ (공식 페이지)
++ https://mui.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 공식 페이지)
 
 TailwindCSS
-+ https://tailwindcss.com/ (공식 페이지)
++ https://tailwindcss.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 공식 페이지)
 
 ## Javascript
 
@@ -126,13 +126,13 @@ Javascript
 + https://inpa.tistory.com/ (자바스크립트, HTML, CSS, Node.js 등등 다양한 것들이 들어가 있음)
 
 Beautifier
-+ https://beautifier.io/ (JS, CSS, HTML 한 줄로 된 거 indent 해주는 beautifier 사이트)
++ https://beautifier.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> JS, CSS, HTML 한 줄로 된 거 indent 해주는 beautifier 사이트)
 
 Date
 + https://nowonbun.tistory.com/566   (moment 라이브러리를 사용해 format을 다양하게 활용하는 법)
 
 fetch
-+ https://stackoverflow.com/questions/7346563/loading-local-json-file (local json 파일 불러오기 - fetch)
++ https://stackoverflow.com/questions/7346563/loading-local-json-file ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> local json 파일 불러오기 - fetch)
 
 this
 + https://velog.io/@koseungbin/This-Binding   (this가 경우에 따라 어떻게 바인딩 되는가를 다룬 문서)
@@ -142,7 +142,7 @@ Object
 + https://ko.javascript.info/keys-values-entries   (keys, values, entries로 object 가공하기)
 
 Swiper.js
-+ https://swiperjs.com/ (모던 터치 슬라이더 라이브러리)
++ https://swiperjs.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 모던 터치 슬라이더 라이브러리)
 
 ## Python
 
@@ -161,11 +161,11 @@ npm
 + https://opentutorials.org/module/4571/27567 (npm에 public으로 배포해보자!)
 
 package.json
-+ https://docs.npmjs.com/cli/v8/configuring-npm/package-json (package-json properties 설명)
-+ https://spdx.org/licenses/ (package.json의 license에 쓸 수 있는 목록)
++ https://docs.npmjs.com/cli/v8/configuring-npm/package-json ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> package-json properties 설명)
++ https://spdx.org/licenses/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> package.json의 license에 쓸 수 있는 목록)
 
 pm2
-+ https://pm2.io/docs/runtime/best-practices/environment-variables/ (when you want to update env var)
++ https://pm2.io/docs/runtime/best-practices/environment-variables/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> when you want to update env var)
 
 ## Django
 
@@ -174,11 +174,11 @@ flow
 + https://velog.io/@mini_y/Django-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC (Django flow에 대한 좋은 그림을 가지고 있음)
 
 slug
-+ https://stackoverflow.com/questions/427102/what-is-a-slug-in-django (what is slug - basic)
++ https://stackoverflow.com/questions/427102/what-is-a-slug-in-django ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> what is slug - basic)
 
 venv & virtualenv
 + https://jins-sw.tistory.com/19 (venv 내부동작은 어떻게 될까?)
-+ https://bubtaylor.com/how-pythons-virtualenv-works-f21c298f8061 (how venv works internally?)
++ https://bubtaylor.com/how-pythons-virtualenv-works-f21c298f8061 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how venv works internally?)
 
 ## REACT
 
@@ -188,17 +188,17 @@ venv & virtualenv
 ## VUE
 
 Vue3 변경점
-+ https://v3.vuejs.org/guide/migration/introduction.html#global-api (공식페이지)
++ https://v3.vuejs.org/guide/migration/introduction.html#global-api ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 공식페이지)
 + https://velog.io/@bluestragglr/Vue3-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B0%94%EB%80%8C%EB%82%98%EC%9A%94 (변경점 생기기 전 기준 자세한 설명)
 
 css deep rendering
-+ https://stackoverflow.com/questions/44844788/vue-js-style-v-html-with-scoped-css (두 가지 해결방법)
++ https://stackoverflow.com/questions/44844788/vue-js-style-v-html-with-scoped-css ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 두 가지 해결방법)
 
 htmlWebpackPlugin.options.title
-+ https://stackoverflow.com/questions/62023604/where-to-find-or-how-to-set-htmlwebpackplugin-options-title-in-project-created-w (title 바꾸기)
++ https://stackoverflow.com/questions/62023604/where-to-find-or-how-to-set-htmlwebpackplugin-options-title-in-project-created-w ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> title 바꾸기)
 
 v-model과 selected
-+ https://stackoverflow.com/questions/46772060/vue-selected-prop-not-working-with-v-model (answer: "gives initial value to binded variable")
++ https://stackoverflow.com/questions/46772060/vue-selected-prop-not-working-with-v-model ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> answer: "gives initial value to binded variable")
 
 중첩된 데이터 처리하기
 + https://ui.toast.com/weekly-pick/ko_20190307 (deep, immediate, handler)
@@ -216,16 +216,16 @@ ERD
 + https://mr-dan.tistory.com/10 (제1 정규화부터 제3 정규화까지 조금 더 어렵지만 원론에 충실하게 한 설명 - 어려워서 여러 번 봐야할 것 같음)
 
 JSON
-+ http://json.parser.online.fr/      (보기 어려운 JSON 파싱)
-+ http://www.jsondiff.com/ (두 JSON 파일 비교하기)
++ http://json.parser.online.fr/      ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 보기 어려운 JSON 파싱)
++ http://www.jsondiff.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 두 JSON 파일 비교하기)
 
 SQL
-+ https://sqlbolt.com/lesson/select_queries_order_of_execution (SQL 쿼리문 실행 순서)
-+ https://stackoverflow.com/questions/4596467/order-of-execution-of-the-sql-query (근데 그거 아니 사실 그 순서를 무작정 따르지는 않는단다)
-+ https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/ (근데 그거 아니 사실 그 순서를 무작정 따르지는 않는단다 2)
-+ https://cornswrold.tistory.com/131 (SQL문이 SQL Engine에 닿기까지 - 짧, 한국어)
-+ https://coding-factory.tistory.com/743 (optimizer 자세한 설명 - 한국어)
-+ https://www.jooq.org/translate/ (SQL translator)
++ https://sqlbolt.com/lesson/select_queries_order_of_execution ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> SQL 쿼리문 실행 순서)
++ https://stackoverflow.com/questions/4596467/order-of-execution-of-the-sql-query ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 근데 그거 아니 사실 그 순서를 무작정 따르지는 않는단다)
++ https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 근데 그거 아니 사실 그 순서를 무작정 따르지는 않는단다 2)
++ https://cornswrold.tistory.com/131 (SQL문이 SQL Engine에 닿기까지)
++ https://coding-factory.tistory.com/743 (optimizer 자세한 설명)
++ https://www.jooq.org/translate/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> SQL translator)
 
 MariaDB(SQL)
 + https://hdhdeveloper.tistory.com/61 (MariaDB error 1452 - 외래키 삽입 시 오류가 있는 경우)
@@ -233,14 +233,14 @@ MariaDB(SQL)
 ## PWA
 
 builder
-+ https://www.pwabuilder.com/ (내 웹사이트 PWA 점수 및 필요 파일 Generating)
++ https://www.pwabuilder.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 내 웹사이트 PWA 점수 및 필요 파일 Generating)
 
 ## Linux
 
 Environment Variable
-+ https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/ (how to set and where to set)
-+ https://unix.stackexchange.com/questions/117467/how-to-permanently-set-environmental-variables (where to set)
-+ https://seulcode.tistory.com/546 (where to set 한국어)
++ https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/  <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> (how to set and where to set)
++ https://unix.stackexchange.com/questions/117467/how-to-permanently-set-environmental-variables ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> where to set)
++ https://seulcode.tistory.com/546 (where to set)
 
 Screen Shot
 + https://www.linuxadictos.com/ko/tres-maneras-diferentes-de-hacer-capturas-de-pantalla-en-linux.html (기본적인 스샷 단축키)
