@@ -66,6 +66,9 @@ Guide
 Selector
 + https://flukeout.github.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Selector 재미있게 배우기!)
 
+Animation
++ https://animate.style/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> animate.css)
+
 After & Before
 + https://fromnowwon.tistory.com/entry/css-triangle-bubble (삼각형 그리기)
 
