@@ -308,6 +308,7 @@ favicon maker
 ## VSCode
 
 + https://hianna.tistory.com/550  (화면/메뉴 글자들이 전체적으로 작아졌을 때)
++ https://www.inflearn.com/blogs/2156 (Beautify 더 이상 지원 안 함, 대체품은?)
 
 ## Optimization
 
