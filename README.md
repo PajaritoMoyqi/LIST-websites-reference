@@ -280,7 +280,6 @@ branch 생성 및 연동
 VPS
 + https://www.youtube.com/watch?v=oykl1Ih9pMg   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 배포과정 nodejs)
 + https://www.youtube.com/watch?v=w3RFk35synM   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 배포과정 with nginx)
-
 + https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 노드 프로젝트 호스팅이 가능한 곳 목록)
 
 SSG, SSR, CSR, SPA, TTV, TTI
