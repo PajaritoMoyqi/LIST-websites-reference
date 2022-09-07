@@ -238,7 +238,7 @@ builder
 ## Linux
 
 Environment Variable
-+ https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/  <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> (how to set and where to set)
++ https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how to set and where to set)
 + https://unix.stackexchange.com/questions/117467/how-to-permanently-set-environmental-variables ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> where to set)
 + https://seulcode.tistory.com/546 (where to set)
 
@@ -257,7 +257,7 @@ Github Profile
 + http://blog.cowkite.com/blog/2102241544/   (Github Profile 꾸미기)
 
 Markdown
-+ https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank (깃허브에서는 markdown에 target=_blank를 넣어줄 수 없다)
++ https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 깃허브에서는 markdown에 target=_blank를 넣어줄 수 없다)
 
 branch 생성 및 연동
 + https://goddaehee.tistory.com/274 (간단하게 설명되어 있음)
@@ -271,17 +271,17 @@ branch 생성 및 연동
 
 ## Design
 
-+ https://www.cssdesignawards.com/ (이달의 웹디자인)
-+ https://www.awwwards.com/ (오늘의 웹디자인)
++ https://www.cssdesignawards.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 이달의 웹디자인)
++ https://www.awwwards.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 오늘의 웹디자인)
 + https://designus.io/topic (A-B 어느게 어떨 때 좋을까요? 디자인 비교)
 
 ## Hosting
 
 VPS
-+ https://www.youtube.com/watch?v=oykl1Ih9pMg   (배포과정 nodejs)
-+ https://www.youtube.com/watch?v=w3RFk35synM   (배포과정 with nginx)
++ https://www.youtube.com/watch?v=oykl1Ih9pMg   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 배포과정 nodejs)
++ https://www.youtube.com/watch?v=w3RFk35synM   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 배포과정 with nginx)
 
-+ https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting   (노드 프로젝트 호스팅이 가능한 곳 목록)
++ https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 노드 프로젝트 호스팅이 가능한 곳 목록)
 
 SSG, SSR, CSR, SPA, TTV, TTI
 + https://www.youtube.com/watch?v=iZ9csAfU5Os    (10분 내로 간단 정리)
@@ -296,7 +296,7 @@ BlackHat SEO
 + https://www.youtube.com/watch?v=J2hj2s9gtG4 (블랙햇이란 무엇인가?)
 
 favicon maker
-+ https://favicon.io/ (text도 가능)
++ https://favicon.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> text도 가능)
 
 ## Web Accessibility
 
@@ -304,7 +304,7 @@ favicon maker
 
 ## CDN
 
-+ https://cdnjs.com/ (세상 모든 CDN Search)
++ https://cdnjs.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 세상 모든 CDN Search)
 
 ## VSCode
 
@@ -316,7 +316,7 @@ CLS
 + https://wit.nts-corp.com/2020/12/28/6240 (새로운 웹페이지 성능 측정 지표 - CLS)
 
 Speed Test
-+ https://tools.pingdom.com/ (website speed test)
++ https://tools.pingdom.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> website speed test)
 + https://pagespeed.web.dev/ (website speed test 2)
 
 웹사이트 성능
@@ -334,7 +334,7 @@ Speed Test
 
 코딩 컨벤션
 + https://nuli.navercorp.com/tool/codingCon (네이버 코딩 컨벤션)
-+ https://google.github.io/styleguide/htmlcssguide.html (구글 html/css 코딩 컨벤션)
++ https://google.github.io/styleguide/htmlcssguide.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 구글 html/css 코딩 컨벤션)
 
 실행환경
 + https://ryugod.com/pages/ide/bash (별의별 코딩언어 다 있는 실행환경)
@@ -343,7 +343,7 @@ module, package, library, framwork 차이
 + https://doozi0316.tistory.com/entry/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%ACFramework-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%ACLibrary-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8Plug-in-%EB%AA%A8%EB%93%88Module%EC%9D%98-%EC%B0%A8%EC%9D%B4 (라이브러리와 프레임워크의 차이를 아주 명쾌하게 설명)
 + https://blckchainetc.tistory.com/entry/%EB%AA%A8%EB%93%88-vs-%ED%8C%A8%ED%82%A4%EC%A7%80-vs-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-vs-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC?category=853037 (module, package, library, framwork 차이 간단하게 설명)
 
-+ http://info.cern.ch/ (최초의 웹사이트)
++ http://info.cern.ch/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 최초의 웹사이트)
 
 # 구인구직 / 협업
 
@@ -357,12 +357,12 @@ module, package, library, framwork 차이
 # 놀자 놀아
 
 + https://www.waveon.io/apps/544 (나와 닮은 프로그래밍 언어는?)
-+ https://codingspeedtest.com/ (코딩 스피드 테스트)
++ https://codingspeedtest.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 코딩 스피드 테스트)
 
 # 듣자 들어
 
 + https://www.inflearn.com/ (인프런)
-+ https://www.udemy.com/ (udemy)
++ https://www.udemy.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> udemy)
 
 # 풀자 풀어
 
