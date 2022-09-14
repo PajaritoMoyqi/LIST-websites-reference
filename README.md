@@ -31,6 +31,7 @@ Img
 + https://web.dev/fast/#optimize-your-images (optimize your image)
 + https://oliveyoung.tech/blog/2021-11-22/How-to-Improve-Web-Performance-with-Image-Optimization/ (웹사이트 최적화 - 이미지 파트)
 + https://techit.kr/view/?no=20200701213803 (webp is really better than jpeg?)
++ https://dmdwn3979.tistory.com/10 (lazy loading)
 
 Text
 + https://www.lipsum.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 임시 text generator)
