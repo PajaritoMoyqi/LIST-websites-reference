@@ -33,6 +33,7 @@ Img
 + https://techit.kr/view/?no=20200701213803 (webp is really better than jpeg?)
 + https://dmdwn3979.tistory.com/10 (lazy loading)
 + https://www.shutterstock.com/ko/blog/resize-images-for-web/ (브라우저 이미지 최적화)
++ https://code-masterjung.tistory.com/60 (브라우저 이미지 최적화 2)
 
 Text
 + https://www.lipsum.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 임시 text generator)
