@@ -358,6 +358,10 @@ module, package, library, framwork 차이
 
 + http://info.cern.ch/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 최초의 웹사이트)
 
+# 뉴스News
+
++ https://news.hada.io/ (GeekNews)
+
 # 구인구직 / 협업
 
 + https://www.beginmate.com/   (협업할 사람 구합니다)
