@@ -364,8 +364,21 @@ module, package, library, framwork 차이
 
 # 구인구직 / 협업
 
+## 협업
+
 + https://www.beginmate.com/   (협업할 사람 구합니다)
 + https://discordbot.tistory.com/51 (디코에서 코드 공유하기)
+
+## 채용
+
++ https://korecruit.kr/ (매일 업데이트 되는 IT 채용 일정(korecruIT))
++ https://careerly.co.kr/landing (IT 업계 직장인 커뮤니티, 커리어리)
+
+## 기타
+
++ https://maily.so/leadership100 (한 주간 관심있게 읽었던 코칭, 리더십, 조직문화 그리고 스타트업에 대해 다양한 관점을 공유합니다)
++ https://hr.wanted.co.kr/ (Explore trends, discover insights, Share and learn HR)
++ https://yozm.wishket.com/magazine/ (요즘 사람들의 IT)
 
 # 외주왜쥬
 
