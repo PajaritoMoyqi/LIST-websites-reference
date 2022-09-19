@@ -130,12 +130,17 @@ TailwindCSS
 Javascript
 + https://poiemaweb.com/  (자바스크립트 및 연관된 프레임워크/언어 기초가 초심자에게는 살짝 깊은 정도로 설명되어 있음)
 + https://inpa.tistory.com/ (자바스크립트, HTML, CSS, Node.js 등등 다양한 것들이 들어가 있음)
++ https://ko.javascript.info/intro?map (아직 보진 못했는데 내용이 많이 들어있다. 책과 비슷한 구성)
 
 Beautifier
 + https://beautifier.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> JS, CSS, HTML 한 줄로 된 거 indent 해주는 beautifier 사이트)
 
 Date
 + https://nowonbun.tistory.com/566   (moment 라이브러리를 사용해 format을 다양하게 활용하는 법)
+
+Event
++ https://ifuwanna.tistory.com/289 (preventDefault()와 stopPropagation()의 차이)
++ https://domevents.dev/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Capturing and Bubbling 시각적으로 이해시키는 사이트)
 
 fetch
 + https://stackoverflow.com/questions/7346563/loading-local-json-file ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> local json 파일 불러오기 - fetch)
@@ -379,6 +384,7 @@ module, package, library, framwork 차이
 + https://maily.so/leadership100 (한 주간 관심있게 읽었던 코칭, 리더십, 조직문화 그리고 스타트업에 대해 다양한 관점을 공유합니다)
 + https://hr.wanted.co.kr/ (Explore trends, discover insights, Share and learn HR)
 + https://yozm.wishket.com/magazine/ (요즘 사람들의 IT)
++ https://github.com/EbookFoundation/free-programming-books ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 공짜 ebook 모음집)
 
 # 외주왜쥬
 
