@@ -98,6 +98,7 @@ Grid
 Img
 + https://www.remove.bg/ko     (이미지 배경 쉽게 지우는 웹사이트)
 + https://unsplash.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> get free image)
++ https://stackoverflow.com/questions/34247337/object-fit-not-affecting-images ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> img의 object fit에 대하여)
 
 Icon
 + https://fontawesome.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 수많은 아이콘 가져오자)
