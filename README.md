@@ -78,6 +78,10 @@ After & Before
 Block & Inline
 + https://junistory.blogspot.com/2017/07/html5.html   (Block 요소 및 Inline 요소 리스트)
 
+Checkbox
++ https://www.codingfactory.net/10710 (how to style checkbox)
++ https://css-tricks.com/the-checkbox-hack/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how to style checkbox 2)
+
 Color
 + https://colorhunt.co/   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 색상 조합표 list)
 + https://color.adobe.com/ko/create/color-wheel  (색상 원형 팔레트)
