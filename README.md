@@ -108,6 +108,9 @@ Icon
 + https://fontawesome.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 수많은 아이콘 가져오자)
 + https://www.flaticon.com/icons ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> get free icons)
 
+Speech-bubble
++ https://nicolasgallagher.com/pure-css-speech-bubbles/demo/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> custom speech bubble)
+
 Text
 + http://www.tcpschool.com/css/css_basic_text   (text와 관련된 모든 css)
 + https://www.dafont.com/   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 상업 free 영어 폰트)
