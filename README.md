@@ -104,6 +104,10 @@ Img
 + https://unsplash.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> get free image)
 + https://stackoverflow.com/questions/34247337/object-fit-not-affecting-images ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> img의 object fit에 대하여)
 
+Input 
++ https://stackoverflow.com/questions/28564450/font-weight-500-and-600-not-working-on-input-element ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> input에 font-weight 적용하려면 font-family를 명확하게 명시해줘야 함)
++ https://hianna.tistory.com/435 (input에 글자수 제한하는 두 가지 방법)
+
 Icon
 + https://fontawesome.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 수많은 아이콘 가져오자)
 + https://www.flaticon.com/icons ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> get free icons)
