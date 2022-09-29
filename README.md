@@ -112,6 +112,9 @@ Icon
 + https://fontawesome.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 수많은 아이콘 가져오자)
 + https://www.flaticon.com/icons ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> get free icons)
 
+nth-of-type, nth-child
++ https://stackoverflow.com/questions/29859388/last-of-type-doesnt-work ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> nth-of-type은 class 쓰면 안 된다)
+
 Speech-bubble
 + https://nicolasgallagher.com/pure-css-speech-bubbles/demo/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> custom speech bubble)
 
