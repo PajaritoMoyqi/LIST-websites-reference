@@ -121,6 +121,7 @@ Speech-bubble
 Text
 + http://www.tcpschool.com/css/css_basic_text   (text와 관련된 모든 css)
 + https://www.dafont.com/   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 상업 free 영어 폰트)
++ https://webdir.tistory.com/483 (한 줄 or 여러 줄 글자 자르기/숨기기 총정리)
 
 Design
 + https://magazinevm.com/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-16%EA%B3%B3-%EA%B5%AD%EB%82%B4-%ED%95%B4%EC%99%B8-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0/ (design benchmarking websites 모음)
