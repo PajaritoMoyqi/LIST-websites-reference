@@ -103,6 +103,7 @@ Img
 + https://www.remove.bg/ko     (이미지 배경 쉽게 지우는 웹사이트)
 + https://unsplash.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> get free image)
 + https://stackoverflow.com/questions/34247337/object-fit-not-affecting-images ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> img의 object fit에 대하여)
++ https://webclub.tistory.com/279 (image 너비에 따라 height가 바뀌도록 하기! wow wow wow)
 
 Input 
 + https://stackoverflow.com/questions/28564450/font-weight-500-and-600-not-working-on-input-element ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> input에 font-weight 적용하려면 font-family를 명확하게 명시해줘야 함)
