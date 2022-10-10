@@ -190,6 +190,9 @@ under-bar and under-score
 보안
 + https://m.blog.naver.com/PostView.nhn?blogId=cck223&logNo=221019399455&proxyReferer=https:%2F%2Fwww.google.com%2F (Helmet & Cookie/Session 중심)
 
+image
++ https://www.zerocho.com/category/NodeJS/post/5950a6c4f7934c001894ea83 (node.js express에서 image 업로드하기 - multer)
+
 md in nodejs
 + https://bohyeon-n.github.io/content/node.js/blogIndex.html (md문서 html로 만들고 node.js 서버에 올리기 with ejs)
 
