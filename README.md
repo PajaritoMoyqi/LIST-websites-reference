@@ -226,6 +226,9 @@ venv & virtualenv
 + https://jins-sw.tistory.com/19 (venv 내부동작은 어떻게 될까?)
 + https://bubtaylor.com/how-pythons-virtualenv-works-f21c298f8061 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how venv works internally?)
 
+errors
++ https://ssungkang.tistory.com/entry/Django-class-has-no-objects-member-%EC%97%90%EB%9F%AC (class has no obejcts member error 해결하는 두 가지 방법)
+
 ## REACT
 
 개론
