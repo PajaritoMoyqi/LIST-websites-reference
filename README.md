@@ -191,8 +191,9 @@ under-bar and under-score
 
 ## Node.js
 
-보안
+보안 (helmet, csurf etc)
 + https://m.blog.naver.com/PostView.nhn?blogId=cck223&logNo=221019399455&proxyReferer=https:%2F%2Fwww.google.com%2F (Helmet & Cookie/Session 중심)
++ https://snyk.io/blog/explaining-the-csurf-vulnerability-csrf-attacks-on-all-versions/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> csurf deprecated and how to handle it)
 
 image
 + https://www.zerocho.com/category/NodeJS/post/5950a6c4f7934c001894ea83 (node.js express에서 image 업로드하기 - multer)
