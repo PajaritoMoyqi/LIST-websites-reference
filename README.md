@@ -152,6 +152,9 @@ Javascript
 + https://inpa.tistory.com/ (자바스크립트, HTML, CSS, Node.js 등등 다양한 것들이 들어가 있음)
 + https://ko.javascript.info/intro?map (아직 보진 못했는데 내용이 많이 들어있다. 책과 비슷한 구성)
 
+Ajax
++ https://www.youtube.com/watch?v=82hnvUYY6QA ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Ajax only with vanilla javascript)
+
 Beautifier
 + https://beautifier.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> JS, CSS, HTML 한 줄로 된 거 indent 해주는 beautifier 사이트)
 
