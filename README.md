@@ -214,6 +214,9 @@ package.json
 pm2
 + https://pm2.io/docs/runtime/best-practices/environment-variables/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> when you want to update env var)
 
+res, req
++ https://webcache.googleusercontent.com/search?q=cache:ok-H_I_eyc0J:https://beausty23.tistory.com/68&cd=3&hl=ko&ct=clnk&gl=kr (res.send로 팝업창 띄운 뒤 다시 되돌아오기)
+
 ## Django
 
 db
