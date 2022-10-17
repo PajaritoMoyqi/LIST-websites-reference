@@ -194,6 +194,7 @@ under-bar and under-score
 보안 (helmet, csurf etc)
 + https://m.blog.naver.com/PostView.nhn?blogId=cck223&logNo=221019399455&proxyReferer=https:%2F%2Fwww.google.com%2F (Helmet & Cookie/Session 중심)
 + https://snyk.io/blog/explaining-the-csurf-vulnerability-csrf-attacks-on-all-versions/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> csurf deprecated and how to handle it)
++ https://webcache.googleusercontent.com/search?q=cache:cTrgjfWLOPsJ:https://programmer-eun.tistory.com/125&cd=4&hl=ko&ct=clnk&gl=kr (bcrypt)
 
 ajax
 + https://stackoverflow.com/questions/48659892/how-to-handle-csrf-token-using-xmlhttprequest ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How to send csrf token with ajax)
