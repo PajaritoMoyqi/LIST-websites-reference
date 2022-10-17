@@ -394,6 +394,11 @@ Speed Test
 
 이미지 스프라이트
 
+Network
+
+ip address
++ https://www.ipaddress.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> where is my ip location)
+
 
 ## etc
 
