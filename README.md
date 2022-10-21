@@ -472,3 +472,8 @@ module, package, library, framwork 차이
 + https://swexpertacademy.com/main/main.do (SWEA)
 + https://programmers.co.kr/ (프로그래머스)
 + https://codeup.kr/ (코드업)
+
+# 보쟈보자 어디보자
+
++ htps://www.youtube.com/watch?v=ZGSJsaA3ma4 (전설의 프로그래머 형님들의 '찐' 개발 훈수)
++ https://www.youtube.com/watch?v=FVRXlaC1oZg (개발을 시작한 당신에게 해주고 싶은 이야기)
