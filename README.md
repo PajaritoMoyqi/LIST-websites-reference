@@ -400,7 +400,7 @@ Network
 
 ip address
 + https://www.ipaddress.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> where is my ip location)
-
++ https://www.whatsmydns.net/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> DNS Propagation Checker)
 
 ## etc
 
@@ -475,5 +475,7 @@ module, package, library, framwork 차이
 
 # 보쟈보자 어디보자
 
-+ htps://www.youtube.com/watch?v=ZGSJsaA3ma4 (전설의 프로그래머 형님들의 '찐' 개발 훈수)
-+ https://www.youtube.com/watch?v=FVRXlaC1oZg (개발을 시작한 당신에게 해주고 싶은 이야기)
++ htps://www.youtube.com/watch?v=ZGSJsaA3ma4 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 전설의 프로그래머 형님들의 '찐' 개발 훈수)
++ https://www.youtube.com/watch?v=FVRXlaC1oZg ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 개발을 시작한 당신에게 해주고 싶은 이야기)
++ https://www.youtube.com/watch?v=3hxT4cSm03s ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 주니어 개발자가 빠르게 성장할 수 있는 비법은?)
++ https://www.youtube.com/watch?v=Qc-D9oPKQt4 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 아이디어가 있다구? 창의력을 위한 조언 한마디)
