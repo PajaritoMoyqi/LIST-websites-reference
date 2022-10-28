@@ -204,6 +204,9 @@ under-bar and under-score
 ajax
 + https://stackoverflow.com/questions/48659892/how-to-handle-csrf-token-using-xmlhttprequest ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How to send csrf token with ajax)
 
+fs
++ https://stackoverflow.com/questions/65986153/how-to-make-fs-readfile-async-await ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> fs readfile을 동기적으로 실행하고 싶을 때)
+
 image
 + https://www.zerocho.com/category/NodeJS/post/5950a6c4f7934c001894ea83 (node.js express에서 image 업로드하기 - multer)
 
