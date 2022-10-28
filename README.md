@@ -198,6 +198,9 @@ under-bar and under-score
 + https://webcache.googleusercontent.com/search?q=cache:cTrgjfWLOPsJ:https://programmer-eun.tistory.com/125&cd=4&hl=ko&ct=clnk&gl=kr (bcrypt)
 + https://stackoverflow.com/questions/46408595/content-security-policy-csp-how-to-allow-svg-image-in-object ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> svg Content Security Policy problem)
 
+배포
++ https://blog.ull.im/engineering/2019/03/31/node-js-production-best-practices.html (node 배포 환경을 위한 best practice)
+
 ajax
 + https://stackoverflow.com/questions/48659892/how-to-handle-csrf-token-using-xmlhttprequest ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How to send csrf token with ajax)
 
