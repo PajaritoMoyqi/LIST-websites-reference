@@ -322,6 +322,9 @@ outdated libraries message
 
 ## Git & Github
 
+Confilct
++ https://www.youtube.com/watch?v=mOJazBNrG-c ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 깃허브에서 conflict 해결하기)
+
 Flow
 + https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/ (git-flow, github-flow, gitlab-flow)
 
