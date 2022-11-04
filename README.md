@@ -198,6 +198,7 @@ under-bar and under-score
 + https://webcache.googleusercontent.com/search?q=cache:cTrgjfWLOPsJ:https://programmer-eun.tistory.com/125&cd=4&hl=ko&ct=clnk&gl=kr (bcrypt)
 + https://stackoverflow.com/questions/46408595/content-security-policy-csp-how-to-allow-svg-image-in-object ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> svg Content Security Policy problem)
 + https://tilomitra.medium.com/13-best-practices-to-secure-your-web-application-cc8fcdc352f5 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 13 best practice for node security)
++ https://www.reddit.com/r/node/comments/xkey8g/understanding_the_csrf_vulnerability_in_popular/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> So, if you've installed csurf on your Express app, before you go chasing down some other library, I'd recommend doing an analysis of what real risk CSRF poses to you)
 
 배포
 + https://blog.ull.im/engineering/2019/03/31/node-js-production-best-practices.html (node 배포 환경을 위한 best practice)
