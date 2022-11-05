@@ -109,6 +109,7 @@ Img
 Input 
 + https://stackoverflow.com/questions/28564450/font-weight-500-and-600-not-working-on-input-element ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> input에 font-weight 적용하려면 font-family를 명확하게 명시해줘야 함)
 + https://hianna.tistory.com/435 (input에 글자수 제한하는 두 가지 방법)
++ https://wazacs.tistory.com/33 (custom input file x button)x
 
 Icon
 + https://fontawesome.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 수많은 아이콘 가져오자)
@@ -372,6 +373,9 @@ VPS
 + https://www.youtube.com/watch?v=oykl1Ih9pMg   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 배포과정 nodejs)
 + https://www.youtube.com/watch?v=w3RFk35synM   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 배포과정 with nginx)
 + https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 노드 프로젝트 호스팅이 가능한 곳 목록)
+
+Nginx
++ https://blog.leocat.kr/notes/2020/04/21/nginx-413-request-entity-too-large (413 Request Entity Too Large 해결방법)
 
 SSG, SSR, CSR, SPA, TTV, TTI
 + https://www.youtube.com/watch?v=iZ9csAfU5Os    (10분 내로 간단 정리)
