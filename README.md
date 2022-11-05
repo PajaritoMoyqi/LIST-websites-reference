@@ -416,6 +416,10 @@ ip address
 + https://www.ipaddress.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> where is my ip location)
 + https://www.whatsmydns.net/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> DNS Propagation Checker)
 
+## Security
+
++ https://www.youtube.com/watch?v=Q3YuKipzPbs (Samesite란 무엇이고, CSRF 방어와 어떤 관계인가)
+
 ## etc
 
 RoadMap
