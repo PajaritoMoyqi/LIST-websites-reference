@@ -159,6 +159,9 @@ Ajax
 Beautifier
 + https://beautifier.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> JS, CSS, HTML 한 줄로 된 거 indent 해주는 beautifier 사이트)
 
+cookie
++ https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EC%BF%A0%ED%82%A4Cookie-%EB%8B%A4%EB%A3%A8%EA%B8%B0 (cookie 다루기)
+
 Date
 + https://nowonbun.tistory.com/566   (moment 라이브러리를 사용해 format을 다양하게 활용하는 법)
 
@@ -199,12 +202,17 @@ under-bar and under-score
 + https://stackoverflow.com/questions/46408595/content-security-policy-csp-how-to-allow-svg-image-in-object ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> svg Content Security Policy problem)
 + https://tilomitra.medium.com/13-best-practices-to-secure-your-web-application-cc8fcdc352f5 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 13 best practice for node security)
 + https://www.reddit.com/r/node/comments/xkey8g/understanding_the_csrf_vulnerability_in_popular/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> So, if you've installed csurf on your Express app, before you go chasing down some other library, I'd recommend doing an analysis of what real risk CSRF poses to you)
++ https://www.veracode.com/blog/research/analysis-and-remediation-guidance-csrf-vulnerability-csurf-expressjs-middleware ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 2 way of Remediation of csurf)
++ https://inpa.tistory.com/entry/NODE-%EB%B3%B4%EC%95%88-%F0%9F%93%9A-csurf-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95 (how to use csurf module)
 
 배포
 + https://blog.ull.im/engineering/2019/03/31/node-js-production-best-practices.html (node 배포 환경을 위한 best practice)
 
 ajax
 + https://stackoverflow.com/questions/48659892/how-to-handle-csrf-token-using-xmlhttprequest ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How to send csrf token with ajax)
+
+cookie-parser
++ https://inpa.tistory.com/entry/EXPRESS-%F0%9F%93%9A-bodyParser-cookieParser-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4 (cookie-parser, body-parser에 대한 내용)
 
 fs
 + https://stackoverflow.com/questions/65986153/how-to-make-fs-readfile-async-await ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> fs readfile을 동기적으로 실행하고 싶을 때)
@@ -419,6 +427,8 @@ ip address
 ## Security
 
 + https://www.youtube.com/watch?v=Q3YuKipzPbs (Samesite란 무엇이고, CSRF 방어와 어떤 관계인가)
++ https://www.youtube.com/channel/UC3BZupqBa9CZiNSc0x3lJlg/videos (다양한 웹 보안 짧은 강의들이 많음)
++ https://github.com/pillarjs/understanding-csrf ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> understanding csrf)
 
 ## etc
 
