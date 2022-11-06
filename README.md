@@ -205,6 +205,7 @@ under-bar and under-score
 + https://www.reddit.com/r/node/comments/xkey8g/understanding_the_csrf_vulnerability_in_popular/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> So, if you've installed csurf on your Express app, before you go chasing down some other library, I'd recommend doing an analysis of what real risk CSRF poses to you)
 + https://www.veracode.com/blog/research/analysis-and-remediation-guidance-csrf-vulnerability-csurf-expressjs-middleware ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 2 way of Remediation of csurf)
 + https://inpa.tistory.com/entry/NODE-%EB%B3%B4%EC%95%88-%F0%9F%93%9A-csurf-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95 (how to use csurf module)
++ https://inpa.tistory.com/entry/NODE-%F0%9F%93%9A-bcrypt-%EB%AA%A8%EB%93%88-%EC%9B%90%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95 (bcrypt 원리)
 
 배포
 + https://blog.ull.im/engineering/2019/03/31/node-js-production-best-practices.html (node 배포 환경을 위한 best practice)
@@ -433,6 +434,8 @@ ip address
 + https://www.youtube.com/watch?v=Q3YuKipzPbs (Samesite란 무엇이고, CSRF 방어와 어떤 관계인가)
 + https://www.youtube.com/channel/UC3BZupqBa9CZiNSc0x3lJlg/videos (다양한 웹 보안 짧은 강의들이 많음)
 + https://github.com/pillarjs/understanding-csrf ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> understanding csrf)
++ https://www.zerocho.com/category/NodeJS/post/5a6c347382ee09001b91fb6a (크롬에서는 CORS에 localhost를 넣는 것이 막혀있다!)
++ https://www.youtube.com/watch?v=1w1B0b8_xnI (snyk란 무엇이고 어떻게 사용하는가?)
 
 ## etc
 
