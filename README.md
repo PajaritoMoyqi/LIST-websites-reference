@@ -240,6 +240,9 @@ res, req
 
 ## Django
 
+Summary
++ https://blog.hannal.com/category/start-with-django-webframework/ (great django summary page, deep explanation)
+
 db
 + https://lemonlemon.tistory.com/182 (no such table error)
 
