@@ -209,6 +209,7 @@ under-bar and under-score
 
 배포
 + https://blog.ull.im/engineering/2019/03/31/node-js-production-best-practices.html (node 배포 환경을 위한 best practice)
++ https://jemerald.tistory.com/96, https://calvinjmkim.tistory.com/22 (배포후 node를 업그레이드 했더니 Error: Cannot find module 'semver'가 뜨는 경우)
 
 ajax
 + https://stackoverflow.com/questions/48659892/how-to-handle-csrf-token-using-xmlhttprequest ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How to send csrf token with ajax)
