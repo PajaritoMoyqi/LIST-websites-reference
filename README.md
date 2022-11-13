@@ -116,8 +116,14 @@ Icon
 + https://fontawesome.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 수많은 아이콘 가져오자)
 + https://www.flaticon.com/icons ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> get free icons)
 
+Modal
++ https://penguingoon.tistory.com/249 (how to make basic modal by oneself)
+
 nth-of-type, nth-child
 + https://stackoverflow.com/questions/29859388/last-of-type-doesnt-work ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> nth-of-type은 class 쓰면 안 된다)
+
+Position
++ https://stackoverflow.com/questions/6867244/force-position-absolute-to-be-relative-to-the-document-and-not-the-parent-con ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> position fixed란 무엇인가)
 
 Speech-bubble
 + https://nicolasgallagher.com/pure-css-speech-bubbles/demo/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> custom speech bubble)
@@ -160,6 +166,9 @@ Ajax
 
 Beautifier
 + https://beautifier.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> JS, CSS, HTML 한 줄로 된 거 indent 해주는 beautifier 사이트)
+
+Bubbling & Capturing
++ https://ko.javascript.info/bubbling-and-capturing (버블링, 캡처링 총정리)
 
 cookie
 + https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EC%BF%A0%ED%82%A4Cookie-%EB%8B%A4%EB%A3%A8%EA%B8%B0 (cookie 다루기)
