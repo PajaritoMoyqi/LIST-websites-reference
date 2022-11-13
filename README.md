@@ -95,6 +95,9 @@ Flex
 + https://velog.io/@jary/flex%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%80%EC%9A%B4%EB%8D%B0-%EC%A0%95%EB%A0%AC (수직/수평 정렬)
 + https://flexboxfroggy.com/#ko (Flexbox 재미있게 배워보아요!)
 
+Font
++ https://stackoverflow.com/questions/15249654/chrome-not-respecting-font-weight ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> when font-weight looks like it doesn't work)
+
 Form
 + https://web.dev/learn/forms/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> forms 배우자!)
 
