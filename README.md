@@ -374,6 +374,10 @@ branch 생성 및 연동
 아이디 & 비밀번호 없이 pull/push
 + https://kibua20.tistory.com/88 (아주 많은 방법이 있다)
 
+## Debug
+
++ https://www.youtube.com/watch?v=0lUJvVqSEkY (expose your localhost to the world! ngrok and localtunnel)
+
 ## Front-end
 
 + https://www.youtube.com/user/dongjukim75   (전문 프론트엔드 작업자는 어떻게 작업하는가)
