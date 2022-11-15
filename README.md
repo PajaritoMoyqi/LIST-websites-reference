@@ -122,6 +122,9 @@ Icon
 + https://fontawesome.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 수많은 아이콘 가져오자)
 + https://www.flaticon.com/icons ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> get free icons)
 
+MediaQuery
++ https://www.w3schools.com/css/css3_mediaqueries.asp ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> all media types)
+
 Modal
 + https://penguingoon.tistory.com/249 (how to make basic modal by oneself)
 
@@ -238,6 +241,7 @@ fs
 
 image
 + https://www.zerocho.com/category/NodeJS/post/5950a6c4f7934c001894ea83 (node.js express에서 image 업로드하기 - multer)
++ https://sub0709.tistory.com/158 (how to limit the size of image - multer)
 
 md in nodejs
 + https://bohyeon-n.github.io/content/node.js/blogIndex.html (md문서 html로 만들고 node.js 서버에 올리기 with ejs)
