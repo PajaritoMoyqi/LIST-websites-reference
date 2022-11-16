@@ -451,6 +451,9 @@ Speed Test
 + https://tools.pingdom.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> website speed test)
 + https://pagespeed.web.dev/ (website speed test 2)
 
+Traffic(Bandwidth)
++ https://www.similarweb.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 지난달 웹사이트 방문자수 측정)
+
 웹사이트 성능
 + https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433 (마이리얼트립 웹사이트 성능 측정 및 최적화)
 
