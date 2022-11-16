@@ -234,6 +234,10 @@ under-bar and under-score
 ajax
 + https://stackoverflow.com/questions/48659892/how-to-handle-csrf-token-using-xmlhttprequest ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How to send csrf token with ajax)
 
+compression
++ https://stackoverflow.com/questions/20206771/express-with-node-js-not-compressing-jpeg-images ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Why we can't compress images)
++ https://stackoverflow.com/questions/69461277/express-compress-not-working-in-node-website ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Why we can't compress images - another funtion 1 that helps to get away from this situation)
+
 cookie-parser
 + https://inpa.tistory.com/entry/EXPRESS-%F0%9F%93%9A-bodyParser-cookieParser-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4 (cookie-parser, body-parser에 대한 내용)
 
