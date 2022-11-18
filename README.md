@@ -23,7 +23,8 @@ Tags
 + https://yunbinni.tistory.com/63     (HTML 모든 태그 정리)
 + https://docs.emmet.io/cheat-sheet/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> emmet 기능 총정리!)
 + https://html.spec.whatwg.org/#toc-dom ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> html tag들 공식문서)
-+ https://gist.github.com/lancejpollard/1978404 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> all meta tags)
++ https://gist.github.com/lancejpollard/1978404 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> all meta tags - very long time ago)
++ https://www.metatags.org/all-meta-tags-overview/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> all meta tags 2)
 
 Img
 + https://placeholder.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 임시 이미지 넣어둘 때 활용하면 좋은 API)
