@@ -25,6 +25,7 @@ Tags
 + https://html.spec.whatwg.org/#toc-dom ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> html tag들 공식문서)
 + https://gist.github.com/lancejpollard/1978404 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> all meta tags - very long time ago)
 + https://www.metatags.org/all-meta-tags-overview/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> all meta tags 2)
++ https://developers.google.com/search/docs/advanced/crawling/special-tags?hl=ko&visit_id=638043500683790785-719107215&rd=1 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> meta tags which are valid for google bot)
 
 Img
 + https://placeholder.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 임시 이미지 넣어둘 때 활용하면 좋은 API)
@@ -411,6 +412,10 @@ VPS
 
 Nginx
 + https://blog.leocat.kr/notes/2020/04/21/nginx-413-request-entity-too-large (413 Request Entity Too Large 해결방법)
++ https://serverfault.com/questions/938419/nginx-as-reverse-proxy-with-several-domains-hosts ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> nginx multiple domains with reverse proxy)
+
+DigitalOcean
++ https://www.youtube.com/watch?v=eO1gl7NxZHU ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> digitalocean how to apply multiple domains to droplet)
 
 SSG, SSR, CSR, SPA, TTV, TTI
 + https://www.youtube.com/watch?v=iZ9csAfU5Os    (10분 내로 간단 정리)
