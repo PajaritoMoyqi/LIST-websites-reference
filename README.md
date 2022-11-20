@@ -284,6 +284,9 @@ slug
 template
 + https://docs.djangoproject.com/en/4.1/ref/templates/builtins/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Built-in template tags and filters)
 
+url
++ https://stackoverflow.com/questions/70319606/importerror-cannot-import-name-url-from-django-conf-urls-after-upgrading-to ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> url deprecated error django 3.xx to django 4.xx)
+
 venv & virtualenv
 + https://jins-sw.tistory.com/19 (venv 내부동작은 어떻게 될까?)
 + https://bubtaylor.com/how-pythons-virtualenv-works-f21c298f8061 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how venv works internally?)
