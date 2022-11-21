@@ -278,6 +278,12 @@ flow
 + https://velog.io/@ifyouseeksoomi/Django-%EB%82%B4%EA%B0%80-%EC%9D%B4%ED%95%B4%ED%95%9C-flow-urls.py-views.py-models.py-django-shell (체계적으로 본인이 공부한 views.py, manage.py, urls.py, models.py에 대해 정리함)
 + https://velog.io/@mini_y/Django-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC (Django flow에 대한 좋은 그림을 가지고 있음)
 
+models
++ https://docs.djangoproject.com/en/4.1/ref/models/fields/#field-types (Django field types)
+
+settings
++ https://076923.github.io/posts/Python-Django-3/ (settings.py 파일에 대한 깊은 이해)
+
 slug
 + https://stackoverflow.com/questions/427102/what-is-a-slug-in-django ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> what is slug - basic)
 
