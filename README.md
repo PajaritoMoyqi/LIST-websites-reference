@@ -427,6 +427,17 @@ VPS
 Nginx
 + https://blog.leocat.kr/notes/2020/04/21/nginx-413-request-entity-too-large (413 Request Entity Too Large 해결방법)
 + https://serverfault.com/questions/938419/nginx-as-reverse-proxy-with-several-domains-hosts ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> nginx multiple domains with reverse proxy)
++ https://thoughts.t37.net/nginx-optimization-understanding-sendfile-tcp-nodelay-and-tcp-nopush-c55cdd276765 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> What is sendfile, tcp_nodelay, tcp_nopush?)
++ https://charsyam.wordpress.com/2019/03/14/%EC%9E%85%EA%B0%9C%EB%B0%9C-nagle-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-tcp_cork/ (Nagle 알고리즘과 TCP_CORK)
++ https://stackoverflow.com/questions/22124098/is-there-any-significant-difference-between-tcp-cork-and-tcp-nodelay-in-this-use ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> What's the difference between TCP_CORK and TCP_NODELAY?)
++ https://linux.die.net/man/7/tcp ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Linux TCP 관련 Socket options)
++ https://baus.net/on-tcp_cork/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> About TCP_CORK)
++ https://etloveguitar.tistory.com/137 (persistent connection, keep-alive)
++ https://couplewith.tistory.com/entry/%EA%BF%80%ED%8C%81%EA%B3%A0%EC%84%B1%EB%8A%A5-Nginx%EB%A5%BC%EC%9C%84%ED%95%9C-%ED%8A%9C%EB%8B%9D4-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B0%8F-CPU-%ED%8A%9C%EB%8B%9D%ED%95%98%EA%B8%B0-Processor (Nginx 튜닝 관련 좋은 글이 많다)
++ https://juneyr.dev/nginx-basics (전반적으로 nginx를 잘 이해하고 쓴 것 같은 글)
++ https://narup.tistory.com/238 (nginx reverse proxy setting)
++ https://www.joinc.co.kr/w/man/12/proxy (proxy server)
++ https://learn.microsoft.com/ko-kr/troubleshoot/developer/webapps/aspnetcore/practice-troubleshoot-linux/2-2-install-nginx-configure-it-reverse-proxy (nginx reverse proxy setting 2)
 
 DigitalOcean
 + https://www.youtube.com/watch?v=eO1gl7NxZHU ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> digitalocean how to apply multiple domains to droplet)
