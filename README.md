@@ -438,6 +438,7 @@ Nginx
 + https://narup.tistory.com/238 (nginx reverse proxy setting)
 + https://www.joinc.co.kr/w/man/12/proxy (proxy server)
 + https://learn.microsoft.com/ko-kr/troubleshoot/developer/webapps/aspnetcore/practice-troubleshoot-linux/2-2-install-nginx-configure-it-reverse-proxy (nginx reverse proxy setting 2)
++ https://adguard-vpn.com/ko/blog/vpn-vs-proxy.html (VPN vs Forward Proxy)
 
 DigitalOcean
 + https://www.youtube.com/watch?v=eO1gl7NxZHU ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> digitalocean how to apply multiple domains to droplet)
