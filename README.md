@@ -276,6 +276,9 @@ res, req
 Summary
 + https://blog.hannal.com/category/start-with-django-webframework/ (great django summary page, deep explanation)
 
+admin
++ https://funncy.github.io/django/2020/04/08/django-eb-05/ (배포 후 admin 사용)
+
 db
 + https://lemonlemon.tistory.com/182 (no such table error)
 
@@ -305,12 +308,21 @@ venv & virtualenv
 errors
 + https://ssungkang.tistory.com/entry/Django-class-has-no-objects-member-%EC%97%90%EB%9F%AC (class has no obejcts member error 해결하는 두 가지 방법)
 
-## REACT
+## React.js
 
 개론
 + https://react.vlpt.us/ (기본적인 게 기억 안 날 때)
 
-## VUE
+Render
++ https://d2.naver.com/helloworld/59361 (브라우저는 어떻게 화면을 rendering 하는가)
++ https://meetup.toast.com/posts/110 (React rendering and performance)
+
+Virtual DOM
++ https://saiki.hashnode.dev/the-one-thing-that-no-one-properly-explains-about-react-why-virtual-dom ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> why virtual DOM?)
++ https://ryublock.tistory.com/41 (React and virtual DOM)
++ https://www.geeksforgeeks.org/difference-between-virtual-dom-and-real-dom/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> virtual DOM vs real DOM)
+
+## Vue.js
 
 Vue3 변경점
 + https://v3.vuejs.org/guide/migration/introduction.html#global-api ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 공식페이지)
@@ -496,15 +508,6 @@ Network
 ip address
 + https://www.ipaddress.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> where is my ip location)
 + https://www.whatsmydns.net/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> DNS Propagation Checker)
-
-Render
-+ https://d2.naver.com/helloworld/59361 (브라우저는 어떻게 화면을 rendering 하는가)
-+ https://meetup.toast.com/posts/110 (React rendering and performance)
-
-Virtual DOM
-+ https://saiki.hashnode.dev/the-one-thing-that-no-one-properly-explains-about-react-why-virtual-dom ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> why virtual DOM?)
-+ https://ryublock.tistory.com/41 (React and virtual DOM)
-+ https://www.geeksforgeeks.org/difference-between-virtual-dom-and-real-dom/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> virtual DOM vs real DOM)
 
 ## Security
 
