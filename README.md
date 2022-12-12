@@ -497,6 +497,15 @@ ip address
 + https://www.ipaddress.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> where is my ip location)
 + https://www.whatsmydns.net/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> DNS Propagation Checker)
 
+Render
++ https://d2.naver.com/helloworld/59361 (브라우저는 어떻게 화면을 rendering 하는가)
++ https://meetup.toast.com/posts/110 (React rendering and performance)
+
+Virtual DOM
++ https://saiki.hashnode.dev/the-one-thing-that-no-one-properly-explains-about-react-why-virtual-dom ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> why virtual DOM?)
++ https://ryublock.tistory.com/41 (React and virtual DOM)
++ https://www.geeksforgeeks.org/difference-between-virtual-dom-and-real-dom/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> virtual DOM vs real DOM)
+
 ## Security
 
 + https://www.youtube.com/watch?v=Q3YuKipzPbs (Samesite란 무엇이고, CSRF 방어와 어떤 관계인가)
