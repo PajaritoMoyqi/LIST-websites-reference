@@ -517,6 +517,10 @@ ip address
 + https://www.zerocho.com/category/NodeJS/post/5a6c347382ee09001b91fb6a (크롬에서는 CORS에 localhost를 넣는 것이 막혀있다!)
 + https://www.youtube.com/watch?v=1w1B0b8_xnI (snyk란 무엇이고 어떻게 사용하는가?)
 
+## API
+
++ https://newsapi.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 전세계 뉴스 api)
+
 ## etc
 
 RoadMap
