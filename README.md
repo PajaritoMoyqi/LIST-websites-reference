@@ -408,6 +408,9 @@ Github Profile
 Markdown
 + https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 깃허브에서는 markdown에 target=_blank를 넣어줄 수 없다)
 
+Statistics
++ https://octoverse.github.com/ (github 관련 통계)
+
 branch 생성 및 연동
 + https://goddaehee.tistory.com/274 (간단하게 설명되어 있음)
 
