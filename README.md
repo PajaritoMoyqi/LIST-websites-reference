@@ -390,6 +390,9 @@ outdated libraries message
 
 ## Git & Github
 
+Commit
++ https://meetup.nhncloud.com/posts/106 (좋은 commit message란?)
+
 Confilct
 + https://www.youtube.com/watch?v=mOJazBNrG-c ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 깃허브에서 conflict 해결하기)
 
