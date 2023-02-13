@@ -531,6 +531,14 @@ ip address
 
 + https://newsapi.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 전세계 뉴스 api)
 
+## Coding TEST
+
++ https://www.acmicpc.net/ (백준)
++ https://swexpertacademy.com/main/main.do (SWEA)
++ https://programmers.co.kr/ (프로그래머스)
++ https://codeup.kr/ (코드업)
++ https://www.codetree.ai/ (코테 단계별 학습 도움)
+
 ## etc
 
 RoadMap
@@ -597,13 +605,6 @@ module, package, library, framwork 차이
 
 + https://www.inflearn.com/ (인프런)
 + https://www.udemy.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> udemy)
-
-# 풀자 풀어
-
-+ https://www.acmicpc.net/ (백준)
-+ https://swexpertacademy.com/main/main.do (SWEA)
-+ https://programmers.co.kr/ (프로그래머스)
-+ https://codeup.kr/ (코드업)
 
 # 보쟈보자 어디보자
 
