@@ -216,6 +216,9 @@ etc
 
 ## TypeScript
 
+Roadmap
++ https://github.com/microsoft/typescript/wiki/roadmap ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> TypeScript Roadmap)
+
 REPL
 + https://www.typescriptlang.org/play ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> TypeScript to Javascript)
 
