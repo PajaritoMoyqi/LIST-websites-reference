@@ -245,6 +245,9 @@ under-bar and under-score
 Babel
 + https://babeljs.io/repl ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Babel REPL)
 
+Minifier
++ https://www.minifier.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Javascript and CSS minifier)
+
 ## Node.js
 
 보안 (helmet, csurf etc)
