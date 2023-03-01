@@ -72,6 +72,7 @@ Guide
 
 Selector
 + https://flukeout.github.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Selector 재미있게 배우기!)
++ https://stackoverflow.com/questions/1014861/is-there-a-css-parent-selector?page=1&tab=scoredesc#tab-top ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> ~을 자식으로 가진 element는 아직 지원되지 않는다ㅜ)
 
 Animation
 + https://animate.style/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> animate.css)
