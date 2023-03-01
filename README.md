@@ -278,6 +278,9 @@ cookie-parser
 fs
 + https://stackoverflow.com/questions/65986153/how-to-make-fs-readfile-async-await ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> fs readfile을 동기적으로 실행하고 싶을 때)
 
+gulp
++ https://velopert.com/1344 (build 자동화 도구, gulp - basic)
+
 image
 + https://www.zerocho.com/category/NodeJS/post/5950a6c4f7934c001894ea83 (node.js express에서 image 업로드하기 - multer)
 + https://sub0709.tistory.com/158 (how to limit the size of image - multer)
