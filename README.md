@@ -241,6 +241,7 @@ under-bar and under-score
 
 ## Compiler, Transfiler
 
+Babel
 + https://babeljs.io/repl ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Babel REPL)
 
 ## Node.js
@@ -369,6 +370,7 @@ v-model과 selected
 
 ERD
 + https://inpa.tistory.com/entry/DB-%F0%9F%93%9A-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81-1N-%EA%B4%80%EA%B3%84-%F0%9F%93%88-ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8 (ERD 총정리)
++ https://app.diagrams.net/ (ERD 그리기 편한 곳)
 
 JOIN
 + https://sql-joins.leopard.in.ua/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> JOIN visualizer)
