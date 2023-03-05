@@ -613,8 +613,12 @@ module, package, library, framwork 차이
 
 ## 채용
 
+정보
 + https://korecruit.kr/ (매일 업데이트 되는 IT 채용 일정(korecruIT))
 + https://careerly.co.kr/landing (IT 업계 직장인 커뮤니티, 커리어리)
+
+면접
++ https://www.wanted.co.kr/ai-interview (채용공고 링크를 넣으면 예상질문이 나온다)
 
 ## 기타
 
