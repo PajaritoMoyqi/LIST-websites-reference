@@ -290,6 +290,7 @@ fs
 gulp
 + https://velopert.com/1344 (build 자동화 도구, gulp - basic)
 + https://github.com/gulpjs/gulp/tree/master/docs/recipes ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> gulp recipies (important!))
++ https://programmingsummaries.tistory.com/382 (gulp, browserify, vinyl, stream)
 
 image
 + https://www.zerocho.com/category/NodeJS/post/5950a6c4f7934c001894ea83 (node.js express에서 image 업로드하기 - multer)
