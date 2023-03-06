@@ -251,6 +251,9 @@ under-bar and under-score
 Babel
 + https://babeljs.io/repl ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Babel REPL)
 
+Browserify
++ https://stackoverflow.com/questions/40029113/syntaxerror-import-and-export-may-appear-only-with-sourcetype-module-g ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Browserify 처음 쓰면 다듯 헷갈린다. 혹시나 import 못 쓴다고 하면 plugin 깔아서 babel 이용해서 번역해줘라)
+
 Minifier
 + https://www.minifier.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Javascript and CSS minifier)
 
