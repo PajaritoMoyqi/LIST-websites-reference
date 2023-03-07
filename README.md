@@ -308,6 +308,7 @@ package.json
 
 pm2
 + https://pm2.io/docs/runtime/best-practices/environment-variables/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> when you want to update env var)
++ https://inpa.tistory.com/entry/node-%F0%9F%93%9A-PM2-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%84%9C%EB%B9%84%EC%8A%A4 (pm2 총정리 - Inpa blog)
 
 res, req
 + https://webcache.googleusercontent.com/search?q=cache:ok-H_I_eyc0J:https://beausty23.tistory.com/68&cd=3&hl=ko&ct=clnk&gl=kr (res.send로 팝업창 띄운 뒤 다시 되돌아오기)
