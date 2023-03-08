@@ -617,7 +617,13 @@ module, package, library, framwork 차이
 
 + http://info.cern.ch/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 최초의 웹사이트)
 
-# 뉴스News
+# 글
+
+## 글짓기
+
++ https://developers.google.com/tech-writing ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> google technical writing course)
+
+## 뉴스
 
 + https://news.hada.io/ (GeekNews)
 
