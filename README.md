@@ -436,6 +436,9 @@ SSH
 Terminal
 + https://tecadmin.net/close-terminal-without-killing-running-processes-on-linux/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How to close terminal without killing running processes on Linux)
 
+Watcher
++ https://stackoverflow.com/questions/53930305/nodemon-error-system-limit-for-number-of-file-watchers-reached ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Nodemon Error: System limit for number of file watchers reached)
+
 outdated libraries message
 + https://stackoverflow.com/questions/73397110/how-to-stop-ubuntu-pop-up-daemons-using-outdated-libraries-when-using-apt-to-i ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how to automize it)
 
