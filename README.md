@@ -645,6 +645,8 @@ module, package, library, framwork 차이
 
 면접
 + https://www.wanted.co.kr/ai-interview (채용공고 링크를 넣으면 예상질문이 나온다)
++ https://github.com/gyoogle/tech-interview-for-developer (신입개발자 전공 지식 & 기술 면접 백과사전)
++ https://github.com/JaeYeopHan/Interview_Question_for_Beginner (신입개발자 면접질문)
 
 ## 기타
 
