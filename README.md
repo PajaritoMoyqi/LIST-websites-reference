@@ -581,6 +581,11 @@ ip address
 
 + https://newsapi.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 전세계 뉴스 api)
 
+## Architecture
+
+Encoding
++ https://www.youtube.com/watch?v=1jo6q4dihoU (문자 인코딩, 유니코드, UTF-8이 뭔가요? - 인코딩에 대한 기초 짧은 영상)
+
 ## Coding TEST
 
 + https://www.acmicpc.net/ (백준)
