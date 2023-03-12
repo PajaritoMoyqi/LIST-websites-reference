@@ -597,6 +597,7 @@ Truth Table
 
 RAM
 + https://m.blog.naver.com/ycpiglet/221984934010 (SRAM vs DRAM)
++ https://information-factory.tistory.com/270 (RAM vs ROM)
 
 Relay
 + https://m.blog.naver.com/roboholic84/220460268471 (릴레이란 무엇인가, 기초 원리)
