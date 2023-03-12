@@ -595,6 +595,9 @@ Latch
 Truth Table
 + https://en.wikipedia.org/wiki/Truth_table (binary operation truth table)
 
+RAM
++ https://m.blog.naver.com/ycpiglet/221984934010 (SRAM vs DRAM)
+
 Relay
 + https://m.blog.naver.com/roboholic84/220460268471 (릴레이란 무엇인가, 기초 원리)
 
