@@ -586,6 +586,9 @@ ip address
 Encoding
 + https://www.youtube.com/watch?v=1jo6q4dihoU (문자 인코딩, 유니코드, UTF-8이 뭔가요? - 인코딩에 대한 기초 짧은 영상)
 
+Latch
++ https://gdnn.tistory.com/287 (D Latch 간단한 설명)
+
 Truth Table
 + https://en.wikipedia.org/wiki/Truth_table (binary operation truth table)
 
