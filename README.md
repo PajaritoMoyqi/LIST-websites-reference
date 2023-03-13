@@ -687,6 +687,7 @@ module, package, library, framwork 차이
 
 + https://www.waveon.io/apps/544 (나와 닮은 프로그래밍 언어는?)
 + https://codingspeedtest.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 코딩 스피드 테스트)
++ https://www.thinkful.com/blog/tech-career-quiz/#test ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Which Tech Career Fits You Best?)
 
 # 듣자 들어
 
