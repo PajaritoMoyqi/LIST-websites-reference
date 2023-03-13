@@ -614,6 +614,7 @@ Relay
 
 RoadMap
 + https://roadmap.sh/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 직무별, 스택별 로드맵)
++ https://github.com/datastacktv/data-engineer-roadmap ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 데이터 엔지니어 로드맵)
 
 Beautify
 + https://www.diffchecker.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 코드 간 차이점 비교)
@@ -642,6 +643,7 @@ module, package, library, framwork 차이
 + https://doozi0316.tistory.com/entry/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%ACFramework-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%ACLibrary-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8Plug-in-%EB%AA%A8%EB%93%88Module%EC%9D%98-%EC%B0%A8%EC%9D%B4 (라이브러리와 프레임워크의 차이를 아주 명쾌하게 설명)
 + https://blckchainetc.tistory.com/entry/%EB%AA%A8%EB%93%88-vs-%ED%8C%A8%ED%82%A4%EC%A7%80-vs-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-vs-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC?category=853037 (module, package, library, framwork 차이 간단하게 설명)
 
+first website
 + http://info.cern.ch/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 최초의 웹사이트)
 
 # 글
@@ -650,9 +652,16 @@ module, package, library, framwork 차이
 
 + https://developers.google.com/tech-writing ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> google technical writing course)
 
-## 뉴스
+## 글
 
+News
 + https://news.hada.io/ (GeekNews)
++ https://maily.so/leadership100 (한 주간 관심있게 읽었던 코칭, 리더십, 조직문화 그리고 스타트업에 대해 다양한 관점을 공유합니다)
++ https://hr.wanted.co.kr/ (Explore trends, discover insights, Share and learn HR)
++ https://yozm.wishket.com/magazine/ (요즘 사람들의 IT)
+
+eBook
++ https://github.com/EbookFoundation/free-programming-books ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 공짜 ebook 모음집)
 
 # 구인구직 / 협업
 
@@ -671,13 +680,6 @@ module, package, library, framwork 차이
 + https://www.wanted.co.kr/ai-interview (채용공고 링크를 넣으면 예상질문이 나온다)
 + https://github.com/gyoogle/tech-interview-for-developer (신입개발자 전공 지식 & 기술 면접 백과사전)
 + https://github.com/JaeYeopHan/Interview_Question_for_Beginner (신입개발자 면접질문)
-
-## 기타
-
-+ https://maily.so/leadership100 (한 주간 관심있게 읽었던 코칭, 리더십, 조직문화 그리고 스타트업에 대해 다양한 관점을 공유합니다)
-+ https://hr.wanted.co.kr/ (Explore trends, discover insights, Share and learn HR)
-+ https://yozm.wishket.com/magazine/ (요즘 사람들의 IT)
-+ https://github.com/EbookFoundation/free-programming-books ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 공짜 ebook 모음집)
 
 # 외주왜쥬
 
