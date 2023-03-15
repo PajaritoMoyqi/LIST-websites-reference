@@ -586,6 +586,9 @@ ip address
 Clock
 + https://woodforest.tistory.com/195 (rising edge, falling edge, Q, Q+)
 
+CPU
++ https://www.youtube.com/watch?v=Fg00LN30Ezg (CPU란 무엇인가?)
+
 Encoding
 + https://www.youtube.com/watch?v=1jo6q4dihoU (문자 인코딩, 유니코드, UTF-8이 뭔가요? - 인코딩에 대한 기초 짧은 영상)
 
