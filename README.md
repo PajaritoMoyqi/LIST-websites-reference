@@ -584,6 +584,9 @@ ip address
 
 ## Architecture
 
+Assembly
++ https://godbolt.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 컴파일러별, CPU별 어셈블리 결과 볼 수 있는 사이트)
+
 Clock
 + https://woodforest.tistory.com/195 (rising edge, falling edge, Q, Q+)
 
