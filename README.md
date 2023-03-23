@@ -593,6 +593,9 @@ Clock
 CPU
 + https://www.youtube.com/watch?v=Fg00LN30Ezg (CPU란 무엇인가?)
 
+Digital
++ https://bugoverdose.github.io/computer-science/analog-and-digital/ (왜 디지털인가?)
+
 Encoding
 + https://www.youtube.com/watch?v=1jo6q4dihoU (문자 인코딩, 유니코드, UTF-8이 뭔가요? - 인코딩에 대한 기초 짧은 영상)
 
@@ -601,6 +604,9 @@ GPU
 
 Latch
 + https://gdnn.tistory.com/287 (D Latch 간단한 설명)
+
+Signal
++ https://treeroad.tistory.com/entry/%EC%B0%A8%EB%8F%99-%EC%8B%A0%ED%98%B8%EB%9E%80-differential-input-signal (차동신호란)
 
 Time
 + http://brenocon.com/dean_perf.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> "Numbers Everyone Should Know" from Jeff Dean)
