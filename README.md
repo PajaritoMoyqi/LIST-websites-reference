@@ -602,6 +602,9 @@ GPU
 Latch
 + https://gdnn.tistory.com/287 (D Latch 간단한 설명)
 
+Time
++ http://brenocon.com/dean_perf.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> "Numbers Everyone Should Know" from Jeff Dean)
+
 Truth Table
 + https://en.wikipedia.org/wiki/Truth_table (binary operation truth table)
 
