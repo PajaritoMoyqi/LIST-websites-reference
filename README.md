@@ -669,6 +669,13 @@ first website
 
 ## 글짓기
 
+Patch Note / Release Note
++ https://brunch.co.kr/@ultra0034/80 (패치노트 작성)
++ https://engineering.linecorp.com/ko/blog/write-the-docs-prague-2018-recap/ (Write the Docs Prague 2018 방문기 - 릴리즈 노트 관련 글도 있음)
++ https://www.youtube.com/watch?v=L3yAD319DiU&t=6s (Write the Docs Prague 2018 - Learning to love release notes - Anne Edwards)
++ https://tech.kakaoenterprise.com/113 (Release Note 톺아보기)
+
+Technical Writing
 + https://developers.google.com/tech-writing ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> google technical writing course)
 
 ## 글
