@@ -473,6 +473,7 @@ Github Issues and label
 + https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Tagging Best Practices)
 + https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Sane GitHub Labels)
 + https://github.com/freshpotatoteam/DocsCare/issues/1 (Label 관리 및 적용 가이드 방식 제안)
++ https://velog.io/@rimo09/Github-github-label-%ED%95%9C%EB%B2%88%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0 (라벨 가져오기)
 
 Github Profile
 + http://blog.cowkite.com/blog/2102241544/   (Github Profile 꾸미기)
