@@ -483,7 +483,6 @@ Github Templates
 Github Statistics
 + https://octoverse.github.com/ (github 관련 통계)
 
-
 Markdown
 + https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 깃허브에서는 markdown에 target=_blank를 넣어줄 수 없다)
 
@@ -667,11 +666,6 @@ unminify
 URL
 + https://www.shorturl.at/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> url 짧게 만들기)
 
-기술블로그
-+ https://d2.naver.com/home (naver D2)
-+ https://techblog.woowahan.com/ (우아한형제들)
-+ https://ui.toast.com/posts/ko (TOAST UI)
-
 코딩 컨벤션
 + https://nuli.navercorp.com/tool/codingCon (네이버 코딩 컨벤션)
 + https://google.github.io/styleguide/htmlcssguide.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 구글 html/css 코딩 컨벤션)
@@ -698,6 +692,16 @@ Patch Note / Release Note
 
 Technical Writing
 + https://developers.google.com/tech-writing ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> google technical writing course)
+
+## 기술 블로그
+
++ https://d2.naver.com/home (naver D2)
++ https://techblog.woowahan.com/ (우아한형제들)
++ https://ui.toast.com/posts/ko (TOAST UI)
++ https://tech.kakao.com/blog/ (Kakao Tech)
++ https://medium.com/coupang-engineering/kr/home (쿠팡 엔지니어링)
++ https://medium.com/watcha (WATCHA 팀 블로그)
++ https://helloworld.kurly.com/ (Kurly Tech Blog)
 
 ## 글
 
