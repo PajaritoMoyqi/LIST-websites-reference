@@ -237,6 +237,9 @@ REPL
 args, kwargs
 + https://brunch.co.kr/@princox/180 (*args, *kwargs 누구냐 너흰)
 
+Big-O and Complexity
++ https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt
+
 module
 + https://jins-sw.tistory.com/17 (sys.path 누구냐 넌)
 
@@ -245,6 +248,7 @@ super
 
 under-bar and under-score
 + https://eine.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90%EC%84%9C-%EC%96%B8%EB%8D%94%EB%B0%94%EC%96%B8%EB%8D%94%EC%8A%A4%EC%BD%94%EC%96%B4-%EC%9D%98-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%97%AD%ED%95%A0 (파이썬에서의 언더바와 언더스코어의 의미 차이)
+
 
 ## Compiler, Transfiler
 
