@@ -690,6 +690,10 @@ News
 eBook
 + https://github.com/EbookFoundation/free-programming-books ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 공짜 ebook 모음집)
 
+## English
+
++ https://www.philinlove.com/entry/punctuation-marks (특수기호 영어로)
+
 # 구인구직 / 협업
 
 ## 협업
