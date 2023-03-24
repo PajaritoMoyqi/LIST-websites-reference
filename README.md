@@ -629,6 +629,9 @@ RAM
 Relay
 + https://m.blog.naver.com/roboholic84/220460268471 (릴레이란 무엇인가, 기초 원리)
 
+etc
++ https://github.com/kangtegong/self-learning-cs (책 "혼자 공부하는 컴퓨터구조 + 운영체제" 추가자료 및 issue용 github repository)
+
 ## Coding TEST
 
 + https://www.acmicpc.net/ (백준)
