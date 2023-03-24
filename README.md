@@ -449,17 +449,11 @@ outdated libraries message
 
 ## Git & Github
 
-Achievement
-+ https://github.com/drknzz/GitHub-Achievements (github Achievements and Badge 기준)
-
 Commit
 + https://meetup.nhncloud.com/posts/106 (좋은 commit message란?)
 
 Confilct
 + https://www.youtube.com/watch?v=mOJazBNrG-c ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 깃허브에서 conflict 해결하기)
-
-Extensions
-+ https://inpa.tistory.com/entry/GitHub-%F0%9F%8F%9B%EF%B8%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EA%B9%83%ED%97%99-%ED%81%AC%EB%A1%AC-%EC%9D%B5%EC%8A%A4%ED%85%90%EC%85%98-%F0%9F%A7%A9-%EB%AA%A8%EC%9D%8C (유용한 깃헙 익스텐션 모음)
 
 Flow
 + https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/ (git-flow, github-flow, gitlab-flow)
@@ -468,14 +462,30 @@ Flow
 Git
 + https://www.toptal.com/developers/gitignore (프로젝트에 따른 gitignore 자동생성)
 
+Github Achievement
++ https://github.com/drknzz/GitHub-Achievements (github Achievements and Badge 기준)
+
+Github Extensions
++ https://inpa.tistory.com/entry/GitHub-%F0%9F%8F%9B%EF%B8%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EA%B9%83%ED%97%99-%ED%81%AC%EB%A1%AC-%EC%9D%B5%EC%8A%A4%ED%85%90%EC%85%98-%F0%9F%A7%A9-%EB%AA%A8%EC%9D%8C (유용한 깃헙 익스텐션 모음)
+
+Github Issues and label
++ https://rewind.com/blog/best-practices-for-using-github-issues/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> github issue labeling best practice)
++ https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Tagging Best Practices)
++ https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Sane GitHub Labels)
++ https://github.com/freshpotatoteam/DocsCare/issues/1 (Label 관리 및 적용 가이드 방식 제안)
+
 Github Profile
 + http://blog.cowkite.com/blog/2102241544/   (Github Profile 꾸미기)
 
+Github Templates
++ https://lusida-coding.tistory.com/140 (깃허브 pull request와 issue template 만드는 방법!)
+
+Github Statistics
++ https://octoverse.github.com/ (github 관련 통계)
+
+
 Markdown
 + https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 깃허브에서는 markdown에 target=_blank를 넣어줄 수 없다)
-
-Statistics
-+ https://octoverse.github.com/ (github 관련 통계)
 
 branch 생성 및 연동
 + https://goddaehee.tistory.com/274 (간단하게 설명되어 있음)
