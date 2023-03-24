@@ -42,7 +42,7 @@ Text
 + https://www.lipsum.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 임시 text generator)
 + https://hangul.thefron.me/ (임시 text generator 한글판)
 
-font
+Font
 + https://noonnu.cc/ (용도별 한글 폰트 추천)
 
 HTML, HTML5, XHTML, XML
@@ -63,7 +63,7 @@ debug
 
 ## CSS
 
-compressor
+Compressor
 + https://csscompressor.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> css compressor)
 
 History
@@ -456,6 +456,7 @@ Extensions
 
 Flow
 + https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/ (git-flow, github-flow, gitlab-flow)
++ https://www.inbogi.com/bok/2020/04/1/ (git flow naming convention)
 
 Git
 + https://www.toptal.com/developers/gitignore (프로젝트에 따른 gitignore 자동생성)
