@@ -484,6 +484,9 @@ Github Templates
 Github Statistics
 + https://octoverse.github.com/ (github 관련 통계)
 
+Github Status
++ https://www.githubstatus.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> github 상태 실시간 업데이트, 오류가 일반적인 방버으로 해결되지 않는다면)
+
 Markdown
 + https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 깃허브에서는 markdown에 target=_blank를 넣어줄 수 없다)
 
