@@ -773,6 +773,8 @@ News
 + https://maily.so/leadership100 (한 주간 관심있게 읽었던 코칭, 리더십, 조직문화 그리고 스타트업에 대해 다양한 관점을 공유합니다)
 + https://hr.wanted.co.kr/ (Explore trends, discover insights, Share and learn HR)
 + https://yozm.wishket.com/magazine/ (요즘 사람들의 IT)
++ https://techblogposts.com/ (기술블로그 글 모음)
++ https://www.codenary.co.kr/techblog/list (코드너리)
 
 eBook
 + https://github.com/EbookFoundation/free-programming-books ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 공짜 ebook 모음집)
