@@ -458,6 +458,7 @@ Confilct
 Flow
 + https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/ (git-flow, github-flow, gitlab-flow)
 + https://www.inbogi.com/bok/2020/04/1/ (git flow naming convention)
++ https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow (git workflow)
 
 Git
 + https://www.toptal.com/developers/gitignore (프로젝트에 따른 gitignore 자동생성)
