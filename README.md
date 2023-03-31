@@ -3,6 +3,64 @@
 언어 표시가 안 된 글들은 한글로 된 글들입니다.
 <div style="text-align: right"> - By   Pajarito Moyqi </div>
 
+언어
+
+- [MARKDOWN](#MARKDOWN)
+- [HTML](#HTML)
+- [CSS](#CSS)
+- [BootStrap and another](#BootStrap-and-another)
+- [Javascript](#Javascript)
+- [TypeScript](#TypeScript)
+- [Python](#Python)
+- [Compiler, Transfiler](#Compiler,-Transfiler)
+- [Node.js](#Node.js)
+- [Django](#Django)
+- [React.js](#React.js)
+- [Vue.js](#Vue.js)
+
+프로그래밍 주변부
+
+- [Data](#Data)
+- [PWA](#PWA)
+- [Linux](#Linux)
+- [Git & Github](#Git-&-Github)
+- [Debug](#Debug)
+- [Front-end](#Front-end)
+- [Design](#Design)
+- [Hosting](#Hosting)
+- [SEO](#SEO)
+- [Web Accessibility](#Web-Accessibility)
+- [CDN](#CDN)
+- [VSCode](#VSCode)
+- [Optimization](#Optimization)
+- [Security](#Security)
+- [API](#API)
+- [Architecture](#Architecture)
+- [Coding TEST](#Coding-TEST)
+- [etc](#etc)
+
+글
+
+- [글짓기](#글짓기)
+- [기술 블로그](#기술-블로그)
+- [글](#글)
+- [English](#English)
+
+구인구직 / 협업
+
+- [협업](#협업)
+- [채용](#채용)
+
+콘텐츠
+
+- [외주왜쥬](#외주왜쥬)
+- [놀자놀아](#놀자놀아)
+- [듣자들어](#듣자들어)
+- [보쟈보자어디보자](#보쟈보자어디보자)
+
+
+# 언어
+
 ## MARKDOWN
 
 마크다운
@@ -390,6 +448,9 @@ v-model과 selected
 
 기타
 + https://jess2.xyz/vue/vue-tip/ (실무에 적용하면 좋은 내용 정리)
+
+
+# 프로그래밍 주변부
 
 ## Data
 
@@ -802,26 +863,29 @@ eBook
 + https://github.com/gyoogle/tech-interview-for-developer (신입개발자 전공 지식 & 기술 면접 백과사전)
 + https://github.com/JaeYeopHan/Interview_Question_for_Beginner (신입개발자 면접질문)
 
-# 외주왜쥬
+
+# 콘텐츠
+
+## 외주왜쥬
 
 
 
-# 놀자 놀아
+## 놀자놀아
 
 + https://www.waveon.io/apps/544 (나와 닮은 프로그래밍 언어는?)
 + https://codingspeedtest.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 코딩 스피드 테스트)
 + https://www.thinkful.com/blog/tech-career-quiz/#test ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Which Tech Career Fits You Best?)
 
-# 듣자 들어
+## 듣자들어
 
 + https://www.inflearn.com/ (인프런)
 + https://www.udemy.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> udemy)
 + http://www.kmooc.kr/ (k-mooc)
 + http://www.kocw.or.kr/home/index.do (kocw 모두를 위한 열린 강좌)
 
-# 보쟈보자 어디보자
+## 보쟈보자어디보자
 
-+ htps://www.youtube.com/watch?v=ZGSJsaA3ma4 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 전설의 프로그래머 형님들의 '찐' 개발 훈수)
++ https://www.youtube.com/watch?v=ZGSJsaA3ma4 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 전설의 프로그래머 형님들의 '찐' 개발 훈수)
 + https://www.youtube.com/watch?v=FVRXlaC1oZg ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 개발을 시작한 당신에게 해주고 싶은 이야기)
 + https://www.youtube.com/watch?v=3hxT4cSm03s ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 주니어 개발자가 빠르게 성장할 수 있는 비법은?)
 + https://www.youtube.com/watch?v=Qc-D9oPKQt4 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 아이디어가 있다구? 창의력을 위한 조언 한마디)
