@@ -3,6 +3,12 @@
 언어 표시가 안 된 글들은 한글로 된 글들입니다.
 <div style="text-align: right"> - By   Pajarito Moyqi </div>
 
+<br>
+
+***
+
+# 목차
+
 언어
 
 - [MARKDOWN](#MARKDOWN)
@@ -12,7 +18,7 @@
 - [Javascript](#Javascript)
 - [TypeScript](#TypeScript)
 - [Python](#Python)
-- [Compiler, Transfiler](#Compiler,-Transfiler)
+- [Compiler, Transfiler](#Compiler-and-Transfiler)
 - [Node.js](#Node.js)
 - [Django](#Django)
 - [React.js](#React.js)
@@ -23,7 +29,7 @@
 - [Data](#Data)
 - [PWA](#PWA)
 - [Linux](#Linux)
-- [Git & Github](#Git-&-Github)
+- [Git & Github](#Git-and-Github)
 - [Debug](#Debug)
 - [Front-end](#Front-end)
 - [Design](#Design)
@@ -57,6 +63,8 @@
 - [놀자놀아](#놀자놀아)
 - [듣자들어](#듣자들어)
 - [보쟈보자어디보자](#보쟈보자어디보자)
+
+***
 
 
 # 언어
@@ -308,7 +316,7 @@ under-bar and under-score
 + https://eine.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90%EC%84%9C-%EC%96%B8%EB%8D%94%EB%B0%94%EC%96%B8%EB%8D%94%EC%8A%A4%EC%BD%94%EC%96%B4-%EC%9D%98-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%97%AD%ED%95%A0 (파이썬에서의 언더바와 언더스코어의 의미 차이)
 
 
-## Compiler, Transfiler
+## Compiler and Transfiler
 
 Babel
 + https://babeljs.io/repl ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Babel REPL)
@@ -508,7 +516,7 @@ Watcher
 outdated libraries message
 + https://stackoverflow.com/questions/73397110/how-to-stop-ubuntu-pop-up-daemons-using-outdated-libraries-when-using-apt-to-i ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how to automize it)
 
-## Git & Github
+## Git and Github
 
 Commit
 + https://meetup.nhncloud.com/posts/106 (좋은 commit message란?)
