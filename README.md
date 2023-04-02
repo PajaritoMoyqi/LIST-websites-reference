@@ -73,7 +73,6 @@
 
 마크다운
 + https://heropy.blog/2017/09/30/markdown/   (마크다운 총정리)
-+ https://gist.github.com/ihoneymon/652be052a0727ad59601   (마크다운 총정리)
 + https://samsara-ku.dev/common_sense/difference-between-markup-and-markdown/ (마크업 vs 마크다운)
 + https://mangkyu.tistory.com/80 (윈도우 새로만들기에 마크다운 추가하기)
 
@@ -559,6 +558,9 @@ Github Status
 
 Markdown
 + https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 깃허브에서는 markdown에 target=_blank를 넣어줄 수 없다)
+
+Naming
++ https://blog.ull.im/engineering/2019/03/10/logs-on-git.html (좋은 git commit 메시지를 위한 영어 사전)
 
 branch 생성 및 연동
 + https://goddaehee.tistory.com/274 (간단하게 설명되어 있음)
