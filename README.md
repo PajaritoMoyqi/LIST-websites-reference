@@ -680,6 +680,9 @@ ip address
 Assembly
 + https://godbolt.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 컴파일러별, CPU별 어셈블리 결과 볼 수 있는 사이트)
 
+Capacitor(Condenser)
++ https://www.youtube.com/watch?v=oD4R0dG6qoQ (콘덴서에 대한 설명)
+
 Clock
 + https://woodforest.tistory.com/195 (rising edge, falling edge, Q, Q+)
 
@@ -695,8 +698,25 @@ Encoding
 GPU
 + https://www.youtube.com/watch?v=ZdITviTD3VM (GPU란 무엇인가?)
 
+IC
++ https://www.youtube.com/watch?v=g8Qav3vIv9s ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How are microchips made?)
+
 Latch
 + https://gdnn.tistory.com/287 (D Latch 간단한 설명)
++ https://www.youtube.com/watch?v=nL7d2_4TYZk ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> SR Latch)
+
+Logic Gate
++ https://sebastian.itch.io/digital-logic-sim ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Digital Logic Sim)
+
+Memory
++ https://m.blog.naver.com/ycpiglet/221984934010 (SRAM vs DRAM)
++ https://information-factory.tistory.com/270 (RAM vs ROM)
++ https://www.youtube.com/watch?v=paQ3zIsz1-8 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 자기 코어 메모리 직접 보기!)
++ https://www.youtube.com/watch?v=YnnGbcM-H8c ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> show how keypunch card punches!)
++ https://www.youtube.com/watch?v=KG2M4ttzBnY ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 천공카드 이야기)
++ https://www.youtube.com/watch?v=XS3UBuZ7D34 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How magnetic drum memory works)
++ https://www.youtube.com/watch?v=9XJapKLq_6k ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Computer History: Memory & Storage 1950-1985 - (Core, disc, vacuum tube, etc.))
++ https://www.youtube.com/watch?v=I0-izyq6q5s ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How Do Computers Remember? - 엄청난 영상!!)
 
 Signal
 + https://treeroad.tistory.com/entry/%EC%B0%A8%EB%8F%99-%EC%8B%A0%ED%98%B8%EB%9E%80-differential-input-signal (차동신호란)
@@ -704,12 +724,12 @@ Signal
 Time
 + http://brenocon.com/dean_perf.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> "Numbers Everyone Should Know" from Jeff Dean)
 
+Transistor
++ https://www.youtube.com/shorts/EACjoPZPYzI ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> What is transistor)
+https://www.youtube.com/watch?v=T1eMKml3iE0 (트랜지스터 설명)
+
 Truth Table
 + https://en.wikipedia.org/wiki/Truth_table (binary operation truth table)
-
-RAM
-+ https://m.blog.naver.com/ycpiglet/221984934010 (SRAM vs DRAM)
-+ https://information-factory.tistory.com/270 (RAM vs ROM)
 
 Relay
 + https://m.blog.naver.com/roboholic84/220460268471 (릴레이란 무엇인가, 기초 원리)
