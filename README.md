@@ -877,10 +877,15 @@ eBook
 
 # 구인구직 / 협업
 
+## 검색
+
++ https://www.phind.com/ (신박한 개발자용 검색엔진)
+
 ## 협업
 
 + https://www.beginmate.com/   (협업할 사람 구합니다)
 + https://discordbot.tistory.com/51 (디코에서 코드 공유하기)
++ https://eatdrinkenjoy.tistory.com/678 (노션 특정 페이지만 공유하기)
 
 ## 채용
 
