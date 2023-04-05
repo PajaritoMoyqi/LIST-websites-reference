@@ -692,6 +692,9 @@ CPU
 Digital
 + https://bugoverdose.github.io/computer-science/analog-and-digital/ (왜 디지털인가?)
 
+Diode
++ https://www.youtube.com/watch?v=RI3uH0eo6ek (다이오드 설명)
+
 Encoding
 + https://www.youtube.com/watch?v=1jo6q4dihoU (문자 인코딩, 유니코드, UTF-8이 뭔가요? - 인코딩에 대한 기초 짧은 영상)
 
