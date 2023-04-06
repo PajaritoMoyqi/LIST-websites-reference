@@ -298,6 +298,7 @@ REPL
 
 + https://jins-sw.tistory.com/category/Python (Python 카테고리 글이 상당히 양질인 블로그)
 + https://www.youtube.com/watch?v=hz7ipeH5Dug ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Python is weird)
++ https://pythontutor.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> visualizing code execution)
 
 args, kwargs
 + https://brunch.co.kr/@princox/180 (*args, *kwargs 누구냐 너흰)
