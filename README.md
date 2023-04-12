@@ -678,6 +678,8 @@ ip address
 
 ## Architecture
 
++ https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Computation Structures, MIT open course)
+
 Assembly
 + https://godbolt.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 컴파일러별, CPU별 어셈블리 결과 볼 수 있는 사이트)
 
@@ -704,6 +706,7 @@ GPU
 
 IC
 + https://www.youtube.com/watch?v=g8Qav3vIv9s ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How are microchips made?)
++ https://www.youtube.com/watch?v=1VPFWeRisz4&list=PLrJcoRcsaj2t-dbXH8A3KZaZTjFDNfBgB (디지털집적회로설계 강의 재생목록 미쳤다!)
 
 Latch
 + https://gdnn.tistory.com/287 (D Latch 간단한 설명)
@@ -721,6 +724,16 @@ Memory
 + https://www.youtube.com/watch?v=XS3UBuZ7D34 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How magnetic drum memory works)
 + https://www.youtube.com/watch?v=9XJapKLq_6k ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Computer History: Memory & Storage 1950-1985 - (Core, disc, vacuum tube, etc.))
 + https://www.youtube.com/watch?v=I0-izyq6q5s ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How Do Computers Remember? - 엄청난 영상!!)
++ https://www.youtube.com/watch?v=xS4RmkvE_d4 (SRAM DRAM 플래시메모리 동작 원리)
++ https://www.materialssquare.com/blog/semiconductor-memory-dram (메모리 반도체는 어떻게 데이터를 저장할까? [Part. 1 DRAM] - transistor 단위)
++ https://www.materialssquare.com/blog/semiconductor-flash-memory (메모리 반도체는 어떻게 데이터를 저장할까? [Part. 2 Flash Memory, New Memory] - transistor 단위)
++ https://blog.naver.com/PostView.nhn?blogId=durian0328&logNo=222245268881&parentCategoryNo=&categoryNo=16&viewDate=&isShowPopularPosts=false&from=postView (DRAM, SRAM, NAND flash 비교)
+
+Resistor
++ https://www.youtube.com/watch?v=JJGdXT846f0 (저항기 설명)
+
+Semiconductor
++ https://www.youtube.com/playlist?list=PLm7kUQYfvIRP0l66keVy-DZ0vhTi7jOII (반도체 전공면접 한 번에 통과하기 - 시대에듀 재생목록 미쳤따!!!! -> 대학 강의보다는 더 쉬운 느낌)
 
 Signal
 + https://treeroad.tistory.com/entry/%EC%B0%A8%EB%8F%99-%EC%8B%A0%ED%98%B8%EB%9E%80-differential-input-signal (차동신호란)
@@ -740,6 +753,16 @@ Relay
 
 etc
 + https://github.com/kangtegong/self-learning-cs (책 "혼자 공부하는 컴퓨터구조 + 운영체제" 추가자료 및 issue용 github repository)
+
+## Device
+
+keyboard
++ https://www.youtube.com/watch?v=RGUvUf9YfFw (키보드의 이해: 고스트키란 무엇인가)
+
+mouse
++ https://www.youtube.com/watch?v=SAaESb4wTCM ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How does a Mouse know when you move it? || How Does a Computer Mouse Work?)
++ https://www.youtube.com/watch?v=-HVKm5fIUA8 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How do computer mice work? 🖱🖱 || Scroll Wheels)
+
 
 ## Coding TEST
 
