@@ -518,6 +518,9 @@ outdated libraries message
 
 ## Git and Github
 
+Actions
++ https://www.youtube.com/playlist?list=PLDZRZwFT9Wkt19Ox35Ir2A7CyNIWG96Nm (github actions 초보자용 - Microsoft Developer Korea)
+
 Commit
 + https://meetup.nhncloud.com/posts/106 (좋은 commit message란?)
 
