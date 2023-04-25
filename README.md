@@ -318,6 +318,9 @@ under-bar and under-score
 
 ## Compiler and Transfiler
 
+Compiler
++ https://ideone.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> oneline compiler)
+
 Babel
 + https://babeljs.io/repl ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Babel REPL)
 
