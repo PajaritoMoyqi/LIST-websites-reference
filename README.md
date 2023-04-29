@@ -688,6 +688,11 @@ ip address
 
 Assembly
 + https://godbolt.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 컴파일러별, CPU별 어셈블리 결과 볼 수 있는 사이트)
++ https://www.youtube.com/playlist?list=PL0M0Rj5S0RUwXH-3RhBipvfUHYVkA2FPw (유튜브 강의 배은태-어셈블리 언어)
++ https://store.steampowered.com/app/375820/Human_Resource_Machine/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> steam game - human resource machine)
++ https://store.steampowered.com/app/370360/TIS100/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> steam game - TIS-100)
++ https://www.inflearn.com/course/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EB%B0%B0%EC%9A%B0%EA%B8%B0 (인프런 강좌 - 어셈블리어 배우기)
++ https://pacman128.github.io/static/pcasm-book-korean.pdf (PC 어셈블리어 번역본)
 
 Capacitor(Condenser)
 + https://www.youtube.com/watch?v=oD4R0dG6qoQ (콘덴서에 대한 설명)
@@ -706,6 +711,9 @@ Diode
 
 Encoding
 + https://www.youtube.com/watch?v=1jo6q4dihoU (문자 인코딩, 유니코드, UTF-8이 뭔가요? - 인코딩에 대한 기초 짧은 영상)
+
+Gate
++ https://logic.ly/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> logic gate 설계 해볼 수 있는 사이트)
 
 GPU
 + https://www.youtube.com/watch?v=ZdITviTD3VM (GPU란 무엇인가?)
