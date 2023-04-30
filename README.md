@@ -42,6 +42,7 @@
 - [Security](#Security)
 - [API](#API)
 - [Architecture](#Architecture)
+- [Device](#Device)
 - [Coding TEST](#Coding-TEST)
 - [etc](#etc)
 
@@ -50,6 +51,7 @@
 - [글짓기](#글짓기)
 - [기술 블로그](#기술-블로그)
 - [글](#글)
+- [책 및 강좌 추천](#책-및-강좌-추천)
 - [English](#English)
 
 구인구직 / 협업
@@ -898,7 +900,6 @@ Technical Writing
 + https://tech.ebayinc.com/ (ebay Tech Blog)
 + https://medium.com/platfarm (mojitok)
 
-
 ## 글
 
 News
@@ -908,6 +909,11 @@ News
 + https://yozm.wishket.com/magazine/ (요즘 사람들의 IT)
 + https://techblogposts.com/ (기술블로그 글 모음)
 + https://www.codenary.co.kr/techblog/list (코드너리)
+
+## 책 및 강좌 추천
+
++ http://egloos.zum.com/dreamform/v/2807474 (CS, Architecture 쪽에 집중된 책 추천)
++ https://itguava.tistory.com/8 (OS 만들기 책 추천)
 
 eBook
 + https://github.com/EbookFoundation/free-programming-books ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 공짜 ebook 모음집)
