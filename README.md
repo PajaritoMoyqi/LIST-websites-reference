@@ -695,6 +695,7 @@ Assembly
 + https://store.steampowered.com/app/370360/TIS100/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> steam game - TIS-100)
 + https://www.inflearn.com/course/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EB%B0%B0%EC%9A%B0%EA%B8%B0 (인프런 강좌 - 어셈블리어 배우기)
 + https://pacman128.github.io/static/pcasm-book-korean.pdf (PC 어셈블리어 번역본)
++ https://jakupsil.tistory.com/33 (Assembly 파일 확장자 .s와 .S는 다르다!)
 
 Capacitor(Condenser)
 + https://www.youtube.com/watch?v=oD4R0dG6qoQ (콘덴서에 대한 설명)
