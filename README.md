@@ -780,6 +780,10 @@ mouse
 + https://www.youtube.com/watch?v=SAaESb4wTCM ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How does a Mouse know when you move it? || How Does a Computer Mouse Work?)
 + https://www.youtube.com/watch?v=-HVKm5fIUA8 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How do computer mice work? 🖱🖱 || Scroll Wheels)
 
+## Rasberry PI
+
++ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=roboholic84&logNo=220356487482 (라즈베리파이 악세사리 간단한 소개)
+
 
 ## Coding TEST
 
