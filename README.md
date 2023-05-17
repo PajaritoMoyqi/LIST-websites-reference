@@ -11,6 +11,7 @@
 
 언어
 
+- [GUIDE](#GUIDE)
 - [MARKDOWN](#MARKDOWN)
 - [HTML](#HTML)
 - [CSS](#CSS)
@@ -72,6 +73,10 @@
 
 
 # 언어
+
+## GUIDE
+
++ https://github.com/innovationacademy-kr/hitchhikers_guide (언어 및 프로그래밍 전반에 관한 가이드를 모아둔 문서)
 
 ## MARKDOWN
 
