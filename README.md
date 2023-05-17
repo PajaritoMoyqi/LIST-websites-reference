@@ -43,6 +43,7 @@
 - [API](#API)
 - [Architecture](#Architecture)
 - [Device](#Device)
+- [Rasberry PI](#Rasberry-PI)
 - [Coding TEST](#Coding-TEST)
 - [etc](#etc)
 
@@ -93,6 +94,9 @@ Tags
 + https://gist.github.com/lancejpollard/1978404 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> all meta tags - very long time ago)
 + https://www.metatags.org/all-meta-tags-overview/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> all meta tags 2)
 + https://developers.google.com/search/docs/advanced/crawling/special-tags?hl=ko&visit_id=638043500683790785-719107215&rd=1 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> meta tags which are valid for google bot)
+
+Table
++ https://www.tablesgenerator.com ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> table generator)
 
 Img
 + https://placeholder.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 임시 이미지 넣어둘 때 활용하면 좋은 API)
