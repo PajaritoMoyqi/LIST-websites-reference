@@ -46,6 +46,7 @@
 - [Architecture](#Architecture)
 - [Device](#Device)
 - [Rasberry PI](#Rasberry-PI)
+- [System](#System)
 - [Algorithm](#Algorithm)
 - [Coding TEST](#Coding-TEST)
 - [etc](#etc)
@@ -801,9 +802,13 @@ mouse
 
 + https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=roboholic84&logNo=220356487482 (라즈베리파이 악세사리 간단한 소개)
 
+## System
+
++ https://covenant.tistory.com/219 (OS 관련 자료추천)
+
 ## Algorithm
 
-+ https://www.bigocheatsheet.com/ (Big-O cheatsheet)
++ https://www.bigocheatsheet.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Big-O cheatsheet)
 
 ## Coding TEST
 
