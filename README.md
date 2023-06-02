@@ -334,9 +334,14 @@ under-bar and under-score
 
 ## C
 
+Compiler
++ https://www.programiz.com/c-programming/online-compiler/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> online compiler)
+
 References
 + https://github.com/innovationacademy-kr/hitchhikers_guide/blob/main/c.md (처음 배우는 C 언어에 대한 안내서들)
 
+scanf
++ https://electro-don.tistory.com/entry/scanf-n-%EA%B4%80%EB%A0%A8 (scanf는 줄바꿈을 구분하지 않는다!)
 
 
 ## Compiler and Transfiler
