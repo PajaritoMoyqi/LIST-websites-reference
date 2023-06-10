@@ -951,6 +951,12 @@ News
 + https://techblogposts.com/ (기술블로그 글 모음)
 + https://www.codenary.co.kr/techblog/list (코드너리)
 
+blog
++ https://blog.shift.moe/ (solved.ac 박수현 블로그)
+
+statistics
++ https://www.jetbrains.com/ko-kr/lp/devecosystem-2022/ (개발자 에코시스템 현황)
+
 ## 책 및 강좌 추천
 
 + http://egloos.zum.com/dreamform/v/2807474 (CS, Architecture 쪽에 집중된 책 추천)
