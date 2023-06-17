@@ -79,6 +79,7 @@
 ## GUIDE
 
 + https://github.com/innovationacademy-kr/hitchhikers_guide (언어 및 프로그래밍 전반에 관한 가이드를 모아둔 문서)
++ https://github.com/pr0gr4m/Newbie-Guideline (프로그래밍 입문 뉴비 및 새로운 공부 리소스가 필요한 사람들을 위해)
 
 ## MARKDOWN
 
