@@ -714,6 +714,7 @@ ip address
 ## Architecture
 
 + https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Computation Structures, MIT open course)
++ https://www.youtube.com/watch?v=8mAITcNt710 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Harvard CS50 – Full Computer Science University Course)
 
 Assembly
 + https://godbolt.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 컴파일러별, CPU별 어셈블리 결과 볼 수 있는 사이트)
