@@ -958,6 +958,8 @@ News
 
 blog
 + https://blog.shift.moe/ (solved.ac 박수현 블로그)
++ https://ahnheejong.name/ (안희종 블로그)
++ https://inpa.tistory.com/ (inpa 블로그)
 
 statistics
 + https://www.jetbrains.com/ko-kr/lp/devecosystem-2022/ (개발자 에코시스템 현황)
