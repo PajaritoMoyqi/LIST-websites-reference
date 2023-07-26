@@ -252,6 +252,9 @@ TailwindCSS
 
 ## Javascript
 
+Books
++ https://eloquentjavascript.net/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Eloquent Javascript)
+
 ECMAScript
 + https://github.com/tc39/proposals ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> ECMAScript proposal)
 
