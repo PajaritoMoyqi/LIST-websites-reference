@@ -278,6 +278,9 @@ Bubbling & Capturing
 Class
 + https://simsimjae.tistory.com/452 (class method로 arrow function은 사용하지 마!)
 
+Convention
++ https://standardjs.com/rules-kokr.html (자바스크립트 스타일 가이드)
+
 cookie
 + https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EC%BF%A0%ED%82%A4Cookie-%EB%8B%A4%EB%A3%A8%EA%B8%B0 (cookie 다루기)
 
