@@ -430,6 +430,7 @@ res, req
 
 Summary
 + https://blog.hannal.com/category/start-with-django-webframework/ (great django summary page, deep explanation)
++ https://github.com/LikeLionSCH/LikeLion_Django_Study_Summary (멋쟁이 사자처럼 7기 Django 강의 요약)
 
 admin
 + https://funncy.github.io/django/2020/04/08/django-eb-05/ (배포 후 admin 사용)
