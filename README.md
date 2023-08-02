@@ -48,6 +48,7 @@
 - [Rasberry PI](#Rasberry-PI)
 - [System](#System)
 - [Algorithm](#Algorithm)
+- [Mathematics](#Mathematics)
 - [Coding TEST](#Coding-TEST)
 - [etc](#etc)
 
@@ -834,6 +835,15 @@ mouse
 BitMask
 + https://rebro.kr/63 (비트마스크 (BitMask) 알고리즘)
 + https://www.youtube.com/watch?v=rlTkd4yOQpE ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Episode 20 - Bitmask Dynamic Programming)
+
+## Mathematics
+
+CheatSheet
++ https://algospot.com/wiki/read/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%8C%80%ED%9A%8C%EC%97%90_%ED%95%84%EC%9A%94%ED%95%9C_%EC%88%98%ED%95%99 (알고리즘 대회에 필요한 수학)
++ https://velog.io/@sominpark/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%92%80%EC%9D%B4%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-%EC%88%98%ED%95%99-%EA%B0%9C%EB%85%90 (알고리즘 풀이에 필요한 수학 개념)
+
+Linear Algebra
++ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Essence of linear algebra)
 
 ## Coding TEST
 
