@@ -1050,6 +1050,8 @@ eBook
 + https://edu.goorm.io/ (goorumedu)
 + https://opentutorials.org/ (생활코딩)
 + https://www.udacity.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> udacity - Be in demand)
++ https://ocw.mit.edu/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> MIT open course)
++ https://docceptor.net/ (정한울 교수님 수업 및 수업자료 모음)
 
 ## 보쟈보자어디보자
 
