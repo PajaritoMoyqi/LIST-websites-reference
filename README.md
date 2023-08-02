@@ -831,6 +831,10 @@ mouse
 + https://www.bigocheatsheet.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Big-O cheatsheet)
 + https://www.cs.usfca.edu/~galles/visualization/Algorithms.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Data Structure visualization)
 
+BitMask
++ https://rebro.kr/63 (비트마스크 (BitMask) 알고리즘)
++ https://www.youtube.com/watch?v=rlTkd4yOQpE ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Episode 20 - Bitmask Dynamic Programming)
+
 ## Coding TEST
 
 + https://www.acmicpc.net/ (백준)
