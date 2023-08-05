@@ -1020,6 +1020,12 @@ eBook
 정보
 + https://korecruit.kr/ (매일 업데이트 되는 IT 채용 일정(korecruIT))
 + https://careerly.co.kr/landing (IT 업계 직장인 커뮤니티, 커리어리)
++ https://www.jumpit.co.kr/ (점핏)
++ https://kr.linkedin.com/ (링크드인)
++ https://kr.indeed.com/ (인디드)
++ https://www.rocketpunch.com/ (로켓펀치)
++ https://disquiet.io/ (디스콰이엇)
++ https://www.jobkorea.co.kr/ (잡코리아)
 
 면접
 + https://www.wanted.co.kr/ai-interview (채용공고 링크를 넣으면 예상질문이 나온다)
