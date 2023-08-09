@@ -1027,6 +1027,10 @@ eBook
 + https://disquiet.io/ (디스콰이엇)
 + https://www.jobkorea.co.kr/ (잡코리아)
 
+기업
++ https://thevc.kr/ (더브이씨 (THE VC) - 한국 스타트업 투자 데이터베이스)
++ https://www.nextunicorn.kr/ (넥스트유니콘 | 스타트업 전문투자자 연결 플랫폼)
+
 면접
 + https://www.wanted.co.kr/ai-interview (채용공고 링크를 넣으면 예상질문이 나온다)
 + https://github.com/gyoogle/tech-interview-for-developer (신입개발자 전공 지식 & 기술 면접 백과사전)
