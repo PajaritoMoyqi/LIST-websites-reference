@@ -348,6 +348,9 @@ under-bar and under-score
 Compiler
 + https://www.programiz.com/c-programming/online-compiler/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> online compiler)
 
+Debugger
++ https://www.onlinegdb.com/online_c_debugger ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> online debugger)
+
 References
 + https://github.com/innovationacademy-kr/hitchhikers_guide/blob/main/c.md (처음 배우는 C 언어에 대한 안내서들)
 
