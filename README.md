@@ -662,6 +662,9 @@ DigitalOcean
 SSG, SSR, CSR, SPA, TTV, TTI
 + https://www.youtube.com/watch?v=iZ9csAfU5Os    (10분 내로 간단 정리)
 
+Godaddy
++ https://rosemelon.hwachae.com/12 (도메인 만료 후 프로세스 정리)
+
 ## SEO
 
 SEO 기본
