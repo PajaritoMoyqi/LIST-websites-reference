@@ -753,6 +753,9 @@ Assembly
 Capacitor(Condenser)
 + https://www.youtube.com/watch?v=oD4R0dG6qoQ (콘덴서에 대한 설명)
 
+Code Execution
++ https://www.youtube.com/watch?v=D5c4anv2REk (컴퓨터는 이진수를 어떤 방법으로 실행하나요?)
+
 Clock
 + https://woodforest.tistory.com/195 (rising edge, falling edge, Q, Q+)
 
