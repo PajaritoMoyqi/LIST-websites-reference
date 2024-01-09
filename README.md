@@ -662,6 +662,14 @@ DigitalOcean
 SSG, SSR, CSR, SPA, TTV, TTI
 + https://www.youtube.com/watch?v=iZ9csAfU5Os    (10분 내로 간단 정리)
 
+Domain
++ https://tld-list.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 도메인 비교 사이트 - 해외)
++ https://kr.godaddy.com/ (Godaddy)
++ https://www.gabia.com/ (가비아)
++ https://www.namecheap.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Namecheap)
++ https://www.spaceship.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> spaceship)
++ https://regery.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Regery)
+
 Godaddy
 + https://rosemelon.hwachae.com/12 (도메인 만료 후 프로세스 정리)
 
