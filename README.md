@@ -54,11 +54,9 @@
 
 컨텐츠
 
-- [글짓기](#글짓기)
-- [기술 블로그](#기술-블로그)
-- [글](#글)
-- [책 및 강좌 추천](#책-및-강좌-추천)
-- [English](#English)
+- [Writing](#Writing)
+- [Contents](#Contents)
+- [Official Tech Blog](#Official-Tech-Blog)
 
 구인구직 / 협업
 
@@ -912,7 +910,7 @@ first website
 
 # 컨텐츠
 
-## 글짓기
+## Writing
 
 Patch Note / Release Note
 + https://brunch.co.kr/@ultra0034/80 (패치노트 작성)
@@ -923,7 +921,48 @@ Patch Note / Release Note
 Technical Writing
 + https://developers.google.com/tech-writing ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> google technical writing course)
 
-## 기술 블로그
+## Contents
+
+Youtube(Lectures)
++ https://www.youtube.com/@docceptor195 (정한울 교수님 - 전기회로, 회로설계, AI 강좌 등)
++ https://www.youtube.com/@BenEater (Ben Eater - 옛날 컴퓨터 브레드보드로 만들기, 6502 컴터 만들기 강좌 등)
++ https://www.youtube.com/@euntae471 (배은태 - 어셈블리 언어 강좌)
++ https://www.youtube.com/watch?v=PS5n7HU1n3Q&list=PLm7kUQYfvIRP0l66keVy-DZ0vhTi7jOII (시대에듀 - 반도체 전공면접 강좌 재생목록)
+
+Youtube(One Video)
++ https://www.youtube.com/@LowLevelLearning (Low Level Learning - 근본적인 질문들에 대한 영상 많음)
++ https://www.youtube.com/@bRd3D (bRd 3D - 기계 작동방식을 아주 공들인 영상들로 정리)
+
+News
++ https://news.hada.io/ (GeekNews)
++ https://maily.so/leadership100 (한 주간 관심있게 읽었던 코칭, 리더십, 조직문화 그리고 스타트업에 대해 다양한 관점을 공유합니다)
++ https://hr.wanted.co.kr/ (Explore trends, discover insights, Share and learn HR)
++ https://yozm.wishket.com/magazine/ (요즘 사람들의 IT)
++ https://techblogposts.com/ (기술블로그 글 모음)
++ https://www.codenary.co.kr/techblog/list (코드너리)
+
+Blogs
++ https://blog.shift.moe/ (solved.ac 박수현 블로그)
++ https://ahnheejong.name/ (안희종 블로그)
++ https://inpa.tistory.com/ (inpa 블로그)
++ https://shoark7.github.io/ (SUNGHWAN PARK 블로그 - 알고리즘 포스트 좋음)
++ https://ttl-blog.tistory.com/ (Shin._.Mallang 블로그 - CS 포스트 좋음)
++ https://cs-ssupport.tistory.com/307 (cs-ssupport - CS를 아우르는 분야 포스트 좋음)
+
+Book
++ http://egloos.zum.com/dreamform/v/2807474 (CS, Architecture 쪽에 집중된 책 추천)
++ https://itguava.tistory.com/8 (OS 만들기 책 추천)
+
+eBook
++ https://github.com/EbookFoundation/free-programming-books ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 공짜 ebook 모음집)
+
+Statistics
++ https://www.jetbrains.com/ko-kr/lp/devecosystem-2022/ (개발자 에코시스템 현황)
+
+Tips
++ https://www.philinlove.com/entry/punctuation-marks (특수기호 영어로)
+
+## Official Tech Blogs
 
 한글
 + https://d2.naver.com/home (naver D2)
@@ -990,38 +1029,6 @@ Technical Writing
 + https://engineering.atspotify.com/ (Spotify R&D Engineering)
 + https://tech.ebayinc.com/ (ebay Tech Blog)
 + https://medium.com/platfarm (mojitok)
-
-## 글
-
-News
-+ https://news.hada.io/ (GeekNews)
-+ https://maily.so/leadership100 (한 주간 관심있게 읽었던 코칭, 리더십, 조직문화 그리고 스타트업에 대해 다양한 관점을 공유합니다)
-+ https://hr.wanted.co.kr/ (Explore trends, discover insights, Share and learn HR)
-+ https://yozm.wishket.com/magazine/ (요즘 사람들의 IT)
-+ https://techblogposts.com/ (기술블로그 글 모음)
-+ https://www.codenary.co.kr/techblog/list (코드너리)
-
-blog
-+ https://blog.shift.moe/ (solved.ac 박수현 블로그)
-+ https://ahnheejong.name/ (안희종 블로그)
-+ https://inpa.tistory.com/ (inpa 블로그)
-+ https://shoark7.github.io/ (SUNGHWAN PARK 블로그 - 알고리즘 포스트 좋음)
-+ https://ttl-blog.tistory.com/ (Shin._.Mallang 블로그 - CS 포스트 좋음)
-+ https://cs-ssupport.tistory.com/307 (cs-ssupport - CS를 아우르는 분야 포스트 좋음)
-
-statistics
-+ https://www.jetbrains.com/ko-kr/lp/devecosystem-2022/ (개발자 에코시스템 현황)
-
-Book
-+ http://egloos.zum.com/dreamform/v/2807474 (CS, Architecture 쪽에 집중된 책 추천)
-+ https://itguava.tistory.com/8 (OS 만들기 책 추천)
-
-eBook
-+ https://github.com/EbookFoundation/free-programming-books ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 공짜 ebook 모음집)
-
-## English
-
-+ https://www.philinlove.com/entry/punctuation-marks (특수기호 영어로)
 
 # 구인구직 / 협업
 
