@@ -1005,6 +1005,8 @@ blog
 + https://ahnheejong.name/ (안희종 블로그)
 + https://inpa.tistory.com/ (inpa 블로그)
 + https://shoark7.github.io/ (SUNGHWAN PARK 블로그 - 알고리즘 포스트 좋음)
++ https://ttl-blog.tistory.com/ (Shin._.Mallang 블로그 - CS 포스트 좋음)
++ https://cs-ssupport.tistory.com/307 (cs-ssupport - CS를 아우르는 분야 포스트 좋음)
 
 statistics
 + https://www.jetbrains.com/ko-kr/lp/devecosystem-2022/ (개발자 에코시스템 현황)
