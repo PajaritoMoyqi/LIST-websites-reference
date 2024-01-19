@@ -52,7 +52,7 @@
 - [Coding TEST](#Coding-TEST)
 - [etc](#etc)
 
-글
+컨텐츠
 
 - [글짓기](#글짓기)
 - [기술 블로그](#기술-블로그)
@@ -761,6 +761,7 @@ Clock
 
 CPU
 + https://www.youtube.com/watch?v=Fg00LN30Ezg (CPU란 무엇인가?)
++ http://visual6502.org/ (CPU 돌아갈 때 얼마나 많은 신호가 돌아다니는지 볼 수 있는 곳)
 
 Digital
 + https://bugoverdose.github.io/computer-science/analog-and-digital/ (왜 디지털인가?)
@@ -909,7 +910,7 @@ module, package, library, framwork 차이
 first website
 + http://info.cern.ch/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 최초의 웹사이트)
 
-# 글
+# 컨텐츠
 
 ## 글짓기
 
@@ -1011,8 +1012,7 @@ blog
 statistics
 + https://www.jetbrains.com/ko-kr/lp/devecosystem-2022/ (개발자 에코시스템 현황)
 
-## 책 및 강좌 추천
-
+Book
 + http://egloos.zum.com/dreamform/v/2807474 (CS, Architecture 쪽에 집중된 책 추천)
 + https://itguava.tistory.com/8 (OS 만들기 책 추천)
 
