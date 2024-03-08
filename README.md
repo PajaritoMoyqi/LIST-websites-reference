@@ -948,6 +948,8 @@ Blogs
 + https://shoark7.github.io/ (SUNGHWAN PARK 블로그 - 알고리즘 포스트 좋음)
 + https://ttl-blog.tistory.com/ (Shin._.Mallang 블로그 - CS 포스트 좋음)
 + https://cs-ssupport.tistory.com/307 (cs-ssupport - CS를 아우르는 분야 포스트 좋음)
++ https://recipes.tistory.com/ (친절한 임베디드 시스템 개발자 되기 강좌 - 『임베디드 레시피』 책 내용 다수 포함)
++ https://kadensungbincho.tistory.com/ (Kaden Sungbin Cho 블로그)
 
 Book
 + http://egloos.zum.com/dreamform/v/2807474 (CS, Architecture 쪽에 집중된 책 추천)
