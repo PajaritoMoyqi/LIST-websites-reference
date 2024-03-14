@@ -1108,6 +1108,8 @@ Tips
 + https://ocw.mit.edu/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> MIT open course)
 + https://docceptor.net/ (정한울 교수님 수업 및 수업자료 모음)
 + https://www.newlecture.com/ (뉴렉처)
++ https://courses.davidbombal.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> David Bombal; Network)
++ https://www.edx.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> edX)
 
 ## 보쟈보자어디보자
 
