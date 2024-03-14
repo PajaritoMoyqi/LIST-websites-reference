@@ -954,6 +954,8 @@ Blogs
 + https://cs-ssupport.tistory.com/307 (cs-ssupport - CS를 아우르는 분야 포스트 좋음)
 + https://recipes.tistory.com/ (친절한 임베디드 시스템 개발자 되기 강좌 - 『임베디드 레시피』 책 내용 다수 포함)
 + https://kadensungbincho.tistory.com/ (Kaden Sungbin Cho 블로그)
++ https://austindhkim.tistory.com/ (Austin Kim 티스토리 블로그)
++ https://blog.naver.com/PostList.naver?blogId=crushhh (Austin Kim 네이버 블로그)
 
 Book
 + http://egloos.zum.com/dreamform/v/2807474 (CS, Architecture 쪽에 집중된 책 추천)
