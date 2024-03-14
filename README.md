@@ -560,6 +560,9 @@ Watcher
 outdated libraries message
 + https://stackoverflow.com/questions/73397110/how-to-stop-ubuntu-pop-up-daemons-using-outdated-libraries-when-using-apt-to-i ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how to automize it)
 
+Source code
++ https://elixir.bootlin.com/linux/latest/source ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 리눅스 소스코드 검색 쉽게 하는 곳)
+
 ## Git and Github
 
 Actions
@@ -955,7 +958,7 @@ Blogs
 + https://recipes.tistory.com/ (친절한 임베디드 시스템 개발자 되기 강좌 - 『임베디드 레시피』 책 내용 다수 포함)
 + https://kadensungbincho.tistory.com/ (Kaden Sungbin Cho 블로그)
 + https://austindhkim.tistory.com/ (Austin Kim 티스토리 블로그)
-+ https://blog.naver.com/PostList.naver?blogId=crushhh (Austin Kim 네이버 블로그)
++ https://blog.naver.com/PostList.naver?blogId=crushhh (Austin Kim 네이버 블로그)ㄹ
 
 Book
 + http://egloos.zum.com/dreamform/v/2807474 (CS, Architecture 쪽에 집중된 책 추천)
