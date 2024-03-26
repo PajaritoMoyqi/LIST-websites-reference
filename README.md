@@ -563,6 +563,9 @@ outdated libraries message
 Source code
 + https://elixir.bootlin.com/linux/latest/source ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 리눅스 소스코드 검색 쉽게 하는 곳)
 
+Id
++ https://stackoverflow.com/questions/4517301/difference-between-pid-and-tid ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Difference between PID and TID)
+
 ## Git and Github
 
 Actions
