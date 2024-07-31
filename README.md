@@ -759,6 +759,12 @@ ip address
 + https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Computation Structures, MIT open course)
 + https://www.youtube.com/watch?v=8mAITcNt710 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Harvard CS50 – Full Computer Science University Course)
 
+Analogue and Digital
++ https://bugoverdose.github.io/computer-science/analog-and-digital/ (왜 디지털인가?)
++ https://www.youtube.com/watch?v=9ROD_oxpVcA (인공지능 시대의 간지폭풍, 아날로그 컴퓨터 (1편))
++ https://www.youtube.com/watch?v=euR76oRd7L4 (당신의 그래픽카드 이 칩으로 대체되었다. 아날로그 컴퓨터 (2편))
++ https://www.youtube.com/watch?v=6AgkTdQXFTY ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Analog computing will take over 30 billion devices by 2040. Wtf does that mean? | Hard Reset)
+
 Assembly
 + https://godbolt.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 컴파일러별, CPU별 어셈블리 결과 볼 수 있는 사이트)
 + https://www.youtube.com/playlist?list=PL0M0Rj5S0RUwXH-3RhBipvfUHYVkA2FPw (유튜브 강의 배은태-어셈블리 언어)
@@ -780,9 +786,6 @@ Clock
 CPU
 + https://www.youtube.com/watch?v=Fg00LN30Ezg (CPU란 무엇인가?)
 + http://visual6502.org/ (CPU 돌아갈 때 얼마나 많은 신호가 돌아다니는지 볼 수 있는 곳)
-
-Digital
-+ https://bugoverdose.github.io/computer-science/analog-and-digital/ (왜 디지털인가?)
 
 Diode
 + https://www.youtube.com/watch?v=RI3uH0eo6ek (다이오드 설명)
