@@ -552,6 +552,9 @@ Environment Variable
 + https://unix.stackexchange.com/questions/117467/how-to-permanently-set-environmental-variables ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> where to set)
 + https://seulcode.tistory.com/546 (where to set)
 
+Process
++ https://blog.naver.com/jayeonsaram/220958066941 (Process 백그라운드로 돌리고 나가기, gulp watch에 유용!!!!!)
+
 Screen Shot
 + https://www.linuxadictos.com/ko/tres-maneras-diferentes-de-hacer-capturas-de-pantalla-en-linux.html (기본적인 스샷 단축키)
 
