@@ -346,6 +346,7 @@ under-bar and under-score
 
 Compiler
 + https://www.programiz.com/c-programming/online-compiler/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> online compiler)
++ https://onecompiler.com/c ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> online compiler, stdin이 많은 경우 유용하다)
 
 Debugger
 + https://www.onlinegdb.com/online_c_debugger ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> online debugger)
@@ -353,8 +354,9 @@ Debugger
 References
 + https://github.com/innovationacademy-kr/hitchhikers_guide/blob/main/c.md (처음 배우는 C 언어에 대한 안내서들)
 
-scanf
+scanf & printf
 + https://electro-don.tistory.com/entry/scanf-n-%EA%B4%80%EB%A0%A8 (scanf는 줄바꿈을 구분하지 않는다!)
++ https://marell.tistory.com/1 (입력버퍼 비우기)
 
 ## Assembly
 
