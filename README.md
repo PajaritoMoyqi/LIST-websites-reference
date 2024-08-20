@@ -974,6 +974,7 @@ News
 + https://yozm.wishket.com/magazine/ (요즘 사람들의 IT)
 + https://techblogposts.com/ (기술블로그 글 모음)
 + https://www.codenary.co.kr/techblog/list (코드너리)
++ https://news.skhynix.co.kr/ (하이닉스 뉴스룸 - 반도체 관련 깊은 글들 좋음)
 
 Blogs
 + https://blog.shift.moe/ (solved.ac 박수현 블로그)
@@ -985,7 +986,8 @@ Blogs
 + https://recipes.tistory.com/ (친절한 임베디드 시스템 개발자 되기 강좌 - 『임베디드 레시피』 책 내용 다수 포함)
 + https://kadensungbincho.tistory.com/ (Kaden Sungbin Cho 블로그)
 + https://austindhkim.tistory.com/ (Austin Kim 티스토리 블로그)
-+ https://blog.naver.com/PostList.naver?blogId=crushhh (Austin Kim 네이버 블로그)ㄹ
++ https://blog.naver.com/PostList.naver?blogId=crushhh (Austin Kim 네이버 블로그)
++ https://blog.naver.com/PostList.naver?blogId=lagrange0115&categoryNo=0&from=postList (엠에스리 블로그 - 기계공학/전기전자 관련 글 좋음)
 
 Book
 + http://egloos.zum.com/dreamform/v/2807474 (CS, Architecture 쪽에 집중된 책 추천)
