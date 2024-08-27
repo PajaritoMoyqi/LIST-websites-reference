@@ -767,6 +767,7 @@ ip address
 
 + https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Computation Structures, MIT open course)
 + https://www.youtube.com/watch?v=8mAITcNt710 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Harvard CS50 – Full Computer Science University Course)
++ https://computerhistory.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Computer History Museum)
 
 Analogue and Digital
 + https://bugoverdose.github.io/computer-science/analog-and-digital/ (왜 디지털인가?)
