@@ -12,9 +12,9 @@ Hope you enjoy.
 
 ***
 
-# 목차
+# List
 
-언어
+Languages
 
 - [GUIDE](#GUIDE)
 - [MARKDOWN](#MARKDOWN)
@@ -32,7 +32,7 @@ Hope you enjoy.
 - [React.js](#React.js)
 - [Vue.js](#Vue.js)
 
-프로그래밍 주변부
+Programming
 
 - [Data](#Data)
 - [PWA](#PWA)
@@ -58,28 +58,25 @@ Hope you enjoy.
 - [Coding TEST](#Coding-TEST)
 - [etc](#etc)
 
-컨텐츠
+Contents
 
 - [Writing](#Writing)
 - [Contents](#Contents)
 - [Official Tech Blog](#Official-Tech-Blog)
+- [Lectures](#Lectures)
+- [Fun](#Fun)
 
-구인구직 / 협업
+Jobs / Works
 
-- [협업](#협업)
-- [채용](#채용)
-
-콘텐츠
-
-- [외주왜쥬](#외주왜쥬)
-- [놀자놀아](#놀자놀아)
-- [듣자들어](#듣자들어)
-- [보쟈보자어디보자](#보쟈보자어디보자)
+- [Searh](#Searh)
+- [Work Together](#Work-Together)
+- [Jobs](#Jobs)
 
 ***
 
 
-# 언어
+
+# Languages
 
 ## GUIDE
 
@@ -88,17 +85,17 @@ Hope you enjoy.
 
 ## MARKDOWN
 
-마크다운
+Markdown
 + https://heropy.blog/2017/09/30/markdown/   ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 마크다운 총정리)
 + https://samsara-ku.dev/common_sense/difference-between-markup-and-markdown/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 마크업 vs 마크다운)
 + https://mangkyu.tistory.com/80 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 윈도우 새로만들기에 마크다운 추가하기)
 
-provisional
+etc
 + https://www.youtube.com/watch?v=1NrHkjlWVhM ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how to make markdown blog by nodejs, express, mongodb)
 
 ## HTML
 
-Inline, Inline-block, block
+Inline, Inline-block, Block
 + https://norux.me/63 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> inline 요소에 기본으로 있는 4px의 공백에 대하여)
 
 Tags
@@ -140,10 +137,10 @@ Svg
 + https://heropatterns.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> A collection of repeatable SVG background patterns)
 + https://webcache.googleusercontent.com/search?q=cache:Xzh4w8qySfsJ:https://seons-dev.tistory.com/entry/%25EC%2582%25AC%25ED%258C%258C%25EB%25A6%25AC%25EC%2597%2590%25EC%2584%259C-SVG%25EA%25B0%2580-%25EB%2582%2598%25ED%2583%2580%25EB%2582%2598%25EC%25A7%2580-%25EC%2595%258A%25EC%259D%2584%25EB%2595%258C-%25ED%2595%25B4%25EA%25B2%25B0%25EB%25B0%25A9%25EB%25B2%2595&cd=2&hl=ko&ct=clnk&gl=kr ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 사파리에서 svg가 안 보여요!)
 
-크로스브라우징
+Cross-brwosing
 + https://caniuse.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Support table and cross-browsing)
 
-debug
+Debug
 + https://ui.toast.com/weekly-pick/ko_20211027 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 2021 최신 디버깅도구 - 스타일링)
 
 ## CSS
@@ -242,7 +239,7 @@ width-height
 Design
 + https://magazinevm.com/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-16%EA%B3%B3-%EA%B5%AD%EB%82%B4-%ED%95%B4%EC%99%B8-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> design benchmarking websites 모음)
 
-크로스브라우징
+Cross-browsing
 + https://sung-studynote.tistory.com/131 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 크롬의 최소 폰트 크기는 10px이다!!)
 
 ## BootStrap and another
@@ -288,7 +285,7 @@ Compiler
 Convention
 + https://standardjs.com/rules-kokr.html ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 자바스크립트 스타일 가이드)
 
-cookie
+Cookie
 + https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EC%BF%A0%ED%82%A4Cookie-%EB%8B%A4%EB%A3%A8%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> cookie 다루기)
 
 Date
@@ -298,10 +295,10 @@ Event
 + https://ifuwanna.tistory.com/289 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> preventDefault()와 stopPropagation()의 차이)
 + https://domevents.dev/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Capturing and Bubbling visualization)
 
-fetch
+Fetch
 + https://stackoverflow.com/questions/7346563/loading-local-json-file ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> load local json - fetch)
 
-this
+This
 + https://velog.io/@koseungbin/This-Binding ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> this가 경우에 따라 어떻게 바인딩 되는가를 다룬 문서)
 
 Object
@@ -334,7 +331,7 @@ REPL
 + https://www.youtube.com/watch?v=hz7ipeH5Dug ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Python is weird)
 + https://pythontutor.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> visualizing code execution)
 
-args, kwargs
+Args, kwargs
 + https://brunch.co.kr/@princox/180 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> *args, *kwargs 누구냐 너흰)
 
 Big-O and Complexity
@@ -343,13 +340,13 @@ Big-O and Complexity
 Interpreter
 + https://www.onlinegdb.com/online_python_compiler ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Python online compiler)
 
-module
+Module
 + https://jins-sw.tistory.com/17 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> sys.path 누구냐 넌)
 
-super
+Super
 + https://harry24k.github.io/super/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> super는 무엇인가)
 
-under-bar and under-score
+Under-bar and under-score
 + https://eine.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90%EC%84%9C-%EC%96%B8%EB%8D%94%EB%B0%94%EC%96%B8%EB%8D%94%EC%8A%A4%EC%BD%94%EC%96%B4-%EC%9D%98-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%97%AD%ED%95%A0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 파이썬에서의 언더바와 언더스코어의 의미 차이)
 
 ## C
@@ -365,7 +362,7 @@ Debugger
 References
 + https://github.com/innovationacademy-kr/hitchhikers_guide/blob/main/c.md ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 처음 배우는 C 언어에 대한 안내서들)
 
-scanf & printf
+Scanf & printf
 + https://electro-don.tistory.com/entry/scanf-n-%EA%B4%80%EB%A0%A8 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> scanf는 줄바꿈을 구분하지 않는다!)
 + https://marell.tistory.com/1 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 입력버퍼 비우기)
 
@@ -392,7 +389,7 @@ Minifier
 
 ## Node.js
 
-보안 (helmet, csurf etc)
+Security (helmet, csurf etc)
 + https://m.blog.naver.com/PostView.nhn?blogId=cck223&logNo=221019399455&proxyReferer=https:%2F%2Fwww.google.com%2F ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Helmet & Cookie/Session 중심)
 + https://snyk.io/blog/explaining-the-csurf-vulnerability-csrf-attacks-on-all-versions/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> csurf deprecated and how to handle it)
 + https://webcache.googleusercontent.com/search?q=cache:cTrgjfWLOPsJ:https://programmer-eun.tistory.com/125&cd=4&hl=ko&ct=clnk&gl=kr ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> bcrypt)
@@ -403,49 +400,49 @@ Minifier
 + https://inpa.tistory.com/entry/NODE-%EB%B3%B4%EC%95%88-%F0%9F%93%9A-csurf-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> how to use csurf module)
 + https://inpa.tistory.com/entry/NODE-%F0%9F%93%9A-bcrypt-%EB%AA%A8%EB%93%88-%EC%9B%90%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> bcrypt 원리)
 
-배포
+Deploy
 + https://blog.ull.im/engineering/2019/03/31/node-js-production-best-practices.html ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> node 배포 환경을 위한 best practice)
 + https://jemerald.tistory.com/96, https://calvinjmkim.tistory.com/22 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 배포후 node를 업그레이드 했더니 Error: Cannot find module 'semver'가 뜨는 경우)
 
-ajax
+Ajax
 + https://stackoverflow.com/questions/48659892/how-to-handle-csrf-token-using-xmlhttprequest ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How to send csrf token with ajax)
 
-compression
+Compression
 + https://stackoverflow.com/questions/20206771/express-with-node-js-not-compressing-jpeg-images ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Why we can't compress images)
 + https://stackoverflow.com/questions/69461277/express-compress-not-working-in-node-website ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Why we can't compress images - another funtion 1 that helps to get away from this situation)
 
-cookie-parser
+Cookie-parser
 + https://inpa.tistory.com/entry/EXPRESS-%F0%9F%93%9A-bodyParser-cookieParser-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> cookie-parser, body-parser에 대한 내용)
 
-fs
+Fs
 + https://stackoverflow.com/questions/65986153/how-to-make-fs-readfile-async-await ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how to use fs.readfile() asynchronously)
 
-gulp
+Gulp
 + https://velopert.com/1344 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> build 자동화 도구, gulp - basic)
 + https://github.com/gulpjs/gulp/tree/master/docs/recipes ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> gulp recipies (important!))
 + https://programmingsummaries.tistory.com/382 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> gulp, browserify, vinyl, stream)
 + https://stackoverflow.com/questions/47484624/how-to-use-gulp-with-pm2 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how to use gulp with pm2 - 1)
 + https://www.lukinotes.com/2021/11/working-with-gulp-and-pm2.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how to use gulp with pm2 - 2)
 
-image
+Image
 + https://www.zerocho.com/category/NodeJS/post/5950a6c4f7934c001894ea83 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> node.js express에서 image 업로드하기 - multer)
 + https://sub0709.tistory.com/158 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> how to limit the size of image - multer)
 
-md in nodejs
+Markdown
 + https://bohyeon-n.github.io/content/node.js/blogIndex.html ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> md문서 html로 만들고 node.js 서버에 올리기 with ejs)
 
-npm
+Npm
 + https://opentutorials.org/module/4571/27567 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> npm에 public으로 배포해보자!)
 
-package.json
+Package.json
 + https://docs.npmjs.com/cli/v8/configuring-npm/package-json ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> package-json properties)
 + https://spdx.org/licenses/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> list of license that you can write in package.json)
 
-pm2
+Pm2
 + https://pm2.io/docs/runtime/best-practices/environment-variables/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> when you want to update env var)
 + https://inpa.tistory.com/entry/node-%F0%9F%93%9A-PM2-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%84%9C%EB%B9%84%EC%8A%A4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> pm2 총정리 - Inpa blog)
 
-res, req
+Res, req
 + https://webcache.googleusercontent.com/search?q=cache:ok-H_I_eyc0J:https://beausty23.tistory.com/68&cd=3&hl=ko&ct=clnk&gl=kr ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> res.send로 팝업창 띄운 뒤 다시 되돌아오기)
 
 ## Django
@@ -454,41 +451,40 @@ Summary
 + https://blog.hannal.com/category/start-with-django-webframework/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> great django summary page, deep explanation)
 + https://github.com/LikeLionSCH/LikeLion_Django_Study_Summary ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 멋쟁이 사자처럼 7기 Django 강의 요약)
 
-admin
+Admin
 + https://funncy.github.io/django/2020/04/08/django-eb-05/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 배포 후 admin 사용)
 
-db
+Database
 + https://lemonlemon.tistory.com/182 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> no such table error)
 
-flow
+Flow
 + https://velog.io/@ifyouseeksoomi/Django-%EB%82%B4%EA%B0%80-%EC%9D%B4%ED%95%B4%ED%95%9C-flow-urls.py-views.py-models.py-django-shell ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 체계적으로 본인이 공부한 views.py, manage.py, urls.py, models.py에 대해 정리함)
 + https://velog.io/@mini_y/Django-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Django flow에 대한 좋은 그림을 가지고 있음)
 
-models
+Models
 + https://docs.djangoproject.com/en/4.1/ref/models/fields/#field-types ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Django field types)
 
-settings
+Settings
 + https://076923.github.io/posts/Python-Django-3/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> settings.py 파일에 대한 깊은 이해)
 
-slug
+Slug
 + https://stackoverflow.com/questions/427102/what-is-a-slug-in-django ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> what is slug - basic)
 
-template
+Template
 + https://docs.djangoproject.com/en/4.1/ref/templates/builtins/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Built-in template tags and filters)
 
-url
+Url
 + https://stackoverflow.com/questions/70319606/importerror-cannot-import-name-url-from-django-conf-urls-after-upgrading-to ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> url deprecated error django 3.xx to django 4.xx)
 
-venv & virtualenv
+Venv & virtualenv
 + https://jins-sw.tistory.com/19 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> venv 내부동작은 어떻게 될까?)
 + https://bubtaylor.com/how-pythons-virtualenv-works-f21c298f8061 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how venv works internally?)
 
-errors
+Errors
 + https://ssungkang.tistory.com/entry/Django-class-has-no-objects-member-%EC%97%90%EB%9F%AC ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> class has no obejcts member error 해결하는 두 가지 방법)
 
 ## React.js
 
-개론
 + https://react.vlpt.us/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 기본적인 게 기억 안 날 때)
 
 Render
@@ -502,27 +498,28 @@ Virtual DOM
 
 ## Vue.js
 
-Vue3 변경점
+Vue3 changed points
 + https://v3.vuejs.org/guide/migration/introduction.html#global-api ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 공식페이지)
 + https://velog.io/@bluestragglr/Vue3-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B0%94%EB%80%8C%EB%82%98%EC%9A%94 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 변경점 생기기 전 기준 자세한 설명)
 
-css deep rendering
+Css deep rendering
 + https://stackoverflow.com/questions/44844788/vue-js-style-v-html-with-scoped-css ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 두 가지 해결방법)
 
-htmlWebpackPlugin.options.title
+HtmlWebpackPlugin.options.title
 + https://stackoverflow.com/questions/62023604/where-to-find-or-how-to-set-htmlwebpackplugin-options-title-in-project-created-w ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> title 바꾸기)
 
-v-model과 selected
+V-model과 selected
 + https://stackoverflow.com/questions/46772060/vue-selected-prop-not-working-with-v-model ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> answer: "gives initial value to binded variable")
 
-중첩된 데이터 처리하기
+Duplicated data
 + https://ui.toast.com/weekly-pick/ko_20190307 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> deep, immediate, handler)
 
-기타
+etc
 + https://jess2.xyz/vue/vue-tip/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 실무에 적용하면 좋은 내용 정리)
 
 
-# 프로그래밍 주변부
+
+# Programming
 
 ## Data
 
@@ -533,7 +530,7 @@ ERD
 JOIN
 + https://sql-joins.leopard.in.ua/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> JOIN visualizer)
 
-정규화
+Normalization
 + https://www.youtube.com/watch?v=pMcv0Zhh3J0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 제1 정규화부터 제3 정규화까지 가장 깔끔하게 설명 - 완벽하게 올바른 설명인지는 아직 모르겠음)
 + https://mr-dan.tistory.com/10 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 제1 정규화부터 제3 정규화까지 조금 더 어렵지만 원론에 충실하게 한 설명 - 어려워서 여러 번 봐야할 것 같음)
 
@@ -555,7 +552,7 @@ MariaDB(SQL)
 
 ## PWA
 
-builder
+Builder
 + https://www.pwabuilder.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> website PWA score and necessary files generating)
 
 ## Linux
@@ -580,7 +577,7 @@ Terminal
 Watcher
 + https://stackoverflow.com/questions/53930305/nodemon-error-system-limit-for-number-of-file-watchers-reached ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Nodemon Error: System limit for number of file watchers reached)
 
-outdated libraries message
+Outdated libraries message
 + https://stackoverflow.com/questions/73397110/how-to-stop-ubuntu-pop-up-daemons-using-outdated-libraries-when-using-apt-to-i ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how to automize it)
 
 Source code
@@ -639,10 +636,10 @@ Markdown
 Naming
 + https://blog.ull.im/engineering/2019/03/10/logs-on-git.html ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 좋은 git commit 메시지를 위한 영어 사전)
 
-branch 생성 및 연동
+Branch make and integration
 + https://goddaehee.tistory.com/274 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 간단하게 설명되어 있음)
 
-아이디 & 비밀번호 없이 pull/push
+Pull/push without id
 + https://kibua20.tistory.com/88 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 아주 많은 방법이 있다)
 
 ## Debug
@@ -706,21 +703,20 @@ Godaddy
 
 ## SEO
 
-SEO 기본
 + https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=ko ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 구글 기본 가이드)
 + https://velog.io/@byeol4001/Meta-Tag-OG%EC%98%A4%ED%94%88%EA%B7%B8%EB%9E%98%ED%94%84-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> og tags)
 
 BlackHat SEO
 + https://www.youtube.com/watch?v=J2hj2s9gtG4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 블랙햇이란 무엇인가?)
 
-favicon maker
+Favicon maker
 + https://favicon.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> text favicon maker)
 
 ## Web Accessibility
 
 + https://nuli.navercorp.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 웹 접근성이 어떤 사람들에게 필요하고 어떻게 구현이 가능한가)
 
-aria(HTML)
+Aria(HTML)
 + https://velog.io/@kym123123/ARIA%EC%9D%98%EC%86%8D%EC%84%B1%EC%83%81%ED%83%9C%EC%97%AD%ED%95%A0%EB%B0%8F%EC%82%AC%EC%9A%A9-%EC%98%88%EC%8B%9C%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> aria란 무엇인가)
 
 ## CDN
@@ -744,14 +740,10 @@ Speed Test
 Traffic(Bandwidth)
 + https://www.similarweb.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Effortlessly Analyze Your Competitive Landscape - Past month visitors analyze)
 
-웹사이트 성능
+Performance
 + https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 마이리얼트립 웹사이트 성능 측정 및 최적화)
 
-이미지 스프라이트
-
-Network
-
-ip address
+Ip address
 + https://www.ipaddress.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> where is my ip location)
 + https://www.whatsmydns.net/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> DNS Propagation Checker)
 
@@ -865,10 +857,10 @@ etc
 
 ## Device
 
-keyboard
+Keyboard
 + https://www.youtube.com/watch?v=RGUvUf9YfFw ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 키보드의 이해: 고스트키란 무엇인가)
 
-mouse
+Mouse
 + https://www.youtube.com/watch?v=SAaESb4wTCM ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How does a Mouse know when you move it? || How Does a Computer Mouse Work?)
 + https://www.youtube.com/watch?v=-HVKm5fIUA8 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> How do computer mice work? 🖱🖱 || Scroll Wheels)
 
@@ -928,24 +920,24 @@ Beautify
 + https://tools.arantius.com/tabifier ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> code beautifier)
 + https://codebeautify.org/sqlformatter ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> SQL Formatter - can remove comment)
 
-unminify
+Unminify
 + https://unminify.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> unminify the code)
 
 URL
 + https://www.shorturl.at/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> url shortener)
 
-코딩 컨벤션
+Coding convetion
 + https://nuli.navercorp.com/tool/codingCon ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 네이버 코딩 컨벤션)
 + https://google.github.io/styleguide/htmlcssguide.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> google html/css coding convention)
 
-실행환경
+Execution environment
 + https://ryugod.com/pages/ide/bash ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 별의별 코딩언어 다 있는 실행환경)
 
-module, package, library, framwork 차이
+Module, package, library, framwork
 + https://doozi0316.tistory.com/entry/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%ACFramework-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%ACLibrary-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8Plug-in-%EB%AA%A8%EB%93%88Module%EC%9D%98-%EC%B0%A8%EC%9D%B4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 라이브러리와 프레임워크의 차이를 아주 명쾌하게 설명)
 + https://blckchainetc.tistory.com/entry/%EB%AA%A8%EB%93%88-vs-%ED%8C%A8%ED%82%A4%EC%A7%80-vs-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-vs-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC?category=853037 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> module, package, library, framwork 차이 간단하게 설명)
 
-first website
+First website
 + http://info.cern.ch/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> First website)
 
 # 컨텐츠
@@ -1010,7 +1002,7 @@ Tips
 
 ## Official Tech Blogs
 
-한글
+KOR
 + https://d2.naver.com/home ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> naver D2)
 + https://techblog.woowahan.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 우아한형제들)
 + https://tech.kakao.com/blog/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Kakao Tech)
@@ -1076,54 +1068,7 @@ English
 + https://tech.ebayinc.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> ebay Tech Blog)
 + https://medium.com/platfarm ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> mojitok)
 
-# 구인구직 / 협업
-
-## 검색
-
-+ https://www.phind.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> search engine for programmer)
-
-## 협업
-
-+ https://www.beginmate.com/   ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 협업할 사람 구합니다)
-+ https://discordbot.tistory.com/51 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 디코에서 코드 공유하기)
-+ https://eatdrinkenjoy.tistory.com/678 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 노션 특정 페이지만 공유하기)
-
-## 채용
-
-정보
-+ https://korecruit.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 매일 업데이트 되는 IT 채용 일정(korecruIT))
-+ https://careerly.co.kr/landing ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> IT 업계 직장인 커뮤니티, 커리어리)
-+ https://www.jumpit.co.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 점핏)
-+ https://kr.linkedin.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 링크드인)
-+ https://kr.indeed.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 인디드)
-+ https://www.rocketpunch.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 로켓펀치)
-+ https://disquiet.io/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 디스콰이엇)
-+ https://www.jobkorea.co.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 잡코리아)
-
-기업
-+ https://thevc.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 더브이씨 (THE VC) - 한국 스타트업 투자 데이터베이스)
-+ https://www.nextunicorn.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 넥스트유니콘 | 스타트업 전문투자자 연결 플랫폼)
-
-면접
-+ https://www.wanted.co.kr/ai-interview ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 채용공고 링크를 넣으면 예상질문이 나온다)
-+ https://github.com/gyoogle/tech-interview-for-developer ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 신입개발자 전공 지식 & 기술 면접 백과사전)
-+ https://github.com/JaeYeopHan/Interview_Question_for_Beginner ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 신입개발자 면접질문)
-+ https://github.com/ksundong/backend-interview-question ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 백엔드 개발자 면접질문)
-
-
-# 콘텐츠
-
-## 외주왜쥬
-
-
-
-## 놀자놀아
-
-+ https://www.waveon.io/apps/544 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 나와 닮은 프로그래밍 언어는?)
-+ https://codingspeedtest.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> coding speed test)
-+ https://www.thinkful.com/blog/tech-career-quiz/#test ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Which Tech Career Fits You Best?)
-
-## 듣자들어
+## Lectures
 
 + https://www.inflearn.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 인프런)
 + https://www.udemy.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> udemy)
@@ -1146,9 +1091,51 @@ English
 + https://courses.davidbombal.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> David Bombal; Network)
 + https://www.edx.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> edX)
 
-## 보쟈보자어디보자
+## Fun
 
+Apps
++ https://www.waveon.io/apps/544 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 나와 닮은 프로그래밍 언어는?)
++ https://codingspeedtest.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> coding speed test)
++ https://www.thinkful.com/blog/tech-career-quiz/#test ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Which Tech Career Fits You Best?)
+
+Videos
 + https://www.youtube.com/watch?v=ZGSJsaA3ma4 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 전설의 프로그래머 형님들의 '찐' 개발 훈수)
 + https://www.youtube.com/watch?v=FVRXlaC1oZg ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 개발을 시작한 당신에게 해주고 싶은 이야기)
 + https://www.youtube.com/watch?v=3hxT4cSm03s ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 주니어 개발자가 빠르게 성장할 수 있는 비법은?)
 + https://www.youtube.com/watch?v=Qc-D9oPKQt4 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 아이디어가 있다구? 창의력을 위한 조언 한마디)
+
+
+
+# 구인구직 / 협업
+
+## Search
+
++ https://www.phind.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> search engine for programmer)
+
+## Work Together
+
++ https://www.beginmate.com/   ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 협업할 사람 구합니다)
++ https://discordbot.tistory.com/51 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 디코에서 코드 공유하기)
++ https://eatdrinkenjoy.tistory.com/678 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 노션 특정 페이지만 공유하기)
+
+## Jobs
+
+Info
++ https://korecruit.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 매일 업데이트 되는 IT 채용 일정(korecruIT))
++ https://careerly.co.kr/landing ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> IT 업계 직장인 커뮤니티, 커리어리)
++ https://www.jumpit.co.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 점핏)
++ https://kr.linkedin.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 링크드인)
++ https://kr.indeed.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 인디드)
++ https://www.rocketpunch.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 로켓펀치)
++ https://disquiet.io/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 디스콰이엇)
++ https://www.jobkorea.co.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 잡코리아)
+
+Company
++ https://thevc.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 더브이씨 (THE VC) - 한국 스타트업 투자 데이터베이스)
++ https://www.nextunicorn.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 넥스트유니콘 | 스타트업 전문투자자 연결 플랫폼)
+
+Interview
++ https://www.wanted.co.kr/ai-interview ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 채용공고 링크를 넣으면 예상질문이 나온다)
++ https://github.com/gyoogle/tech-interview-for-developer ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 신입개발자 전공 지식 & 기술 면접 백과사전)
++ https://github.com/JaeYeopHan/Interview_Question_for_Beginner ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 신입개발자 면접질문)
++ https://github.com/ksundong/backend-interview-question ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 백엔드 개발자 면접질문)
