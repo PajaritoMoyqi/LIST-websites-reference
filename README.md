@@ -201,7 +201,7 @@ History
 + https://velog.io/@teo/css-history-1 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> CSS의 역사)
 
 Img
-+ https://www.remove.bg/ko     (이미지 배경 쉽게 지우는 웹사이트)
++ https://www.remove.bg/ko ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 이미지 배경 쉽게 지우는 웹사이트)
 + https://unsplash.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> get free image)
 + https://medium.com/@typoholic01/%EA%B3%A0%EC%9A%A9%EB%9F%89-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%82%AC%EC%9D%B4%ED%8A%B8-b6c0fea2a4f4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 고용량 이미지 구하기)
 + https://stackoverflow.com/questions/34247337/object-fit-not-affecting-images ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> about object fit of img tag)
@@ -1005,7 +1005,7 @@ Youtube(Lectures)
 + https://www.youtube.com/watch?v=PS5n7HU1n3Q&list=PLm7kUQYfvIRP0l66keVy-DZ0vhTi7jOII ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 시대에듀 - 반도체 전공면접 강좌 재생목록)
 
 Youtube(One Video)
-+ https://www.youtube.com/@LowLevelLearning ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Low Level Learning - 근본적인 질문들에 대한 영상 많음)
++ https://www.youtube.com/@LowLevelLearning ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Low Level Learning - Lots of videos on fundamental questions)
 + https://www.youtube.com/@bRd3D ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> bRd 3D - 기계 작동방식을 아주 공들인 영상들로 정리)
 
 ## Official Tech Blogs
