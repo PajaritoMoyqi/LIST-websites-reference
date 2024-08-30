@@ -69,7 +69,7 @@ Contents
 
 Jobs / Works
 
-- [Searh](#Searh)
+- [Search](#Search)
 - [Work Together](#Work-Together)
 - [Jobs](#Jobs)
 
@@ -948,7 +948,7 @@ URL
 
 
 
-# 컨텐츠
+# Contents
 
 ## Writing
 
@@ -1114,7 +1114,7 @@ Videos
 
 
 
-# 구인구직 / 협업
+# Jobs / Works
 
 ## Search
 
