@@ -25,6 +25,7 @@ Languages
 - [TypeScript](#TypeScript)
 - [Python](#Python)
 - [C](#C)
+- [Rust](#Rust)
 - [Assembly](#Assembly)
 - [Compiler, Transfiler](#Compiler-and-Transfiler)
 - [Node.js](#Node.js)
@@ -365,6 +366,12 @@ References
 Scanf & printf
 + https://electro-don.tistory.com/entry/scanf-n-%EA%B4%80%EB%A0%A8 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> scanf는 줄바꿈을 구분하지 않는다!)
 + https://marell.tistory.com/1 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 입력버퍼 비우기)
+
+## Rust
+
+I/O
+
++ https://velog.io/@unhappydogchew/%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EB%B0%A9%EB%B2%95-%EC%B4%9D%EC%A0%95%EB%A6%AC-Rust%EB%A1%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%92%80%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 러스트로 알고리즘 풀기 - 입출력)
 
 ## Assembly
 
