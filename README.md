@@ -331,6 +331,7 @@ REPL
 + https://jins-sw.tistory.com/category/Python ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Python 카테고리 글이 상당히 양질인 블로그)
 + https://www.youtube.com/watch?v=hz7ipeH5Dug ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Python is weird)
 + https://pythontutor.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> visualizing code execution)
++ https://docs.python.org/3/contents.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Python 공식문서)
 
 argparse
 + https://engineer-mole.tistory.com/213 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> ArgumentParser란 무엇인가)
@@ -344,6 +345,9 @@ Big-O and Complexity
 Interpreter
 + https://www.onlinegdb.com/online_python_compiler ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Python online compiler)
 
+json
++ https://tifferent.tistory.com/40 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> json의 load, loads, dump, dumps)
+
 Module
 + https://jins-sw.tistory.com/17 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> sys.path 누구냐 넌)
 
@@ -352,6 +356,7 @@ Methods
 
 re
 + https://jh2021.tistory.com/7 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> re의 내장 메서드들에 관해 )
++ https://velog.io/@cha-suyeon/match-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EB%A9%94%EC%84%9C%EB%93%9C-group-start-end-span ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Methods of Match object)
 
 Super
 + https://harry24k.github.io/super/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> super는 무엇인가)

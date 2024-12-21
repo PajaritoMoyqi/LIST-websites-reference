@@ -331,6 +331,7 @@ REPL
 + https://jins-sw.tistory.com/category/Python ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> A blog with quite high quality Python category posts)
 + https://www.youtube.com/watch?v=hz7ipeH5Dug ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Python is weird)
 + https://pythontutor.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> visualizing code execution)
++ https://docs.python.org/3/contents.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Python docs)
 
 argparse
 + https://engineer-mole.tistory.com/213 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> What is ArgumentParser?)
@@ -344,6 +345,9 @@ Big-O and Complexity
 Interpreter
 + https://www.onlinegdb.com/online_python_compiler ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Python online compiler)
 
+json
++ https://tifferent.tistory.com/40 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> difference between load, loads, dump and dumps methods in json)
+
 Methods
 + https://starriet.medium.com/python-with-open-as-f-%EC%97%90%EC%84%9C-f%EC%9D%98-%EC%A0%95%EC%B2%B4%EB%8A%94-3cb48ea9e302 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> What 'as f' with 'with open' means)
 
@@ -352,6 +356,7 @@ Module
 
 re
 + https://jh2021.tistory.com/7 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> About basic methods of re )
++ https://velog.io/@cha-suyeon/match-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EB%A9%94%EC%84%9C%EB%93%9C-group-start-end-span ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Methods of Match object)
 
 Super
 + https://harry24k.github.io/super/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> About super)
