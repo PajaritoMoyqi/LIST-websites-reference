@@ -960,6 +960,10 @@ RoadMap
 + https://roadmap.sh/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> roadmap by job and stack)
 + https://github.com/datastacktv/data-engineer-roadmap ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> data engineer roadmap)
 
+Regex
++ https://ahkscript.github.io/ko/docs/misc/RegEx-QuickRef.htm ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Regex 간편 참조서)
++ https://www.autohotkey.com/docs/v1/misc/RegEx-QuickRef.htm ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Regex 간편 참조서)
+
 Unminify
 + https://unminify.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> unminify the code)
 
