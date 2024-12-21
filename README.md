@@ -350,6 +350,9 @@ Module
 Methods
 + https://starriet.medium.com/python-with-open-as-f-%EC%97%90%EC%84%9C-f%EC%9D%98-%EC%A0%95%EC%B2%B4%EB%8A%94-3cb48ea9e302 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 'with open'과 쓰인 'as f'의 의미)
 
+re
++ https://jh2021.tistory.com/7 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> re의 내장 메서드들에 관해 )
+
 Super
 + https://harry24k.github.io/super/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> super는 무엇인가)
 

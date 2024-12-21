@@ -350,6 +350,9 @@ Methods
 Module
 + https://jins-sw.tistory.com/17 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> About sys.path)
 
+re
++ https://jh2021.tistory.com/7 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> About basic methods of re )
+
 Super
 + https://harry24k.github.io/super/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> About super)
 
