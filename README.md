@@ -332,6 +332,9 @@ REPL
 + https://www.youtube.com/watch?v=hz7ipeH5Dug ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Python is weird)
 + https://pythontutor.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> visualizing code execution)
 
+argparse
++ https://engineer-mole.tistory.com/213 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> ArgumentParser란 무엇인가)
+
 Args, kwargs
 + https://brunch.co.kr/@princox/180 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> *args, *kwargs 누구냐 너흰)
 
@@ -343,6 +346,9 @@ Interpreter
 
 Module
 + https://jins-sw.tistory.com/17 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> sys.path 누구냐 넌)
+
+Methods
++ https://starriet.medium.com/python-with-open-as-f-%EC%97%90%EC%84%9C-f%EC%9D%98-%EC%A0%95%EC%B2%B4%EB%8A%94-3cb48ea9e302 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 'with open'과 쓰인 'as f'의 의미)
 
 Super
 + https://harry24k.github.io/super/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> super는 무엇인가)
