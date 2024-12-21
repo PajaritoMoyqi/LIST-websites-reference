@@ -1,6 +1,6 @@
 # Useful websites list for programming..!
 
-Especially KOR, ENG webpages.
+Especially <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/>, <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> webpages.
 
 Any proposals or reports are welcome.
 
