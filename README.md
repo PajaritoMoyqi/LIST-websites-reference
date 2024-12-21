@@ -645,6 +645,9 @@ Markdown
 Naming
 + https://blog.ull.im/engineering/2019/03/10/logs-on-git.html ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 좋은 git commit 메시지를 위한 영어 사전)
 
+Open Source
++ https://seongjin.me/how-to-contribute-to-open-source/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 깃허브 오픈소스 기여 초보자 가이드)
+
 Pull/push without id
 + https://kibua20.tistory.com/88 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 아주 많은 방법이 있다)
 
