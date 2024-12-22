@@ -125,6 +125,9 @@ Img
 Inline, Inline-block, Block
 + https://norux.me/63 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> About the default 4px space for inline elements)
 
+Special characters
++ https://www.toptal.com/designers/htmlarrows/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> A delightful reference for HTML Symbols, Entities and ASCII Character Codes)
+
 Svg
 + https://heropatterns.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> A collection of repeatable SVG background patterns)
 + https://webcache.googleusercontent.com/search?q=cache:Xzh4w8qySfsJ:https://seons-dev.tistory.com/entry/%25EC%2582%25AC%25ED%258C%258C%25EB%25A6%25AC%25EC%2597%2590%25EC%2584%259C-SVG%25EA%25B0%2580-%25EB%2582%2598%25ED%2583%2580%25EB%2582%2598%25EC%25A7%2580-%25EC%2595%258A%25EC%259D%2584%25EB%2595%258C-%25ED%2595%25B4%25EA%25B2%25B0%25EB%25B0%25A9%25EB%25B2%2595&cd=2&hl=ko&ct=clnk&gl=kr ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Can't see svg in Safari!)
