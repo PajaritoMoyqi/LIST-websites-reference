@@ -57,6 +57,7 @@ Programming
 - [Algorithm](#Algorithm)
 - [Mathematics](#Mathematics)
 - [Coding TEST](#Coding-TEST)
+- [Machine Learning](#Machine-Learning)
 - [etc](#etc)
 
 Contents
@@ -938,6 +939,9 @@ Linear Algebra
 + https://leetcode.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> LeetCode)
 + https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Top 10 algorithms in interview questions)
 
+## Machine Learning
++ https://www.kaggle.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> ML competition) 
+
 ## etc
 
 Beautify
@@ -975,9 +979,6 @@ Unminify
 
 URL
 + https://www.shorturl.at/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> url shortener)
-
-## Machine Learnig
-+ https://www.kaggle.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> ML competition) 
 
 
 
