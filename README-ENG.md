@@ -351,6 +351,9 @@ Interpreter
 json
 + https://tifferent.tistory.com/40 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> difference between load, loads, dump and dumps methods in json)
 
+Matplotlib
++ https://stackoverflow.com/questions/31051488/combining-two-matplotlib-colormaps  ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> combining two colorbars )
+
 Methods
 + https://starriet.medium.com/python-with-open-as-f-%EC%97%90%EC%84%9C-f%EC%9D%98-%EC%A0%95%EC%B2%B4%EB%8A%94-3cb48ea9e302 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> What 'as f' with 'with open' means)
 
