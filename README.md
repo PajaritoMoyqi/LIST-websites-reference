@@ -976,6 +976,9 @@ Unminify
 URL
 + https://www.shorturl.at/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> url shortener)
 
+## Machine Learnig
++ https://www.kaggle.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> ML competition) 
+
 
 
 # Contents
@@ -1177,3 +1180,4 @@ Interview
 + https://github.com/gyoogle/tech-interview-for-developer ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 신입개발자 전공 지식 & 기술 면접 백과사전)
 + https://github.com/JaeYeopHan/Interview_Question_for_Beginner ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 신입개발자 면접질문)
 + https://github.com/ksundong/backend-interview-question ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 백엔드 개발자 면접질문)
+
