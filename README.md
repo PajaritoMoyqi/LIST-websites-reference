@@ -351,6 +351,10 @@ Interpreter
 json
 + https://tifferent.tistory.com/40 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> json의 load, loads, dump, dumps)
 
+Matplotlib
+Combining two colorbars
++ https://stackoverflow.com/questions/31051488/combining-two-matplotlib-colormaps
+  
 Module
 + https://jins-sw.tistory.com/17 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> sys.path 누구냐 넌)
 
