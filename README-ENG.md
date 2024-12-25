@@ -25,6 +25,7 @@ Languages
 - [TypeScript](#TypeScript)
 - [Python](#Python)
 - [C](#C)
+- [C++](#Cpp)
 - [Rust](#Rust)
 - [Assembly](#Assembly)
 - [Compiler, Transfiler](#Compiler-and-Transfiler)
@@ -387,6 +388,10 @@ References
 Scanf & printf
 + https://electro-don.tistory.com/entry/scanf-n-%EA%B4%80%EB%A0%A8 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> scanf doesn't change line!)
 + https://marell.tistory.com/1 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Empty input buffer)
+
+## Cpp
+
++ https://boycoding.tistory.com/category/C%2B%2B%20%EC%9D%B4%EC%95%BC%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> C++ basic)
 
 ## Rust
 

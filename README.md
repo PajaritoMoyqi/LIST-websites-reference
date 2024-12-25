@@ -25,6 +25,7 @@ Languages
 - [TypeScript](#TypeScript)
 - [Python](#Python)
 - [C](#C)
+- [C++](#Cpp)
 - [Rust](#Rust)
 - [Assembly](#Assembly)
 - [Compiler, Transfiler](#Compiler-and-Transfiler)
@@ -387,6 +388,10 @@ References
 Scanf & printf
 + https://electro-don.tistory.com/entry/scanf-n-%EA%B4%80%EB%A0%A8 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> scanf는 줄바꿈을 구분하지 않는다!)
 + https://marell.tistory.com/1 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 입력버퍼 비우기)
+
+## Cpp
+
++ https://boycoding.tistory.com/category/C%2B%2B%20%EC%9D%B4%EC%95%BC%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> C++ 기초)
 
 ## Rust
 
