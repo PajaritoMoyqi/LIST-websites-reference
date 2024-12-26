@@ -6,8 +6,6 @@ Any proposals or reports are welcome.
 
 Hope you enjoy.
 
-<div style="text-align: right"> - By 'Pajarito Moyqi' </div>
-
 <br>
 
 ***
