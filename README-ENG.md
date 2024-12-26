@@ -653,9 +653,12 @@ Github Issues and label
 
 Github Profile
 + http://blog.cowkite.com/blog/2102241544/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Make Github Profile adorable)
++ https://contrib.rocks/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Generate an image of contributors to keep your README.md in sync)
 
 Github Templates
 + https://lusida-coding.tistory.com/140 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> How to create a GitHub pull request and issue template!)
++ https://mini-min-dev.tistory.com/105 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Let's click "Create a new release" in github)
++ https://kukim.tistory.com/117 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> apply issue template, pr template in github)
 
 Github Statistics
 + https://octoverse.github.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Statistics about github)
@@ -671,6 +674,7 @@ Naming
 
 Open Source
 + https://seongjin.me/how-to-contribute-to-open-source/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Github open source contrigution guide)
++ https://www.youtube.com/watch?v=2lL2eRQch2o&t=734s ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Wise open source life)
 
 Pull/push without id
 + https://kibua20.tistory.com/88 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> There are many ways)
