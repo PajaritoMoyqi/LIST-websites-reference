@@ -641,6 +641,9 @@ Git
 Github Achievement
 + https://github.com/drknzz/GitHub-Achievements ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> github Achievements and Badge 기준)
 
+GitHub Emoji
++ https://github.com/ikatyang/emoji-cheat-sheet/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> emoji cheat sheet using github emoji API and Unicode emoji list)
+
 Github Extensions
 + https://inpa.tistory.com/entry/GitHub-%F0%9F%8F%9B%EF%B8%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EA%B9%83%ED%97%99-%ED%81%AC%EB%A1%AC-%EC%9D%B5%EC%8A%A4%ED%85%90%EC%85%98-%F0%9F%A7%A9-%EB%AA%A8%EC%9D%8C ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 유용한 깃헙 익스텐션 모음)
 
@@ -654,6 +657,7 @@ Github Issues and label
 Github Profile
 + http://blog.cowkite.com/blog/2102241544/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Github Profile 꾸미기)
 + https://contrib.rocks/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Generate an image of contributors to keep your README.md in sync)
++ https://shields.io/badges ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Shields.io 공식 문서)
 
 Github Templates
 + https://lusida-coding.tistory.com/140 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 깃허브 pull request와 issue template 만드는 방법!)
