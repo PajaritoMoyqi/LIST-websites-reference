@@ -1,12 +1,12 @@
-## Updated part
+## Show me updated part
 
-### other Files
+### 🗂️. Files
 
 - 
 
 
 
-### README
+### 🆕. Categories where websites are added
 
 - Languages
 
@@ -18,5 +18,19 @@
 
 
 
+### ❎. Deleted websites and reasons
+
+
+
+### 🔠. is there any file(s) you can't commit because of language issue?
+
+
+
 ## etc
+
+### 📰. Related issue
+
+
+
+### 
 
