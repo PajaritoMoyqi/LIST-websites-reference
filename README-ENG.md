@@ -659,6 +659,9 @@ Github Templates
 + https://lusida-coding.tistory.com/140 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> How to create a GitHub pull request and issue template!)
 + https://mini-min-dev.tistory.com/105 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Let's click "Create a new release" in github)
 + https://kukim.tistory.com/117 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> apply issue template, pr template in github)
++ https://yejinlife.tistory.com/entry/GitHub-Issue-%ED%85%9C%ED%94%8C%EB%A6%BF-PR-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A7%8C%EB%93%A4%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Make issue template & PR template)
++ https://gogumac.github.io/tools/git_github/github-template-with-yml/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Make github template using yml)
++ https://gist.github.com/liebespaar93/26174daa14fc50d723e34ff32c3fbb69 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> ISSUE_TEMPLATE issue template config files)
 
 Github Statistics
 + https://octoverse.github.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Statistics about github)

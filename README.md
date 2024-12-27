@@ -659,6 +659,9 @@ Github Templates
 + https://lusida-coding.tistory.com/140 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 깃허브 pull request와 issue template 만드는 방법!)
 + https://mini-min-dev.tistory.com/105 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 깃허브에서 Create a new release를 눌러보자)
 + https://kukim.tistory.com/117 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 깃허브 저장소에서 이슈 템플릿, PR 템플릿 적용하기)
++ https://yejinlife.tistory.com/entry/GitHub-Issue-%ED%85%9C%ED%94%8C%EB%A6%BF-PR-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A7%8C%EB%93%A4%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Issue 템플릿 & PR 템플릿 만들기)
++ https://gogumac.github.io/tools/git_github/github-template-with-yml/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> yml로 깃허브 템플릿 제작하기)
++ https://gist.github.com/liebespaar93/26174daa14fc50d723e34ff32c3fbb69 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> ISSUE_TEMPLATE 이슈 템플릿 설정파일)
 
 Github Statistics
 + https://octoverse.github.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> github 관련 통계)
