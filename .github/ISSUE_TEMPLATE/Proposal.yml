@@ -1,0 +1,19 @@
+name: "✨ Proposal"
+description: "If you have any proposal to this repo."
+title: "[Proposal]: "
+labels: ["Proposal", "Pending"]
+body:
+  - type: textarea
+    attributes:
+      label: 📄 What's your proposal?
+      placeholder: More detailed, better.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 📘 Any references to make it?
+      description: Write a list of websites which would be a help.
+  - type: textarea
+    attributes:
+      label: 🙋🏻 You have a will to participate to make your proposal if it's accepted?
+      description: Let me know how you want to participate.
