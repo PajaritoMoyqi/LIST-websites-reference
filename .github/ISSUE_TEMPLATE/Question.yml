@@ -11,5 +11,5 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: 📘 Any references to make it?
+      label: 📘 Any references about it?
       description: Write a list of websites which would be a help.
