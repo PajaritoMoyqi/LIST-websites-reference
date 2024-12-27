@@ -6,13 +6,13 @@ Any proposals or reports are welcome.
 
 Hope you enjoy.
 
-***
+<br />
 
+# Table of Contents
 
+Click a category below to see useful websites you need.
 
-# List
-
-Languages
+#### Languages
 
 - [GUIDE](#GUIDE)
 - [MARKDOWN](#MARKDOWN)
@@ -32,7 +32,7 @@ Languages
 - [React.js](#React.js)
 - [Vue.js](#Vue.js)
 
-Programming
+#### Programming
 
 - [Data](#Data)
 - [PWA](#PWA)
@@ -59,7 +59,7 @@ Programming
 - [Machine Learning](#Machine-Learning)
 - [etc](#etc)
 
-Contents
+#### Contents
 
 - [Writing](#Writing)
 - [Contents](#Contents)
@@ -67,15 +67,13 @@ Contents
 - [Lectures](#Lectures)
 - [Fun](#Fun)
 
-Jobs / Works
+#### Jobs / Works
 
 - [Search](#Search)
 - [Work Together](#Work-Together)
 - [Jobs](#Jobs)
 
-***
-
-
+<br />
 
 # Languages
 
@@ -547,7 +545,7 @@ V-model과 selected
 etc
 + https://jess2.xyz/vue/vue-tip/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 실무에 적용하면 좋은 내용 정리)
 
-
+<br />
 
 # Programming
 
@@ -983,7 +981,7 @@ Unminify
 URL
 + https://www.shorturl.at/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> url shortener)
 
-
+<br />
 
 # Contents
 
@@ -1149,7 +1147,7 @@ Videos
 + https://www.youtube.com/watch?v=3hxT4cSm03s ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 주니어 개발자가 빠르게 성장할 수 있는 비법은?)
 + https://www.youtube.com/watch?v=Qc-D9oPKQt4 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 아이디어가 있다구? 창의력을 위한 조언 한마디)
 
-
+<br />
 
 # Jobs / Works
 
