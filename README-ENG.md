@@ -98,7 +98,7 @@ etc
 ## YAML
 
 emoji
-+ https://emojidb.org/yaml-emojis ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> )
++ https://emojidb.org/yaml-emojis ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Yaml Emojis)
 
 ## HTML
 
