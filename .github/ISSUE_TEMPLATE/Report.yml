@@ -1,0 +1,19 @@
+name: "⚠️ Report"
+description: "If you find any bug or something to report."
+title: "[Report]: "
+labels: ["Report", "Pending"]
+body:
+  - type: textarea
+    attributes:
+      label: 📄 What's happened?
+      placeholder: More detailed, better.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 📘 Any references to fix it?
+      description: Write a list of websites which would be a help.
+  - type: textarea
+    attributes:
+      label: 🙋🏻 You have a will to participate to fix it if it turns out that the report needs to be fixed?
+      description: Let me know how you want to participate.

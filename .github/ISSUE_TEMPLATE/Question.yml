@@ -1,0 +1,15 @@
+name: "❓ Question"
+description: "If you want to ask something."
+title: "[Question]: "
+labels: ["Question", "Pending"]
+body:
+  - type: textarea
+    attributes:
+      label: 🧐 What you want to ask?
+      placeholder: More detailed, better.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 📘 Any references about it?
+      description: Write a list of websites which would be a help.
