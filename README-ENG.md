@@ -16,6 +16,7 @@ Languages
 
 - [GUIDE](#GUIDE)
 - [MARKDOWN](#MARKDOWN)
+- [YAML](#YAML)
 - [HTML](#HTML)
 - [CSS](#CSS)
 - [BootStrap and another](#BootStrap-and-another)
@@ -94,6 +95,11 @@ Markdown
 
 etc
 + https://www.youtube.com/watch?v=1NrHkjlWVhM ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how to make markdown blog by nodejs, express, mongodb)
+
+## YAML
+
+emoji
++ https://emojidb.org/yaml-emojis ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Yaml Emojis)
 
 ## HTML
 
