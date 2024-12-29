@@ -641,6 +641,9 @@ Git
 Github Achievement
 + https://github.com/drknzz/GitHub-Achievements ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> github Achievements and Badge)
 
+GitHub Emoji
++ https://github.com/ikatyang/emoji-cheat-sheet/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> emoji cheat sheet using github emoji API and Unicode emoji list)
+
 Github Extensions
 + https://inpa.tistory.com/entry/GitHub-%F0%9F%8F%9B%EF%B8%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EA%B9%83%ED%97%99-%ED%81%AC%EB%A1%AC-%EC%9D%B5%EC%8A%A4%ED%85%90%EC%85%98-%F0%9F%A7%A9-%EB%AA%A8%EC%9D%8C ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Useful github extensions)
 
@@ -653,9 +656,16 @@ Github Issues and label
 
 Github Profile
 + http://blog.cowkite.com/blog/2102241544/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Make Github Profile adorable)
++ https://contrib.rocks/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Generate an image of contributors to keep your README.md in sync)
++ https://shields.io/badges ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Shields.io documentation)
 
 Github Templates
 + https://lusida-coding.tistory.com/140 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> How to create a GitHub pull request and issue template!)
++ https://mini-min-dev.tistory.com/105 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Let's click "Create a new release" in github)
++ https://kukim.tistory.com/117 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> apply issue template, pr template in github)
++ https://yejinlife.tistory.com/entry/GitHub-Issue-%ED%85%9C%ED%94%8C%EB%A6%BF-PR-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A7%8C%EB%93%A4%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Make issue template & PR template)
++ https://gogumac.github.io/tools/git_github/github-template-with-yml/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Make github template using yml)
++ https://gist.github.com/liebespaar93/26174daa14fc50d723e34ff32c3fbb69 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> ISSUE_TEMPLATE issue template config files)
 
 Github Statistics
 + https://octoverse.github.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Statistics about github)
@@ -671,6 +681,7 @@ Naming
 
 Open Source
 + https://seongjin.me/how-to-contribute-to-open-source/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Github open source contrigution guide)
++ https://www.youtube.com/watch?v=2lL2eRQch2o&t=734s ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Wise open source life)
 
 Pull/push without id
 + https://kibua20.tistory.com/88 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> There are many ways)
