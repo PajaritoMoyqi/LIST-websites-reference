@@ -128,6 +128,7 @@ Inline, Inline-block, Block
 
 Special characters
 + https://www.toptal.com/designers/htmlarrows/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> A delightful reference for HTML Symbols, Entities and ASCII Character Codes)
++ https://html-css-js.com/html/character-codes/icons/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> HTML emoji list)
 
 Svg
 + https://heropatterns.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> A collection of repeatable SVG background patterns)
