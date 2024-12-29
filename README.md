@@ -26,6 +26,7 @@ Languages
 - [C++](#Cpp)
 - [Rust](#Rust)
 - [Assembly](#Assembly)
+- [Lua](#Lua)
 - [Compiler, Transfiler](#Compiler-and-Transfiler)
 - [Node.js](#Node.js)
 - [Django](#Django)
@@ -403,6 +404,11 @@ I/O
 + https://www.pagetable.com/c64ref/6502/?tab=2 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> 6502 instructions guide)
 + https://www.masswerk.at/6502/assembler.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> virtual 6502 / Assembler)
 + http://sun.hasenbraten.de/vasm/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> portable 6502 Assembler)
+
+## Lua
+
++ https://www.youtube.com/playlist?list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Lua Programming Tutorials)
++ https://velog.io/@goyou123/LUA ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Lua 프로그래밍 기초 문법 정리)
 
 ## Compiler and Transfiler
 
