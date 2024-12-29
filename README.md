@@ -16,6 +16,7 @@ Click a category below to see useful websites you need.
 
 - [GUIDE](#GUIDE)
 - [MARKDOWN](#MARKDOWN)
+- [YAML](#YAML)
 - [HTML](#HTML)
 - [CSS](#CSS)
 - [BootStrap and another](#BootStrap-and-another)
@@ -26,6 +27,7 @@ Click a category below to see useful websites you need.
 - [C++](#Cpp)
 - [Rust](#Rust)
 - [Assembly](#Assembly)
+- [Lua](#Lua)
 - [Compiler, Transfiler](#Compiler-and-Transfiler)
 - [Node.js](#Node.js)
 - [Django](#Django)
@@ -92,6 +94,11 @@ Markdown
 etc
 + https://www.youtube.com/watch?v=1NrHkjlWVhM ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> how to make markdown blog by nodejs, express, mongodb)
 
+## YAML
+
+emoji
++ https://emojidb.org/yaml-emojis ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Yaml Emojis)
+
 ## HTML
 
 Cross-brwosing
@@ -125,6 +132,7 @@ Inline, Inline-block, Block
 
 Special characters
 + https://www.toptal.com/designers/htmlarrows/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> A delightful reference for HTML Symbols, Entities and ASCII Character Codes)
++ https://html-css-js.com/html/character-codes/icons/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> HTML emoji list)
 
 Svg
 + https://heropatterns.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> A collection of repeatable SVG background patterns)
@@ -402,6 +410,11 @@ I/O
 + https://www.masswerk.at/6502/assembler.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> virtual 6502 / Assembler)
 + http://sun.hasenbraten.de/vasm/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> portable 6502 Assembler)
 
+## Lua
+
++ https://www.youtube.com/playlist?list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Lua Programming Tutorials)
++ https://velog.io/@goyou123/LUA ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Lua 프로그래밍 기초 문법 정리)
+
 ## Compiler and Transfiler
 
 Babel
@@ -639,6 +652,9 @@ Git
 Github Achievement
 + https://github.com/drknzz/GitHub-Achievements ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> github Achievements and Badge 기준)
 
+GitHub Emoji
++ https://github.com/ikatyang/emoji-cheat-sheet/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> emoji cheat sheet using github emoji API and Unicode emoji list)
+
 Github Extensions
 + https://inpa.tistory.com/entry/GitHub-%F0%9F%8F%9B%EF%B8%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EA%B9%83%ED%97%99-%ED%81%AC%EB%A1%AC-%EC%9D%B5%EC%8A%A4%ED%85%90%EC%85%98-%F0%9F%A7%A9-%EB%AA%A8%EC%9D%8C ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 유용한 깃헙 익스텐션 모음)
 
@@ -651,9 +667,16 @@ Github Issues and label
 
 Github Profile
 + http://blog.cowkite.com/blog/2102241544/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Github Profile 꾸미기)
++ https://contrib.rocks/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Generate an image of contributors to keep your README.md in sync)
++ https://shields.io/badges ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square&logoColor=white"/> Shields.io 공식 문서)
 
 Github Templates
 + https://lusida-coding.tistory.com/140 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 깃허브 pull request와 issue template 만드는 방법!)
++ https://mini-min-dev.tistory.com/105 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 깃허브에서 Create a new release를 눌러보자)
++ https://kukim.tistory.com/117 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 깃허브 저장소에서 이슈 템플릿, PR 템플릿 적용하기)
++ https://yejinlife.tistory.com/entry/GitHub-Issue-%ED%85%9C%ED%94%8C%EB%A6%BF-PR-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A7%8C%EB%93%A4%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> Issue 템플릿 & PR 템플릿 만들기)
++ https://gogumac.github.io/tools/git_github/github-template-with-yml/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> yml로 깃허브 템플릿 제작하기)
++ https://gist.github.com/liebespaar93/26174daa14fc50d723e34ff32c3fbb69 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> ISSUE_TEMPLATE 이슈 템플릿 설정파일)
 
 Github Statistics
 + https://octoverse.github.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> github 관련 통계)
@@ -669,6 +692,7 @@ Naming
 
 Open Source
 + https://seongjin.me/how-to-contribute-to-open-source/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 깃허브 오픈소스 기여 초보자 가이드)
++ https://www.youtube.com/watch?v=2lL2eRQch2o&t=734s ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 슬기로운 오픈소스 생활)
 
 Pull/push without id
 + https://kibua20.tistory.com/88 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square&logoColor=white"/> 아주 많은 방법이 있다)
