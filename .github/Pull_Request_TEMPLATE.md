@@ -2,23 +2,31 @@
 
 ### 🗂️. Files
 
-- 
+_(Please express the file name in bold style.)_
+
+- **file name**
+update detail(s)
 
 
 
 ### 🆕. Categories where websites are added
 
-- Languages
+- **Languages**
 
-- Programming
+- **Programming**
 
-- Contents
+- **Contents**
 
-- Jobs / Works
+- **Jobs / Works**
 
 
 
-### ❎. Deleted websites and reasons
+### ❎. Deleted website(s) and reason(s)
+
+_(Please express the website url in bold style.)_
+
+- **website url**
+reason(s)
 
 
 
