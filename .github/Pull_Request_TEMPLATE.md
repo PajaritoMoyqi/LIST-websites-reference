@@ -22,7 +22,7 @@
 
 
 
-### 🔠. is there any file(s) you can't commit because of language issue?
+### 🔠. Is(Are) there any file(s) you can't commit because of language issue?
 
 
 
