@@ -1,12 +1,14 @@
-<img src="https://img.shields.io/github/last-commit/PajaritoMoyqi/LIST-websites-reference"/>
-<img src="https://img.shields.io/github/contributors/PajaritoMoyqi/LIST-websites-reference"/>
-<img src="https://img.shields.io/github/stars/PajaritoMoyqi/LIST-websites-reference"/>
-<img src="https://img.shields.io/github/v/release/PajaritoMoyqi/LIST-websites-reference"/>
-<img src="https://img.shields.io/github/license/PajaritoMoyqi/LIST-websites-reference"/>
+<p>
+  <img src="https://img.shields.io/github/last-commit/PajaritoMoyqi/LIST-websites-reference"/>
+  <img src="https://img.shields.io/github/contributors/PajaritoMoyqi/LIST-websites-reference"/>
+  <img src="https://img.shields.io/github/stars/PajaritoMoyqi/LIST-websites-reference"/>
+  <img src="https://img.shields.io/github/v/release/PajaritoMoyqi/LIST-websites-reference"/>
+  <img src="https://img.shields.io/github/license/PajaritoMoyqi/LIST-websites-reference"/>
+</p>
 
 ## How to contribute to LIST-websites-reference
 
-I'm so glad to meet you in this project. I need new people who is interested in archiving useful websites together or making something new with the archived websites list.
+I'm so glad to meet you in this project. I need new people who are interested in archiving useful websites together or making something new with the archived websites list.
 
 If you don't have any, still I think you can find any typos or suggestions about this project.
 
@@ -46,7 +48,7 @@ Then open parenthesis to describe the website. You should use language badge and
 
 Until now, only websites written in English, Korean, Japanese and Spanish can be merged, because I'm the one who manage this project now.
 
-Right after the badge, write a simple description about website. You can use title of the post if it describes a contents well, or you can make your own description about it.
+Right after the badge, write a simple description about website. You can use title of the post if it describes contents well, or you can make your own description about it.
 
 ```md
 ## Appropriate category
@@ -59,15 +61,15 @@ Don't forget to add same website to both `README.md` and `README-ENG.md`. In `RE
 
 #### 🧮 commit message convention
 
-There is not existent convention about commit message. It will be made sooner rather than later.
+There is no existent convention about commit message. It will be made sooner rather than later.
 
 <br />
 
 ### 😄. Do you feel any website(s) in the list is(are) no more valid?
 
-Then remove it(them) from the list and make PR with detailed reasons why each website is no more vaild.
+Then remove it(them) from the list and make PR with detailed reasons why each website is no more valid.
 
-e.g. No more valid url, Not a described contents, Different language(not match any of 4 languages), etc.
+e.g. No more valid url, Not matched to described contents, Different language(not match any of 4 languages), etc.
 
 <br />
 
@@ -77,7 +79,7 @@ goto [issue page](https://github.com/PajaritoMoyqi/LIST-websites-reference/issue
 
 If we decide to follow your proposal/report or make something new based on your proposal/report, and you have willing to participate in, you can.
 
-After make it or fix it, you can make PR with a given template. Please don't forget to link opened related issue.
+After making it or fix it, you can make PR with a given template. Please don't forget to link opened related issue.
 
 <br />
 
