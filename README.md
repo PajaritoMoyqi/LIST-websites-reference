@@ -96,12 +96,12 @@ etc
 
 ## YAML
 
-emoji
+Emoji
 + https://emojidb.org/yaml-emojis ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Yaml Emojis)
 
 ## HTML
 
-Cross-brwosing
+Cross-browsing
 + https://caniuse.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Support table and cross-browsing)
 
 Debug
@@ -116,7 +116,26 @@ HTML, HTML5, XHTML, XML
 + https://www.interviewbit.com/html-interview-questions/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> 63 HTML interview questions)
 + https://www.interviewbit.com/blog/difference-between-html-and-xml/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> difference between HTML and XML - advanced)
 
-Img
+Special characters
++ https://www.toptal.com/designers/htmlarrows/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> A delightful reference for HTML Symbols, Entities and ASCII Character Codes)
++ https://html-css-js.com/html/character-codes/icons/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> HTML emoji list)
+
+style(inline, inline-block, block)
++ https://norux.me/63 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> inline 요소에 기본으로 있는 4px의 공백에 대하여)
+
+Svg
++ https://heropatterns.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> A collection of repeatable SVG background patterns)
++ https://webcache.googleusercontent.com/search?q=cache:Xzh4w8qySfsJ:https://seons-dev.tistory.com/entry/%25EC%2582%25AC%25ED%258C%258C%25EB%25A6%25AC%25EC%2597%2590%25EC%2584%259C-SVG%25EA%25B0%2580-%25EB%2582%2598%25ED%2583%2580%25EB%2582%2598%25EC%25A7%2580-%25EC%2595%258A%25EC%259D%2584%25EB%2595%258C-%25ED%2595%25B4%25EA%25B2%25B0%25EB%25B0%25A9%25EB%25B2%2595&cd=2&hl=ko&ct=clnk&gl=kr ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 사파리에서 svg가 안 보여요!)
+
+Tags
++ https://yunbinni.tistory.com/63     ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> HTML 모든 태그 정리)
++ https://docs.emmet.io/cheat-sheet/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> emmet cheat sheet)
++ https://html.spec.whatwg.org/#toc-dom ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> html tag documentation)
++ https://gist.github.com/lancejpollard/1978404 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> all meta tags - very long time ago)
++ https://www.metatags.org/all-meta-tags-overview/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> all meta tags 2)
++ https://developers.google.com/search/docs/advanced/crawling/special-tags?hl=ko&visit_id=638043500683790785-719107215&rd=1 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> meta tags which are valid for google bot)
+
+tag(img)
 + https://placeholder.com/     ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Good API for temporal image)
 + https://picsum.photos/  ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Good API for temporal image)
 + https://velog.io/@hustle-dev/%EC%9B%B9-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 웹사이트 최적화를 위한 이미지 제언)
@@ -127,27 +146,8 @@ Img
 + https://www.shutterstock.com/ko/blog/resize-images-for-web/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 브라우저 이미지 최적화)
 + https://code-masterjung.tistory.com/60 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 브라우저 이미지 최적화 2)
 
-Inline, Inline-block, Block
-+ https://norux.me/63 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> inline 요소에 기본으로 있는 4px의 공백에 대하여)
-
-Special characters
-+ https://www.toptal.com/designers/htmlarrows/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> A delightful reference for HTML Symbols, Entities and ASCII Character Codes)
-+ https://html-css-js.com/html/character-codes/icons/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> HTML emoji list)
-
-Svg
-+ https://heropatterns.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> A collection of repeatable SVG background patterns)
-+ https://webcache.googleusercontent.com/search?q=cache:Xzh4w8qySfsJ:https://seons-dev.tistory.com/entry/%25EC%2582%25AC%25ED%258C%258C%25EB%25A6%25AC%25EC%2597%2590%25EC%2584%259C-SVG%25EA%25B0%2580-%25EB%2582%2598%25ED%2583%2580%25EB%2582%2598%25EC%25A7%2580-%25EC%2595%258A%25EC%259D%2584%25EB%2595%258C-%25ED%2595%25B4%25EA%25B2%25B0%25EB%25B0%25A9%25EB%25B2%2595&cd=2&hl=ko&ct=clnk&gl=kr ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 사파리에서 svg가 안 보여요!)
-
-Table
+tag(table)
 + https://www.tablesgenerator.com ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> table generator)
-
-Tags
-+ https://yunbinni.tistory.com/63     ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> HTML 모든 태그 정리)
-+ https://docs.emmet.io/cheat-sheet/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> emmet cheat sheet)
-+ https://html.spec.whatwg.org/#toc-dom ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> html tag documentation)
-+ https://gist.github.com/lancejpollard/1978404 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> all meta tags - very long time ago)
-+ https://www.metatags.org/all-meta-tags-overview/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> all meta tags 2)
-+ https://developers.google.com/search/docs/advanced/crawling/special-tags?hl=ko&visit_id=638043500683790785-719107215&rd=1 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> meta tags which are valid for google bot)
 
 Text
 + https://www.lipsum.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> temporal text generator)
@@ -155,13 +155,13 @@ Text
 
 ## CSS
 
-After & Before
+after & before
 + https://fromnowwon.tistory.com/entry/css-triangle-bubble ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 삼각형 그리기)
 
-Animation
+animation
 + https://animate.style/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> animate.css)
 
-Block & Inline
+block & inline
 + https://junistory.blogspot.com/2017/07/html5.html   ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Block 요소 및 Inline 요소 리스트)
 
 Checkbox
@@ -171,7 +171,7 @@ Checkbox
 Click
 + https://stackoverflow.com/questions/18083061/make-element-unclickable-click-things-behind-it ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> make element unclickable)
 
-Color
+color
 + https://colorhunt.co/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> 색상 조합표 list)
 + https://color.adobe.com/ko/create/color-wheel ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 색상 원형 팔레트)
 + https://zetawiki.com/wiki/CSS_%EC%83%89%EC%83%81%EB%AA%85,_X11_%EC%83%89%EC%83%81%EB%AA%85 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 색상 명명표)
@@ -185,22 +185,22 @@ Cross-browsing
 Design
 + https://magazinevm.com/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-16%EA%B3%B3-%EA%B5%AD%EB%82%B4-%ED%95%B4%EC%99%B8-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> design benchmarking websites 모음)
 
-Flex
+flex
 + https://heropy.blog/2018/11/24/css-flexible-box/   ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Flex 완벽 가이드)
 + https://studiomeal.com/archives/197 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Flex 예시 실시간 확인 가능)
 + https://velog.io/@jary/flex%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%80%EC%9A%B4%EB%8D%B0-%EC%A0%95%EB%A0%AC ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 수직/수평 정렬)
 + https://flexboxfroggy.com/#ko ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Flexbox 재미있게 배워보아요!)
 
-Font
+font
 + https://stackoverflow.com/questions/15249654/chrome-not-respecting-font-weight ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> when font-weight looks like it doesn't work)
 
 Form
 + https://web.dev/learn/forms/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Learn forms!)
 
-Grid
+grid
 + https://heropy.blog/2019/08/17/css-grid/   ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Grid 완벽 가이드)
 
-Gradient
+gradient
 + https://cssgradient.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> CSS Gradient)
 
 Guide
@@ -216,7 +216,7 @@ Img
 + https://stackoverflow.com/questions/34247337/object-fit-not-affecting-images ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> about object fit of img tag)
 + https://webclub.tistory.com/279 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> image 너비에 따라 height가 바뀌도록 하기! wow wow wow)
 
-Input 
+Input
 + https://stackoverflow.com/questions/28564450/font-weight-500-and-600-not-working-on-input-element ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> input에 font-weight 적용하려면 font-family를 명확하게 명시해줘야 함)
 + https://hianna.tistory.com/435 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> input에 글자수 제한하는 두 가지 방법)
 + https://wazacs.tistory.com/33 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> custom input file x button)
@@ -234,7 +234,7 @@ Modal
 nth-of-type, nth-child
 + https://stackoverflow.com/questions/29859388/last-of-type-doesnt-work ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> don't use class to nth-of-type)
 
-Position
+position
 + https://stackoverflow.com/questions/6867244/force-position-absolute-to-be-relative-to-the-document-and-not-the-parent-con ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> what is position: fixed)
 
 Selector
@@ -249,7 +249,7 @@ Text
 + https://www.dafont.com/   ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> commercial free ENG fonts)
 + https://webdir.tistory.com/483 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 한 줄 or 여러 줄 글자 자르기/숨기기 총정리)
 
-Width-height
+width & height
 + https://www.w3schools.com/howto/howto_css_aspect_ratio.asp ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> when the element is absolute and has no child, how to give height with respect to width)
 
 ## BootStrap and another
@@ -305,10 +305,10 @@ Event
 + https://ifuwanna.tistory.com/289 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> preventDefault()와 stopPropagation()의 차이)
 + https://domevents.dev/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Capturing and Bubbling visualization)
 
-Fetch
+fetch
 + https://stackoverflow.com/questions/7346563/loading-local-json-file ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> load local json - fetch)
 
-This
+this
 + https://velog.io/@koseungbin/This-Binding ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> this가 경우에 따라 어떻게 바인딩 되는가를 다룬 문서)
 
 Object
@@ -329,7 +329,6 @@ etc
 
 ## TypeScript
 
-Roadmap
 + https://github.com/microsoft/typescript/wiki/roadmap ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> TypeScript Roadmap)
 
 REPL
@@ -345,7 +344,7 @@ REPL
 argparse
 + https://engineer-mole.tistory.com/213 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> ArgumentParser란 무엇인가)
 
-Args, kwargs
+args, kwargs
 + https://brunch.co.kr/@princox/180 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> *args, *kwargs 누구냐 너흰)
 
 Big-O and Complexity
@@ -357,7 +356,7 @@ Interpreter
 json
 + https://tifferent.tistory.com/40 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> json의 load, loads, dump, dumps)
 
-Matplotlib
+matplotlib
 + https://stackoverflow.com/questions/31051488/combining-two-matplotlib-colormaps  ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> combining two colorbars )
 
 Module
@@ -370,13 +369,15 @@ re
 + https://jh2021.tistory.com/7 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> re의 내장 메서드들에 관해 )
 + https://velog.io/@cha-suyeon/match-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EB%A9%94%EC%84%9C%EB%93%9C-group-start-end-span ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Methods of Match object)
 
-Super
+super
 + https://harry24k.github.io/super/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> super는 무엇인가)
 
 Under-bar and under-score
 + https://eine.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90%EC%84%9C-%EC%96%B8%EB%8D%94%EB%B0%94%EC%96%B8%EB%8D%94%EC%8A%A4%EC%BD%94%EC%96%B4-%EC%9D%98-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%97%AD%ED%95%A0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 파이썬에서의 언더바와 언더스코어의 의미 차이)
 
 ## C
+
++ https://github.com/innovationacademy-kr/hitchhikers_guide/blob/main/c.md ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 처음 배우는 C 언어에 대한 안내서들)
 
 Compiler
 + https://www.programiz.com/c-programming/online-compiler/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> online compiler)
@@ -385,9 +386,6 @@ Compiler
 
 Debugger
 + https://www.onlinegdb.com/online_c_debugger ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> online debugger)
-
-References
-+ https://github.com/innovationacademy-kr/hitchhikers_guide/blob/main/c.md ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 처음 배우는 C 언어에 대한 안내서들)
 
 Scanf & printf
 + https://electro-don.tistory.com/entry/scanf-n-%EA%B4%80%EB%A0%A8 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> scanf는 줄바꿈을 구분하지 않는다!)
@@ -445,7 +443,7 @@ Deploy
 + https://blog.ull.im/engineering/2019/03/31/node-js-production-best-practices.html ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> node 배포 환경을 위한 best practice)
 + https://jemerald.tistory.com/96, https://calvinjmkim.tistory.com/22 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 배포후 node를 업그레이드 했더니 Error: Cannot find module 'semver'가 뜨는 경우)
 
-Fs
+fs
 + https://stackoverflow.com/questions/65986153/how-to-make-fs-readfile-async-await ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to use fs.readfile() asynchronously)
 
 Gulp
@@ -473,7 +471,7 @@ Pm2
 + https://pm2.io/docs/runtime/best-practices/environment-variables/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> when you want to update env var)
 + https://inpa.tistory.com/entry/node-%F0%9F%93%9A-PM2-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%84%9C%EB%B9%84%EC%8A%A4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> pm2 총정리 - Inpa blog)
 
-Res, req
+res, req
 + https://webcache.googleusercontent.com/search?q=cache:ok-H_I_eyc0J:https://beausty23.tistory.com/68&cd=3&hl=ko&ct=clnk&gl=kr ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> res.send로 팝업창 띄운 뒤 다시 되돌아오기)
 
 Security (helmet, csurf etc)
@@ -511,7 +509,7 @@ Models
 Settings
 + https://076923.github.io/posts/Python-Django-3/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> settings.py 파일에 대한 깊은 이해)
 
-Slug
+slug
 + https://stackoverflow.com/questions/427102/what-is-a-slug-in-django ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> what is slug - basic)
 
 Template
@@ -520,7 +518,7 @@ Template
 Url
 + https://stackoverflow.com/questions/70319606/importerror-cannot-import-name-url-from-django-conf-urls-after-upgrading-to ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> url deprecated error django 3.xx to django 4.xx)
 
-Venv & virtualenv
+venv & virtualenv
 + https://jins-sw.tistory.com/19 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> venv 내부동작은 어떻게 될까?)
 + https://bubtaylor.com/how-pythons-virtualenv-works-f21c298f8061 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how venv works internally?)
 
@@ -539,10 +537,6 @@ Virtual DOM
 
 ## Vue.js
 
-Vue3 changed points
-+ https://v3.vuejs.org/guide/migration/introduction.html#global-api ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> 공식페이지)
-+ https://velog.io/@bluestragglr/Vue3-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B0%94%EB%80%8C%EB%82%98%EC%9A%94 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 변경점 생기기 전 기준 자세한 설명)
-
 Css deep rendering
 + https://stackoverflow.com/questions/44844788/vue-js-style-v-html-with-scoped-css ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> 두 가지 해결방법)
 
@@ -552,8 +546,12 @@ Duplicated data
 HtmlWebpackPlugin.options.title
 + https://stackoverflow.com/questions/62023604/where-to-find-or-how-to-set-htmlwebpackplugin-options-title-in-project-created-w ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> title 바꾸기)
 
-V-model과 selected
+V-model & selected
 + https://stackoverflow.com/questions/46772060/vue-selected-prop-not-working-with-v-model ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> answer: "gives initial value to binded variable")
+
+Version
++ https://v3.vuejs.org/guide/migration/introduction.html#global-api ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> 공식페이지)
++ https://velog.io/@bluestragglr/Vue3-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B0%94%EB%80%8C%EB%82%98%EC%9A%94 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 변경점 생기기 전 기준 자세한 설명)
 
 etc
 + https://jess2.xyz/vue/vue-tip/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 실무에 적용하면 좋은 내용 정리)
@@ -568,7 +566,7 @@ ERD
 + https://inpa.tistory.com/entry/DB-%F0%9F%93%9A-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81-1N-%EA%B4%80%EA%B3%84-%F0%9F%93%88-ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> ERD 총정리)
 + https://app.diagrams.net/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> ERD 그리기 편한 곳)
 
-JOIN
+Join
 + https://sql-joins.leopard.in.ua/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> JOIN visualizer)
 
 JSON
@@ -694,11 +692,12 @@ Open Source
 + https://seongjin.me/how-to-contribute-to-open-source/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 깃허브 오픈소스 기여 초보자 가이드)
 + https://www.youtube.com/watch?v=2lL2eRQch2o&t=734s ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 슬기로운 오픈소스 생활)
 
-Pull/push without id
+pull/push without id
 + https://kibua20.tistory.com/88 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 아주 많은 방법이 있다)
 
 ## Debug
 
+localhost
 + https://www.youtube.com/watch?v=0lUJvVqSEkY ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> expose your localhost to the world! ngrok and localtunnel)
 
 ## Front-end
@@ -707,6 +706,7 @@ Pull/push without id
 
 ## Design
 
+Ideas
 + https://www.cssdesignawards.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> monthly web design)
 + https://www.awwwards.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> today's web design)
 + https://designus.io/topic ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> A-B 어느게 어떨 때 좋을까요? 디자인 비교)
@@ -771,7 +771,7 @@ Favicon maker
 
 + https://nuli.navercorp.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 웹 접근성이 어떤 사람들에게 필요하고 어떻게 구현이 가능한가)
 
-Aria(HTML)
+aria(HTML)
 + https://velog.io/@kym123123/ARIA%EC%9D%98%EC%86%8D%EC%84%B1%EC%83%81%ED%83%9C%EC%97%AD%ED%95%A0%EB%B0%8F%EC%82%AC%EC%9A%A9-%EC%98%88%EC%8B%9C%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> aria란 무엇인가)
 
 ## CDN
@@ -780,7 +780,10 @@ Aria(HTML)
 
 ## VSCode
 
+Shortcuts
 + https://hianna.tistory.com/550  ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 화면/메뉴 글자들이 전체적으로 작아졌을 때)
+
+Extensions
 + https://www.inflearn.com/blogs/2156 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Beautify 더 이상 지원 안 함, 대체품은?)
 
 ## Optimization
@@ -804,6 +807,7 @@ Traffic(Bandwidth)
 
 ## Security
 
+Web
 + https://www.youtube.com/watch?v=Q3YuKipzPbs ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Samesite란 무엇이고, CSRF 방어와 어떤 관계인가)
 + https://www.youtube.com/channel/UC3BZupqBa9CZiNSc0x3lJlg/videos ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 다양한 웹 보안 짧은 강의들이 많음)
 + https://github.com/pillarjs/understanding-csrf ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> understanding csrf)
@@ -965,11 +969,16 @@ Linear Algebra
 + https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Top 10 algorithms in interview questions)
 
 ## Machine Learning
+
 + https://www.kaggle.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> ML competition) 
 
 ## etc
 
-Beautify
+RoadMap
++ https://roadmap.sh/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> roadmap by job and stack)
++ https://github.com/datastacktv/data-engineer-roadmap ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> data engineer roadmap)
+
+Beautifier
 + https://www.diffchecker.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> code difference checker)
 + https://tools.arantius.com/tabifier ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> code beautifier)
 + https://codebeautify.org/sqlformatter ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> SQL Formatter - can remove comment)
@@ -991,10 +1000,6 @@ Module, package, library, framwork
 + https://doozi0316.tistory.com/entry/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%ACFramework-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%ACLibrary-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8Plug-in-%EB%AA%A8%EB%93%88Module%EC%9D%98-%EC%B0%A8%EC%9D%B4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 라이브러리와 프레임워크의 차이를 아주 명쾌하게 설명)
 + https://blckchainetc.tistory.com/entry/%EB%AA%A8%EB%93%88-vs-%ED%8C%A8%ED%82%A4%EC%A7%80-vs-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-vs-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC?category=853037 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> module, package, library, framwork 차이 간단하게 설명)
 
-RoadMap
-+ https://roadmap.sh/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> roadmap by job and stack)
-+ https://github.com/datastacktv/data-engineer-roadmap ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> data engineer roadmap)
-
 Regex
 + https://ahkscript.github.io/ko/docs/misc/RegEx-QuickRef.htm ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Regex 간편 참조서)
 + https://www.autohotkey.com/docs/v1/misc/RegEx-QuickRef.htm ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Regex 간편 참조서)
@@ -1011,7 +1016,7 @@ URL
 
 ## Writing
 
-Patch Note / Release Note
+Patch Note & Release Note
 + https://brunch.co.kr/@ultra0034/80 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 패치노트 작성)
 + https://engineering.linecorp.com/ko/blog/write-the-docs-prague-2018-recap/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Write the Docs Prague 2018 방문기 - 릴리즈 노트 관련 글도 있음)
 + https://www.youtube.com/watch?v=L3yAD319DiU&t=6s ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Write the Docs Prague 2018 - Learning to love release notes - Anne Edwards)
@@ -1022,7 +1027,7 @@ Technical Writing
 
 ## Contents
 
-Blogs
+Blog
 + https://blog.shift.moe/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> solved.ac 박수현 블로그)
 + https://ahnheejong.name/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 안희종 블로그)
 + https://inpa.tistory.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> inpa 블로그)
@@ -1069,7 +1074,7 @@ Youtube(One Video)
 
 ## Official Tech Blogs
 
-KOR
+Korean
 + https://d2.naver.com/home ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> naver D2)
 + https://techblog.woowahan.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 우아한형제들)
 + https://tech.kakao.com/blog/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Kakao Tech)
@@ -1206,4 +1211,3 @@ Interview
 + https://github.com/gyoogle/tech-interview-for-developer ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 신입개발자 전공 지식 & 기술 면접 백과사전)
 + https://github.com/JaeYeopHan/Interview_Question_for_Beginner ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 신입개발자 면접질문)
 + https://github.com/ksundong/backend-interview-question ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 백엔드 개발자 면접질문)
-
