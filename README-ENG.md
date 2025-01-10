@@ -704,7 +704,6 @@ DigitalOcean
 
 Domain
 + https://tld-list.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Domain comparison)
-+ https://kr.godaddy.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Godaddy - bad)
 + https://www.gabia.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Gabia)
 + https://www.namecheap.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Namecheap)
 + https://www.spaceship.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> spaceship)
