@@ -1026,7 +1026,6 @@ Blog
 + https://blog.naver.com/PostList.naver?blogId=lagrange0115&categoryNo=0&from=postList ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 엠에스리 블로그 - 기계공학/전기전자 관련 글 좋음)
 
 Book
-+ http://egloos.zum.com/dreamform/v/2807474 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> CS, Architecture 쪽에 집중된 책 추천)
 + https://itguava.tistory.com/8 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> OS 만들기 책 추천)
 
 eBook
@@ -1054,7 +1053,7 @@ Youtube(Lectures)
 + https://www.youtube.com/watch?v=PS5n7HU1n3Q&list=PLm7kUQYfvIRP0l66keVy-DZ0vhTi7jOII ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 시대에듀 - 반도체 전공면접 강좌 재생목록)
 
 Youtube(One Video)
-+ https://www.youtube.com/@LowLevelLearning ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Low Level Learning - Lots of videos on fundamental questions)
++ https://www.youtube.com/@LowLevelTV ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> LowLevelTV - Lots of videos on fundamental questions)
 + https://www.youtube.com/@bRd3D ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> bRd 3D - 기계 작동방식을 아주 공들인 영상들로 정리)
 
 ## Official Tech Blogs
@@ -1077,7 +1076,6 @@ Korean
 + https://medium.com/daangn ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 당근마켓 팀 블로그)
 + https://medium.com/tving-team ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> TVING Team Blog)
 + https://blog.banksalad.com/tech/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> banksalad 블로그)
-+ https://yanolja.github.io/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> yanolja 기술블로그)
 + https://techblog.yogiyo.co.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 요기요 기술블로그)
 + https://devblog.kakaostyle.com/ko/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 카카오스타일 기술 블로그)
 + https://tech.kakaoenterprise.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> kakaoenterprise Tech&)
@@ -1089,7 +1087,6 @@ Korean
 + https://helloworld.kurly.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Kurly Tech Blog)
 + https://medium.com/zigbang ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> zigbang tech blog)
 + https://ui.toast.com/posts/ko ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> TOAST UI)
-+ https://tech.lezhin.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 레진 기술 블로그)
 + https://engineering-skcc.github.io/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> SK C&C TECH BLOG)
 + https://snack.planetarium.dev/kor/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 플라네타리움 엔지니어링 스낵)
 + https://ridicorp.com/story-category/tech-blog/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> RIDI)
@@ -1134,7 +1131,7 @@ English
 + https://www.eduonix.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Eduonix)
 + https://www.codecademy.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Codeacademy)
 + https://www.codeavengers.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Code Avengers)
-+ https://nomadcoders.co/ (노마드코더)
++ https://nomadcoders.co/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> 노마드코더)
 + https://www.coursera.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Coursera)
 + https://codewithmosh.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Code with Mosh)
 + https://teamtreehouse.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Team treehouse - Interactive online coding classes for at-home learning)
