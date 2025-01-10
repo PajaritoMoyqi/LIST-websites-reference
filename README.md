@@ -1168,7 +1168,6 @@ Videos
 
 ## Work Together
 
-+ https://www.beginmate.com/   ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 협업할 사람 구합니다)
 + https://discordbot.tistory.com/51 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 디코에서 코드 공유하기)
 + https://eatdrinkenjoy.tistory.com/678 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 노션 특정 페이지만 공유하기)
 
@@ -1179,7 +1178,6 @@ Company
 + https://www.nextunicorn.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 넥스트유니콘 | 스타트업 전문투자자 연결 플랫폼)
 
 Info
-+ https://korecruit.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 매일 업데이트 되는 IT 채용 일정(korecruIT))
 + https://careerly.co.kr/landing ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> IT 업계 직장인 커뮤니티, 커리어리)
 + https://www.jumpit.co.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 점핏)
 + https://kr.linkedin.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 링크드인)
