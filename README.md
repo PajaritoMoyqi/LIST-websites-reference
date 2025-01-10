@@ -88,7 +88,7 @@ Click a category below to see useful websites you need.
 
 Markdown
 + https://heropy.blog/2017/09/30/markdown/   ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 마크다운 총정리)
-+ https://samsara-ku.dev/common_sense/difference-between-markup-and-markdown/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 마크업 vs 마크다운)
++ https://canaryrelease.tistory.com/8 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 마크업 vs 마크다운)
 + https://mangkyu.tistory.com/80 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 윈도우 새로만들기에 마크다운 추가하기)
 
 etc
@@ -125,14 +125,12 @@ style(inline, inline-block, block)
 
 Svg
 + https://heropatterns.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> A collection of repeatable SVG background patterns)
-+ https://webcache.googleusercontent.com/search?q=cache:Xzh4w8qySfsJ:https://seons-dev.tistory.com/entry/%25EC%2582%25AC%25ED%258C%258C%25EB%25A6%25AC%25EC%2597%2590%25EC%2584%259C-SVG%25EA%25B0%2580-%25EB%2582%2598%25ED%2583%2580%25EB%2582%2598%25EC%25A7%2580-%25EC%2595%258A%25EC%259D%2584%25EB%2595%258C-%25ED%2595%25B4%25EA%25B2%25B0%25EB%25B0%25A9%25EB%25B2%2595&cd=2&hl=ko&ct=clnk&gl=kr ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 사파리에서 svg가 안 보여요!)
++ https://seons-dev.tistory.com/entry/%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-SVG%EA%B0%80-%EB%82%98%ED%83%80%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%84%EB%95%8C-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 사파리에서 svg가 안 보여요!)
 
 Tags
-+ https://yunbinni.tistory.com/63     ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> HTML 모든 태그 정리)
 + https://docs.emmet.io/cheat-sheet/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> emmet cheat sheet)
 + https://html.spec.whatwg.org/#toc-dom ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> html tag documentation)
 + https://gist.github.com/lancejpollard/1978404 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> all meta tags - very long time ago)
-+ https://www.metatags.org/all-meta-tags-overview/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> all meta tags 2)
 + https://developers.google.com/search/docs/advanced/crawling/special-tags?hl=ko&visit_id=638043500683790785-719107215&rd=1 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> meta tags which are valid for google bot)
 
 tag(img)
@@ -141,7 +139,6 @@ tag(img)
 + https://velog.io/@hustle-dev/%EC%9B%B9-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 웹사이트 최적화를 위한 이미지 제언)
 + https://web.dev/fast/#optimize-your-images ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> optimize your image)
 + https://oliveyoung.tech/blog/2021-11-22/How-to-Improve-Web-Performance-with-Image-Optimization/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 웹사이트 최적화 - 이미지 파트)
-+ https://techit.kr/view/?no=20200701213803 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> webp is really better than jpeg?)
 + https://dmdwn3979.tistory.com/10 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> lazy loading)
 + https://www.shutterstock.com/ko/blog/resize-images-for-web/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 브라우저 이미지 최적화)
 + https://code-masterjung.tistory.com/60 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 브라우저 이미지 최적화 2)
@@ -151,7 +148,6 @@ tag(table)
 
 Text
 + https://www.lipsum.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> temporal text generator)
-+ https://hangul.thefron.me/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 임시 text generator 한글판)
 
 ## CSS
 
@@ -165,7 +161,6 @@ block & inline
 + https://junistory.blogspot.com/2017/07/html5.html   ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Block 요소 및 Inline 요소 리스트)
 
 Checkbox
-+ https://www.codingfactory.net/10710 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> how to style checkbox)
 + https://css-tricks.com/the-checkbox-hack/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to style checkbox 2)
 
 Click
@@ -369,9 +364,6 @@ re
 + https://jh2021.tistory.com/7 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> re의 내장 메서드들에 관해 )
 + https://velog.io/@cha-suyeon/match-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EB%A9%94%EC%84%9C%EB%93%9C-group-start-end-span ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Methods of Match object)
 
-super
-+ https://harry24k.github.io/super/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> super는 무엇인가)
-
 Under-bar and under-score
 + https://eine.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90%EC%84%9C-%EC%96%B8%EB%8D%94%EB%B0%94%EC%96%B8%EB%8D%94%EC%8A%A4%EC%BD%94%EC%96%B4-%EC%9D%98-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%97%AD%ED%95%A0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 파이썬에서의 언더바와 언더스코어의 의미 차이)
 
@@ -471,13 +463,10 @@ Pm2
 + https://pm2.io/docs/runtime/best-practices/environment-variables/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> when you want to update env var)
 + https://inpa.tistory.com/entry/node-%F0%9F%93%9A-PM2-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%84%9C%EB%B9%84%EC%8A%A4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> pm2 총정리 - Inpa blog)
 
-res, req
-+ https://webcache.googleusercontent.com/search?q=cache:ok-H_I_eyc0J:https://beausty23.tistory.com/68&cd=3&hl=ko&ct=clnk&gl=kr ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> res.send로 팝업창 띄운 뒤 다시 되돌아오기)
-
 Security (helmet, csurf etc)
 + https://m.blog.naver.com/PostView.nhn?blogId=cck223&logNo=221019399455&proxyReferer=https:%2F%2Fwww.google.com%2F ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Helmet & Cookie/Session 중심)
 + https://snyk.io/blog/explaining-the-csurf-vulnerability-csrf-attacks-on-all-versions/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> csurf deprecated and how to handle it)
-+ https://webcache.googleusercontent.com/search?q=cache:cTrgjfWLOPsJ:https://programmer-eun.tistory.com/125&cd=4&hl=ko&ct=clnk&gl=kr ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> bcrypt)
++ https://programmer-eun.tistory.com/125&cd=4&hl=ko&ct=clnk&gl=kr ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> bcrypt)
 + https://stackoverflow.com/questions/46408595/content-security-policy-csp-how-to-allow-svg-image-in-object ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> svg Content Security Policy problem)
 + https://tilomitra.medium.com/13-best-practices-to-secure-your-web-application-cc8fcdc352f5 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> 13 best practice for node security)
 + https://www.reddit.com/r/node/comments/xkey8g/understanding_the_csrf_vulnerability_in_popular/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> So, if you've installed csurf on your Express app, before you go chasing down some other library, I'd recommend doing an analysis of what real risk CSRF poses to you)
@@ -492,9 +481,6 @@ Security (helmet, csurf etc)
 
 Admin
 + https://funncy.github.io/django/2020/04/08/django-eb-05/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 배포 후 admin 사용)
-
-Database
-+ https://lemonlemon.tistory.com/182 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> no such table error)
 
 Errors
 + https://ssungkang.tistory.com/entry/Django-class-has-no-objects-member-%EC%97%90%EB%9F%AC ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> class has no obejcts member error 해결하는 두 가지 방법)
@@ -520,7 +506,6 @@ Url
 
 venv & virtualenv
 + https://jins-sw.tistory.com/19 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> venv 내부동작은 어떻게 될까?)
-+ https://bubtaylor.com/how-pythons-virtualenv-works-f21c298f8061 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how venv works internally?)
 
 ## React.js
 
