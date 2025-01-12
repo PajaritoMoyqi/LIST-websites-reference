@@ -667,6 +667,13 @@ Github Statistics
 Github Status
 + https://www.githubstatus.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> github status update - when error is not solved in normal way)
 
+Hooks
++ https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> git docs: Customizing Git - Git Hooks)
++ https://sjh1253.tistory.com/entry/git-git-hook%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9B%B9%EC%84%9C%EB%B2%84-%EC%9E%90%EB%8F%99-%EB%B0%B0%ED%8F%AC ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> git hook을 이용한 웹서버 자동 배포 + ssh)
++ https://velog.io/@tjdgus0528/Git-hooks-%EC%9D%B4%EB%9E%80-Husky-lint-staged ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Git hooks 이란? (+ Husky + lint-staged))
++ https://blog.naver.com/loverman85/221271298638 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> git hooks 사용해서 자동으로 pull 하기)
++ https://a3magic3pocket.github.io/posts/pull-and-push-automation/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Hook 없이 자동으로 pull and push하는 shell script 작성)
+
 Markdown
 + https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> in github, you can't use 'target=_blank' in markdown)
 
