@@ -653,6 +653,9 @@ Github Profile
 + https://contrib.rocks/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Generate an image of contributors to keep your README.md in sync)
 + https://shields.io/badges ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Shields.io 공식 문서)
 
+Github Template repository
++ https://velog.io/@bgm537/Github%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5-Template-repository-%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-fsjwpt0x00 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Github의 새로운 기능, Template repository 에 대해 알아보자)
+
 Github Templates
 + https://lusida-coding.tistory.com/140 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 깃허브 pull request와 issue template 만드는 방법!)
 + https://mini-min-dev.tistory.com/105 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 깃허브에서 Create a new release를 눌러보자)
