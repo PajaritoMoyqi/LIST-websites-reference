@@ -1047,6 +1047,7 @@ Blog
 + https://blog.naver.com/PostList.naver?blogId=crushhh ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Austin Kim naver blog)
 + https://blog.naver.com/PostList.naver?blogId=lagrange0115&categoryNo=0&from=postList ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 엠에스리 blog - Good articles related to mechanical engineering/electrical and electronics)
 + https://velog.io/@junttang/posts ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> hyeok's Log - Good articles related to OS)
++ https://blog.naver.com/simhs93 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 호구당 연구소 - Good articles related to OS making using C)
 
 Book
 + https://itguava.tistory.com/8 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> OS making book recommendation)
