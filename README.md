@@ -18,6 +18,7 @@ Click a category below to see useful websites you need.
 - [MARKDOWN](#MARKDOWN)
 - [YAML](#YAML)
 - [HTML](#HTML)
+- [ejs](#ejs)
 - [CSS](#CSS)
 - [BootStrap and another](#BootStrap-and-another)
 - [Javascript](#Javascript)
@@ -149,6 +150,11 @@ tag(table)
 
 Text
 + https://www.lipsum.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> temporal text generator)
+
+## ejs
+
+locals
++ https://stackoverflow.com/questions/5372559/what-is-the-proper-way-to-check-for-existence-of-variable-in-an-ejs-template-us ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> What is the proper way to check for existence of variable in an EJS template (using ExpressJS)?)
 
 ## CSS
 
@@ -632,6 +638,7 @@ Flow
 
 Git
 + https://www.toptal.com/developers/gitignore ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 프로젝트에 따른 gitignore 자동생성)
++ https://s0ojin.tistory.com/47 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> git 파일명 대소문자 구분 error)
 
 Github Achievement
 + https://github.com/drknzz/GitHub-Achievements ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> github Achievements and Badge 기준)
@@ -758,6 +765,11 @@ VPS
 
 BlackHat SEO
 + https://www.youtube.com/watch?v=J2hj2s9gtG4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 블랙햇이란 무엇인가?)
+
+Canonical URL
++ https://growthacking.kr/%EC%BA%90%EB%85%B8%EB%8B%88%EC%BB%AC-%ED%83%9C%EA%B7%B8-canonical-tag%EB%A1%9C-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 캐노니컬 태그 (Canonical tag)로 검색엔진 최적화하기)
++ https://developers.channel.io/docs/canonical-url ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> What is canonical URL)
++ https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls?visit_id=638725887212304473-2158470092&rd=1 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to specify a canonical URL with rel="canonical" and other methods)
 
 Favicon maker
 + https://favicon.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> text favicon maker)
