@@ -95,6 +95,7 @@ Markdown
 
 etc
 + https://www.youtube.com/watch?v=1NrHkjlWVhM ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to make markdown blog by nodejs, express, mongodb)
++ https://readme.so/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> The easiest way to create a README)
 
 ## YAML
 
@@ -661,6 +662,15 @@ Github Profile
 + https://contrib.rocks/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Generate an image of contributors to keep your README.md in sync)
 + https://shields.io/badges ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Shields.io 공식 문서)
 
+Github README.md
++ https://readme.so/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> The easiest way to create a README)
+
+Github Statistics
++ https://octoverse.github.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> github 관련 통계)
+
+Github Status
++ https://www.githubstatus.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> github status update - when error is not solved in normal way)
+
 Github Template repository
 + https://velog.io/@bgm537/Github%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5-Template-repository-%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-fsjwpt0x00 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Github의 새로운 기능, Template repository 에 대해 알아보자)
 
@@ -671,12 +681,6 @@ Github Templates
 + https://yejinlife.tistory.com/entry/GitHub-Issue-%ED%85%9C%ED%94%8C%EB%A6%BF-PR-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A7%8C%EB%93%A4%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Issue 템플릿 & PR 템플릿 만들기)
 + https://gogumac.github.io/tools/git_github/github-template-with-yml/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> yml로 깃허브 템플릿 제작하기)
 + https://gist.github.com/liebespaar93/26174daa14fc50d723e34ff32c3fbb69 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> ISSUE_TEMPLATE 이슈 템플릿 설정파일)
-
-Github Statistics
-+ https://octoverse.github.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> github 관련 통계)
-
-Github Status
-+ https://www.githubstatus.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> github status update - when error is not solved in normal way)
 
 Hooks
 + https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> git docs: Customizing Git - Git Hooks)
