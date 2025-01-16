@@ -95,7 +95,6 @@ Markdown
 
 etc
 + https://www.youtube.com/watch?v=1NrHkjlWVhM ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to make markdown blog by nodejs, express, mongodb)
-+ https://readme.so/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> The easiest way to create a README)
 
 ## YAML
 
