@@ -16,12 +16,14 @@ Click a category below to see useful websites you need.
 
 - [GUIDE](#GUIDE)
 - [MARKDOWN](#MARKDOWN)
+- [Shell script](#Shell-script)
 - [YAML](#YAML)
 - [HTML](#HTML)
 - [ejs](#ejs)
 - [CSS](#CSS)
 - [BootStrap and another](#BootStrap-and-another)
 - [Javascript](#Javascript)
+- [jQuery](#jQuery)
 - [TypeScript](#TypeScript)
 - [Python](#Python)
 - [C](#C)
@@ -95,6 +97,10 @@ Markdown
 
 etc
 + https://www.youtube.com/watch?v=1NrHkjlWVhM ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to make markdown blog by nodejs, express, mongodb)
+
+## Shell script
+
++ https://explainshell.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Explain shell script)
 
 ## YAML
 
@@ -329,6 +335,11 @@ Stack & Heap
 etc
 + https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> List of languages that compile to JS)
 
+## jQuery
+
+Plugin
++ https://jquery-plugins.net/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> jQuery plugins)
+
 ## TypeScript
 
 + https://github.com/microsoft/typescript/wiki/roadmap ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> TypeScript Roadmap)
@@ -414,6 +425,8 @@ I/O
 
 ## Compiler and Transfiler
 
++ https://transform.tools/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Transformation between different languages)
+
 Babel
 + https://babeljs.io/repl ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Babel REPL)
 
@@ -461,6 +474,7 @@ Markdown
 
 Npm
 + https://opentutorials.org/module/4571/27567 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Let's deploy it publicly on npm!)
++ https://bundlephobia.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> find the cost of adding a npm package to your bundle)
 
 Package.json
 + https://docs.npmjs.com/cli/v8/configuring-npm/package-json ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> package-json properties)
@@ -705,6 +719,11 @@ pull/push without id
 
 localhost
 + https://www.youtube.com/watch?v=0lUJvVqSEkY ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> expose your localhost to the world! ngrok and localtunnel)
+
+Web editor
++ https://codepen.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> The best place to build, test, and discover front-end code)
++ https://jsbin.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> HTML, CSS, Javascript, Console, Output)
++ https://jsfiddle.net/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> HTML, CSS, Javascript, Result)
 
 ## Front-end
 
