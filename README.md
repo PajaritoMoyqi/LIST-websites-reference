@@ -338,6 +338,7 @@ etc
 
 ## jQuery
 
+Plugin
 + https://jquery-plugins.net/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> jQuery plugins)
 
 ## TypeScript
