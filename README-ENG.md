@@ -64,6 +64,7 @@ Click a category below to see useful websites you need.
 - [Coding TEST](#Coding-TEST)
 - [Machine Learning](#Machine-Learning)
 - [Games](#Games)
+- [Streaming](#Streaming)
 - [etc](#etc)
 
 #### Contents
@@ -798,6 +799,7 @@ Canonical URL
 + https://growthacking.kr/%EC%BA%90%EB%85%B8%EB%8B%88%EC%BB%AC-%ED%83%9C%EA%B7%B8-canonical-tag%EB%A1%9C-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> SEO using canonical tag)
 + https://developers.channel.io/docs/canonical-url ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> What is canonical URL)
 + https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls?visit_id=638725887212304473-2158470092&rd=1 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to specify a canonical URL with rel="canonical" and other methods)
++ https://www.quora.com/How-long-does-it-take-for-Google-to-pick-up-a-new-sites-canonical-URL ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How long does it take for Google to pick up a new site's canonical URL?)
 
 Favicon maker
 + https://favicon.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> text favicon maker)
@@ -1023,6 +1025,15 @@ Project Zomboid
 
 Stoneshard
 + https://www.reddit.com/r/stoneshard/comments/11zbxgy/a_simple_guide_to_modding_stoneshard_with_an/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> A simple guide to modding Stoneshard, with an example of how to make the Backpack bigger.)
+
+## Streaming
+
+SOOP API
++ https://developers.sooplive.co.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> SOOP Developers)
++ https://doc.ssapi.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> SSAPI Docs: AfreecaTV/CHZZK Donation and Chat API)
++ https://velog.io/@dochis/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4TV-API-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Retrospect of SSAPI development)
++ https://cha2hyun.blog/content/projects/%EB%B0%B0%EB%8F%8C%EC%9D%B4%EC%9D%98%EB%8B%B9%EA%B5%AC%EC%83%9D%ED%99%9C/afreecatv-crawling/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 채수현 개발일지: AfreecaTV live chat crawling)
++ https://isekaidol-stream-noti.web.app/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> isekai IDOL streaming alarm)
 
 ## etc
 
