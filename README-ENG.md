@@ -107,8 +107,16 @@ etc
 
 ## YAML
 
++ https://onlineyamltools.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Online YAML Tools)
+
 Emoji
 + https://emojidb.org/yaml-emojis ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Yaml Emojis)
+
+Parser
++ https://yaml-online-parser.appspot.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Online YAML Parser)
+
+Validator
++ https://codebeautify.org/yaml-validator ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> YAML validator)
 
 ## HTML
 
@@ -308,6 +316,9 @@ Cookie
 Date
 + https://nowonbun.tistory.com/566 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> How to use formats in various ways using the moment library)
 
+document.documentElement
++ https://devbirdfeet.tistory.com/228 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> JavaScript - scrollTop / scrollHeight / clientHeight)
+
 Event
 + https://ifuwanna.tistory.com/289 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Difference between preventDefault() and stopPropagation())
 + https://domevents.dev/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Capturing and Bubbling visualization)
@@ -330,6 +341,9 @@ Swiper.js
 
 Stack & Heap
 + https://curryyou.tistory.com/276 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Javascript - stack, heap)
+
+window.addEventListener
++ https://webclub.tistory.com/607 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Debounce and Throttle)
 
 etc
 + https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> List of languages that compile to JS)
@@ -718,7 +732,11 @@ pull/push without id
 ## Debug
 
 localhost
++ https://metatags.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Meta Tags Toolkit)
++ https://www.heymeta.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Quickly check and build your meta tags)
 + https://www.youtube.com/watch?v=0lUJvVqSEkY ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> expose your localhost to the world! ngrok and localtunnel)
++ https://radiant515.tistory.com/655 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> What is ngrok, and how to use)
++ https://dev.to/iamscottcab/debugging-meta-tags-on-localhost-413c ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Debugging Meta Tags On Localhost)
 
 Web editor
 + https://codepen.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> The best place to build, test, and discover front-end code)
