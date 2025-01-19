@@ -39,7 +39,7 @@ Click a category below to see useful websites you need.
 
 #### Programming
 
-- [Data](#Data)
+- [DB](#DB)
 - [PWA](#PWA)
 - [Linux](#Linux)
 - [Git & Github](#Git-and-Github)
@@ -62,7 +62,7 @@ Click a category below to see useful websites you need.
 - [Algorithm](#Algorithm)
 - [Mathematics](#Mathematics)
 - [Coding TEST](#Coding-TEST)
-- [Machine Learning](#Machine-Learning)
+- [AI](#AI)
 - [Games](#Games)
 - [Streaming](#Streaming)
 - [etc](#etc)
@@ -73,6 +73,7 @@ Click a category below to see useful websites you need.
 - [Contents](#Contents)
 - [Official Tech Blog](#Official-Tech-Blog)
 - [Lectures](#Lectures)
+- [Community](#Community)
 - [Fun](#Fun)
 
 #### Jobs / Works
@@ -191,9 +192,6 @@ Compressor
 
 Cross-browsing
 + https://sung-studynote.tistory.com/131 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 크롬의 최소 폰트 크기는 10px이다!!)
-
-Design
-+ https://magazinevm.com/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-16%EA%B3%B3-%EA%B5%AD%EB%82%B4-%ED%95%B4%EC%99%B8-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> design benchmarking websites 모음)
 
 flex
 + https://heropy.blog/2018/11/24/css-flexible-box/   ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Flex 완벽 가이드)
@@ -568,7 +566,7 @@ etc
 
 # Programming
 
-## Data
+## DB
 
 ERD
 + https://inpa.tistory.com/entry/DB-%F0%9F%93%9A-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81-1N-%EA%B4%80%EA%B3%84-%F0%9F%93%88-ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> ERD 총정리)
@@ -734,10 +732,12 @@ Web editor
 ## Design
 
 Ideas
++ https://magazinevm.com/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-16%EA%B3%B3-%EA%B5%AD%EB%82%B4-%ED%95%B4%EC%99%B8-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> design benchmarking websites 모음)
 + https://www.cssdesignawards.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> monthly web design)
 + https://www.awwwards.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> today's web design)
 + https://designus.io/topic ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> A-B 어느게 어떨 때 좋을까요? 디자인 비교)
 + https://www.webdesignmuseum.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> web design museum)
++ https://notefolio.net/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 한국의 다양한 다자인 포트폴리오)
 
 Image
 + https://pixabay.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Stunning royalty-free images & royalty-free stock)
@@ -1010,9 +1010,13 @@ Linear Algebra
 + https://leetcode.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> LeetCode)
 + https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Top 10 algorithms in interview questions)
 
-## Machine Learning
+## AI
 
+Machine Learning
 + https://www.kaggle.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> ML competition)
+
+Deep Learning
++ https://bbongcol.github.io/deep-learning-bookmarks/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 딥러닝 스터디 자료 모음)
 
 ## Games
 
@@ -1250,6 +1254,10 @@ Videos
 
 + https://discordbot.tistory.com/51 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 디코에서 코드 공유하기)
 + https://eatdrinkenjoy.tistory.com/678 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 노션 특정 페이지만 공유하기)
+
+## Community
+
++ https://okky.kr/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 국내 최대 개발자 지식공유 플랫폼)
 
 ## Jobs
 
