@@ -73,13 +73,13 @@ Click a category below to see useful websites you need.
 - [Contents](#Contents)
 - [Official Tech Blog](#Official-Tech-Blog)
 - [Lectures](#Lectures)
-- [Community](#Community)
 - [Fun](#Fun)
 
 #### Jobs / Works
 
 - [Search](#Search)
 - [Work Together](#Work-Together)
+- [Community](#Community)
 - [Jobs](#Jobs)
 
 <br />
@@ -429,10 +429,23 @@ I/O
 
 ## Assembly
 
+x86
++ https://www.cs.virginia.edu/~evans/cs216/guides/x86.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> x86 Assembly guide)
++ https://www.nasm.us/doc/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> NASM - The Netwide Assembler - targeting the Intel x86 series of processors, with portable source)
++ https://programminggroundup.blogspot.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Programming from the Ground Up - An introduction to programming using linux assembly language)
+
 6502
 + https://www.pagetable.com/c64ref/6502/?tab=2 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> 6502 instructions guide)
 + https://www.masswerk.at/6502/assembler.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> virtual 6502 / Assembler)
 + http://sun.hasenbraten.de/vasm/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> portable 6502 Assembler)
+
+Compiler
++ https://godbolt.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> High level language code to assembly code)
+
+Game
++ https://store.steampowered.com/app/370360/TIS100/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> TIS-100)
++ https://store.steampowered.com/app/375820/Human_Resource_Machine/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Human Resource Machine)
++ https://store.steampowered.com/app/504210/SHENZHEN_IO/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> SHENZHEN I/O - BUILD CIRCUITS. WRITE CODE. RTFM.)
 
 ## Lua
 
