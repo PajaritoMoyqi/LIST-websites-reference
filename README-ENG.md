@@ -344,6 +344,9 @@ Stack & Heap
 
 window.addEventListener
 + https://webclub.tistory.com/607 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Debounce and Throttle)
++ https://ethansup.net/blog/deal-with-scroll-event/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Scroll event deep dive with the principal of browser rendering)
++ https://velog.io/@sejinkim/Passive-Event-Listeners ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Passive Event Listeners)
++ https://stackoverflow.com/questions/50393418/what-happens-if-i-dont-test-passive-event-listeners-support ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> What happens if I don't test Passive event listeners support?)
 
 etc
 + https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> List of languages that compile to JS)
@@ -433,8 +436,20 @@ I/O
 
 ## Lua
 
+Basic
 + https://www.youtube.com/playlist?list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua Programming Tutorials)
 + https://velog.io/@goyou123/LUA ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Lua basic)
++ https://www.lua.org/pil/contents.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Programming in Lua (first edition) - aimed at Lua 5.0)
++ https://web.tecgraf.puc-rio.br/~lhf/ftp/doc/sblp2005.pdf ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> The Implementation of Lua 5.0)
+
+Binding
++ https://blog.naver.com/sorkelf/40135908219 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Lua, with C)
+
+Docs
++ https://www.lua.org/docs.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua documentation)
+
+Game
++ https://www.jaenung.net/tree/1308?srsltid=AfmBOooYq3E3Mw-F7jDEcIjFtVfuUPLyFodFmzW-G2REAv9NDWdY-lVj ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Lua Scripting: Game development)
 
 ## Compiler and Transfiler
 
@@ -1067,6 +1082,7 @@ Beautifier
 + https://www.diffchecker.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> code difference checker)
 + https://tools.arantius.com/tabifier ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> code beautifier)
 + https://codebeautify.org/sqlformatter ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> SQL Formatter - can remove comment)
++ https://goonlinetools.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Online Toolkit - not only programming)
 
 Coding convetion
 + https://nuli.navercorp.com/tool/codingCon ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Naver coding convetion)
