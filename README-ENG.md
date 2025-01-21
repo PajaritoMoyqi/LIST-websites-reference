@@ -449,6 +449,9 @@ Game
 
 ## Lua
 
++ https://www.lua.org/source/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua source code)
++ https://www.lua.org/source/5.4/idx.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Source code for Lua 5.4 – index)
+
 Basic
 + https://www.youtube.com/playlist?list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua Programming Tutorials)
 + https://velog.io/@goyou123/LUA ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Lua basic)
@@ -457,6 +460,20 @@ Basic
 
 Binding
 + https://blog.naver.com/sorkelf/40135908219 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Lua, with C)
+
+Community
++ https://groups.google.com/g/lua-l/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua mailing list)
++ http://lua-users.org/lists/lua-l/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> lua-l archive)
+
+Compiler
++ https://www.luac.nl/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua Bytecode Explorer)
++ https://onecompiler.com/lua ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua Online Compiler & Interpreter)
+
+continue
++ https://stackoverflow.com/questions/3524970/why-does-lua-have-no-continue-statement ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Why does Lua have no "continue" statement?)
+
+Convention
++ https://www.reddit.com/r/lua/comments/1shtsg/is_camelcase_or_snake_case_more_common_in_lua/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Is camelCase or snake_case more common in Lua?)
 
 Docs
 + https://www.lua.org/docs.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua documentation)
