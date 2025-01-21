@@ -481,6 +481,9 @@ Docs
 Game
 + https://www.jaenung.net/tree/1308?srsltid=AfmBOooYq3E3Mw-F7jDEcIjFtVfuUPLyFodFmzW-G2REAv9NDWdY-lVj ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Lua 스크립팅: 게임 개발에서의 활용)
 
+sort
++ https://stackoverflow.com/questions/45164441/how-to-sort-a-table-on-multiple-values-in-lua ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to sort a table on multiple values in lua?)
+
 ## Compiler and Transfiler
 
 + https://transform.tools/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> 여러 언어 간의 변환)
@@ -838,6 +841,7 @@ Nginx
 + https://www.joinc.co.kr/w/man/12/proxy ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> proxy server)
 + https://learn.microsoft.com/ko-kr/troubleshoot/developer/webapps/aspnetcore/practice-troubleshoot-linux/2-2-install-nginx-configure-it-reverse-proxy ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> nginx reverse proxy setting 2)
 + https://adguard-vpn.com/ko/blog/vpn-vs-proxy.html ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> VPN vs Forward Proxy)
++ https://www.youtube.com/watch?v=qQl93M7XpJA ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Configuring subdomains on Nginx)
 
 Porkbun
 + https://www.youtube.com/watch?v=kl3a76CBwX4 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Porkbun Domains: Register, Transfer, Connect Website, and Grant Access)
@@ -866,6 +870,12 @@ Canonical URL
 
 Favicon maker
 + https://favicon.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> text favicon maker)
+
+Multilingual URL
++ https://www.lionbridge.com/ko/blog/global-marketing/choosing-multilingual-url-structure-5-things-consider/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 다국어 URL은 어떻게 선택해야 하는가)
++ https://www.lionbridge.com/ko/blog/translation-localization/9-essential-elements-intelligent-multilingual-website-design/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 다국어 웹사이트 구축 방법: 모범 사례 9개와 예시)
++ https://brunch.co.kr/@mlml5/7 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 6개국 언어로 웹사이트 디자인하기)
++ https://www.semrush.com/blog/subdomain-vs-subdirectory/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Subdomain vs. Subdirectory: What They Are & Which Is Better for SEO)
 
 ## Web Accessibility
 
