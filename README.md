@@ -55,6 +55,7 @@ Click a category below to see useful websites you need.
 - [Security](#Security)
 - [API](#API)
 - [Architecture](#Architecture)
+- [File System](#File-System)
 - [Network](#Network)
 - [Device](#Device)
 - [Rasberry PI](#Rasberry-PI)
@@ -326,8 +327,8 @@ Event
 fetch
 + https://stackoverflow.com/questions/7346563/loading-local-json-file ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> load local json - fetch)
 
-this
-+ https://velog.io/@koseungbin/This-Binding ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> this가 경우에 따라 어떻게 바인딩 되는가를 다룬 문서)
+mongoose
++ https://stackoverflow.com/questions/19599543/check-mongoose-connection-state-without-creating-new-connection ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Check mongoose connection state without creating new connection)
 
 Object
 + https://geometery-programing.tistory.com/23 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> map, filter로 object 가공하기)
@@ -341,6 +342,9 @@ Swiper.js
 
 Stack & Heap
 + https://curryyou.tistory.com/276 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Javascript 스택, 힙의 동작)
+
+this
++ https://velog.io/@koseungbin/This-Binding ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> this가 경우에 따라 어떻게 바인딩 되는가를 다룬 문서)
 
 window.addEventListener
 + https://webclub.tistory.com/607 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Debounce and Throttle)
@@ -516,6 +520,11 @@ Deploy
 + https://blog.ull.im/engineering/2019/03/31/node-js-production-best-practices.html ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> node 배포 환경을 위한 best practice)
 + https://jemerald.tistory.com/96, https://calvinjmkim.tistory.com/22 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 배포후 node를 업그레이드 했더니 Error: Cannot find module 'semver'가 뜨는 경우)
 
+Express
++ https://stackoverflow.com/questions/50033966/simple-subdomain-with-express ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Simple subdomain with Express)
++ https://stackoverflow.com/questions/11845471/how-can-i-get-the-browser-language-in-node-js-express-js ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How can I get the browser language in node.js (express.js)?)
++ https://www.reddit.com/r/webdev/comments/fuxluf/how_do_you_automatically_choose_the_language_for/?rdt=54773 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How do you automatically choose the language for a user in a multilingual website?)
+
 fs
 + https://stackoverflow.com/questions/65986153/how-to-make-fs-readfile-async-await ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to use fs.readfile() asynchronously)
 
@@ -664,6 +673,9 @@ Builder
 
 ## Linux
 
+cp
++ https://developer-davii.tistory.com/15 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Linux - 소유자와 함께 권한을 포함하여 파일 복사하기)
+
 Environment Variable
 + https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to set and where to set)
 + https://unix.stackexchange.com/questions/117467/how-to-permanently-set-environmental-variables ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> where to set)
@@ -686,6 +698,8 @@ Source code
 
 SSH
 + http://taewan.kim/post/ssh_config/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> ssh config file)
++ https://stackoverflow.com/questions/9270734/ssh-permissions-are-too-open ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> ssh "permissions are too open")
++ https://yoonchang.tistory.com/53 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> SSH permission denied 문제 해결)
 
 Terminal
 + https://tecadmin.net/close-terminal-without-killing-running-processes-on-linux/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to close terminal without killing running processes on Linux)
@@ -814,6 +828,7 @@ Image
 
 DigitalOcean
 + https://www.youtube.com/watch?v=eO1gl7NxZHU ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> digitalocean how to apply multiple domains to droplet)
++ https://docs.digitalocean.com/products/droplets/how-to/connect-with-ssh/openssh/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to Connect to your Droplet with OpenSSH)
 
 Domain
 + https://tld-list.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Domain comparison)
@@ -1023,6 +1038,10 @@ Relay
 
 etc
 + https://github.com/kangtegong/self-learning-cs ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 책 "혼자 공부하는 컴퓨터구조 + 운영체제" 추가자료 및 issue용 github repository)
+
+## File System
+
++ https://askubuntu.com/questions/149984/formatting-usb-flash-memory-for-ubuntu-ext4 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> formatting USB Flash memory for ubuntu ext4)
 
 ## Network
 
