@@ -895,6 +895,13 @@ Multilingual URL
 + https://brunch.co.kr/@mlml5/7 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 6개국 언어로 웹사이트 디자인하기)
 + https://www.semrush.com/blog/subdomain-vs-subdirectory/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Subdomain vs. Subdirectory: What They Are & Which Is Better for SEO)
 
+Test
++ https://developer.chrome.com/docs/lighthouse/overview ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Introduction to Google Lighthouse)
++ https://pagespeed.web.dev/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> PageSpeed Insights)
++ https://seositecheckup.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> SEO Site Checkup - one website per day for free)
++ https://pagelocity.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Optimize your website for customers)
++ https://www.webpagetest.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Web page test)
+
 ## Web Accessibility
 
 + https://nuli.navercorp.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 웹 접근성이 어떤 사람들에게 필요하고 어떻게 구현이 가능한가)
