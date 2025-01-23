@@ -329,6 +329,9 @@ fetch
 
 mongoose
 + https://stackoverflow.com/questions/19599543/check-mongoose-connection-state-without-creating-new-connection ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Check mongoose connection state without creating new connection)
++ https://github.com/Automattic/mongoose/issues/2280 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to check if mongoose is already connected/connecting to the db?)
++ https://mongoosejs.com/docs/connections.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> we recommend using 127.0.0.1 instead of localhost)
++ https://stackoverflow.com/questions/65408618/mongooseerror-operation-users-findone-buffering-timed-out-after-10000ms ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> MongooseError - Operation `users.findOne()` buffering timed out after 10000ms)
 
 Object
 + https://geometery-programing.tistory.com/23 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> map, filter로 object 가공하기)
