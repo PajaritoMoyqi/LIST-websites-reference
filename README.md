@@ -327,6 +327,12 @@ Event
 fetch
 + https://stackoverflow.com/questions/7346563/loading-local-json-file ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> load local json - fetch)
 
+fs
++ https://stackoverflow.com/questions/14391690/how-to-capture-no-file-for-fs-readfilesync ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to capture no file for fs.readFileSync()?)
+
+JSON
++ https://stackoverflow.com/questions/4467044/proper-way-to-catch-exception-from-json-parse ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Proper way to catch exception from JSON.parse)
+
 mongoose
 + https://stackoverflow.com/questions/19599543/check-mongoose-connection-state-without-creating-new-connection ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Check mongoose connection state without creating new connection)
 + https://github.com/Automattic/mongoose/issues/2280 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to check if mongoose is already connected/connecting to the db?)
@@ -349,6 +355,9 @@ Stack & Heap
 this
 + https://velog.io/@koseungbin/This-Binding ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> this가 경우에 따라 어떻게 바인딩 되는가를 다룬 문서)
 
+try-catch
++ https://stackoverflow.com/questions/69362121/when-should-i-use-try-catch-instead-of-then-catch ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> When should I use try catch instead of then catch?)
+
 window.addEventListener
 + https://webclub.tistory.com/607 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Debounce and Throttle)
 + https://ethansup.net/blog/deal-with-scroll-event/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 스크롤 이벤트 제대로 다루기 w. 브라우저 렌더링 원리)
@@ -359,6 +368,8 @@ etc
 + https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> List of languages that compile to JS)
 
 ## jQuery
+
++ https://s-bug.tistory.com/101 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> AJAX를 활용한 무한 스크롤 구현하기)
 
 Plugin
 + https://jquery-plugins.net/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> jQuery plugins)
@@ -491,6 +502,12 @@ Game
 sort
 + https://stackoverflow.com/questions/45164441/how-to-sort-a-table-on-multiple-values-in-lua ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to sort a table on multiple values in lua?)
 
+String
++ https://stackoverflow.com/questions/10460126/how-to-remove-spaces-from-a-string-in-lua ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to remove spaces from a string in Lua?)
+
+Table
++ https://stackoverflow.com/questions/2282444/how-to-check-if-a-table-contains-an-element-in-lua ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to check if a table contains an element in Lua?)
+
 ## Compiler and Transfiler
 
 + https://transform.tools/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> 여러 언어 간의 변환)
@@ -522,6 +539,7 @@ Compression
 Deploy
 + https://blog.ull.im/engineering/2019/03/31/node-js-production-best-practices.html ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> node 배포 환경을 위한 best practice)
 + https://jemerald.tistory.com/96, https://calvinjmkim.tistory.com/22 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 배포후 node를 업그레이드 했더니 Error: Cannot find module 'semver'가 뜨는 경우)
++ https://steemit.com/kr/@inspiredjw/node-js-nodeenv ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Node.js 에서 NODE_ENV 값으로 배포/개발 환경설정하기)
 
 Express
 + https://stackoverflow.com/questions/50033966/simple-subdomain-with-express ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Simple subdomain with Express)
@@ -530,6 +548,7 @@ Express
 
 fs
 + https://stackoverflow.com/questions/65986153/how-to-make-fs-readfile-async-await ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to use fs.readfile() asynchronously)
++ https://coding-yesung.tistory.com/172 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 파일 읽기 오류처리 - 동기식 & 비동기식,  서버에러 처리)
 
 Gulp
 + https://velopert.com/1344 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> build 자동화 도구, gulp - basic)
@@ -549,6 +568,7 @@ Npm
 + https://opentutorials.org/module/4571/27567 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> npm에 public으로 배포해보자!)
 + https://bundlephobia.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> find the cost of adding a npm package to your bundle)
 + https://npmtrends.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Compare package download counts over time)
++ https://cloudfour.com/thinks/how-to-publish-an-updated-version-of-an-npm-package/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to Publish an Updated Version of an npm Package)
 
 Package.json
 + https://docs.npmjs.com/cli/v8/configuring-npm/package-json ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> package-json properties)
@@ -557,6 +577,7 @@ Package.json
 Pm2
 + https://pm2.io/docs/runtime/best-practices/environment-variables/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> when you want to update env var)
 + https://inpa.tistory.com/entry/node-%F0%9F%93%9A-PM2-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%84%9C%EB%B9%84%EC%8A%A4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> pm2 총정리 - Inpa blog)
++ https://stackoverflow.com/questions/41517492/pm2-update-env-option-seems-not-working ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> pm2 --update-env option seems not working)
 
 Security (helmet, csurf etc)
 + https://m.blog.naver.com/PostView.nhn?blogId=cck223&logNo=221019399455&proxyReferer=https:%2F%2Fwww.google.com%2F ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Helmet & Cookie/Session 중심)

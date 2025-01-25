@@ -327,6 +327,12 @@ Event
 fetch
 + https://stackoverflow.com/questions/7346563/loading-local-json-file ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> load local json - fetch)
 
+fs
++ https://stackoverflow.com/questions/14391690/how-to-capture-no-file-for-fs-readfilesync ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to capture no file for fs.readFileSync()?)
+
+JSON
++ https://stackoverflow.com/questions/4467044/proper-way-to-catch-exception-from-json-parse ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Proper way to catch exception from JSON.parse)
+
 mongoose
 + https://stackoverflow.com/questions/19599543/check-mongoose-connection-state-without-creating-new-connection ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Check mongoose connection state without creating new connection)
 + https://github.com/Automattic/mongoose/issues/2280 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to check if mongoose is already connected/connecting to the db?)
@@ -349,6 +355,9 @@ Stack & Heap
 this
 + https://velog.io/@koseungbin/This-Binding ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Documentation on how 'this' is bound in some cases)
 
+try-catch
++ https://stackoverflow.com/questions/69362121/when-should-i-use-try-catch-instead-of-then-catch ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> When should I use try catch instead of then catch?)
+
 window.addEventListener
 + https://webclub.tistory.com/607 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Debounce and Throttle)
 + https://ethansup.net/blog/deal-with-scroll-event/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Scroll event deep dive with the principal of browser rendering)
@@ -359,6 +368,8 @@ etc
 + https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> List of languages that compile to JS)
 
 ## jQuery
+
++ https://s-bug.tistory.com/101 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Make infinite scroll using AJAX)
 
 Plugin
 + https://jquery-plugins.net/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> jQuery plugins)
@@ -491,6 +502,12 @@ Game
 table.sort
 + https://stackoverflow.com/questions/45164441/how-to-sort-a-table-on-multiple-values-in-lua ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to sort a table on multiple values in lua?)
 
+String
++ https://stackoverflow.com/questions/10460126/how-to-remove-spaces-from-a-string-in-lua ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to remove spaces from a string in Lua?)
+
+Table
++ https://stackoverflow.com/questions/2282444/how-to-check-if-a-table-contains-an-element-in-lua ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to check if a table contains an element in Lua?)
+
 ## Compiler and Transfiler
 
 + https://transform.tools/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Transformation between different languages)
@@ -522,6 +539,7 @@ Compression
 Deploy
 + https://blog.ull.im/engineering/2019/03/31/node-js-production-best-practices.html ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Best practices for node deployment environment)
 + https://jemerald.tistory.com/96, https://calvinjmkim.tistory.com/22 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> When upgrading the node after deployment, Error: Cannot find module 'semver' appears)
++ https://steemit.com/kr/@inspiredjw/node-js-nodeenv ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> set production/development environment using NODE_ENV env variable in Node.js)
 
 Express
 + https://stackoverflow.com/questions/50033966/simple-subdomain-with-express ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Simple subdomain with Express)
@@ -530,6 +548,7 @@ Express
 
 fs
 + https://stackoverflow.com/questions/65986153/how-to-make-fs-readfile-async-await ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to use fs.readfile() asynchronously)
++ https://coding-yesung.tistory.com/172 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> read file error handling - sync, async and server error handling)
 
 Gulp
 + https://velopert.com/1344 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> build automatization tool, gulp - basic)
@@ -549,6 +568,7 @@ Npm
 + https://opentutorials.org/module/4571/27567 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Let's deploy it publicly on npm!)
 + https://bundlephobia.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> find the cost of adding a npm package to your bundle)
 + https://npmtrends.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Compare package download counts over time)
++ https://cloudfour.com/thinks/how-to-publish-an-updated-version-of-an-npm-package/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to Publish an Updated Version of an npm Package)
 
 Package.json
 + https://docs.npmjs.com/cli/v8/configuring-npm/package-json ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> package-json properties)
@@ -557,6 +577,7 @@ Package.json
 Pm2
 + https://pm2.io/docs/runtime/best-practices/environment-variables/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> when you want to update env var)
 + https://inpa.tistory.com/entry/node-%F0%9F%93%9A-PM2-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%84%9C%EB%B9%84%EC%8A%A4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Summary of pm2 - Inpa blog)
++ https://stackoverflow.com/questions/41517492/pm2-update-env-option-seems-not-working ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> pm2 --update-env option seems not working)
 
 Security (helmet, csurf etc)
 + https://m.blog.naver.com/PostView.nhn?blogId=cck223&logNo=221019399455&proxyReferer=https:%2F%2Fwww.google.com%2F ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Helmet & Cookie/Session)
