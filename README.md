@@ -479,6 +479,9 @@ Basic
 Binding
 + https://blog.naver.com/sorkelf/40135908219 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Lua, C와의 사용법)
 
+Class
++ https://plcman.tistory.com/160 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua 클래스 Class (객체지향 프로그래밍))
+
 Community
 + https://groups.google.com/g/lua-l/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua mailing list - lua-l)
 + http://lua-users.org/lists/lua-l/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> lua-l archive)
@@ -881,6 +884,8 @@ Nginx
 + https://learn.microsoft.com/ko-kr/troubleshoot/developer/webapps/aspnetcore/practice-troubleshoot-linux/2-2-install-nginx-configure-it-reverse-proxy ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> nginx reverse proxy setting 2)
 + https://adguard-vpn.com/ko/blog/vpn-vs-proxy.html ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> VPN vs Forward Proxy)
 + https://www.youtube.com/watch?v=qQl93M7XpJA ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Configuring subdomains on Nginx)
++ https://serverfault.com/questions/566426/does-each-subdomain-need-its-own-ssl-certificate ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Does each subdomain need its own SSL certificate?)
++ https://serverfault.com/questions/68753/does-each-server-behind-a-load-balancer-need-their-own-ssl-certificate ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Does each server behind a load balancer need their own SSL certificate?)
 
 Porkbun
 + https://www.youtube.com/watch?v=kl3a76CBwX4 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Porkbun Domains: Register, Transfer, Connect Website, and Grant Access)
@@ -1149,6 +1154,10 @@ Don't starve together
 Project Zomboid
 + https://www.youtube.com/watch?v=-yrmCAwzTbY ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Full Project Zomboid Mod Tutorial - Start to Finish)
 + https://www.youtube.com/watch?v=N6tZujOPnDw ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to make a mod in Project Zomboid Build 41+)
++ https://www.youtube.com/watch?v=ArPOmuFEdGo ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Project Zomboid File Structure)
++ https://gall.dcinside.com/mgallery/board/view?id=pzom&no=126845 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Zomboid Mod 만들기 1 - mod 구조)
++ https://pzwiki.net/wiki/Modding ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> pz wiki - moding)
++ https://theindiestone.com/forums/index.php?/forum/45-pz-modding/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> The Indie Stone - PZ Modding forum)
 
 Stoneshard
 + https://www.reddit.com/r/stoneshard/comments/11zbxgy/a_simple_guide_to_modding_stoneshard_with_an/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> A simple guide to modding Stoneshard, with an example of how to make the Backpack bigger.)
