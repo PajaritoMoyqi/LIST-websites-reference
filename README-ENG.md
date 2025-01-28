@@ -888,7 +888,7 @@ Godaddy
 
 Let's encrypt
 + https://www.youtube.com/watch?v=VJPfdXN-dSc ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to Get Letsencrypt Wildcard Certificate (Using Letsencrypt Nginx DNS Challenge | Certbot))
-+ https://velog.io/@suhongkim98/Lets-Encrypted-certbot%EC%9C%BC%EB%A1%9C-%EC%99%80%EC%9D%BC%EB%93%9C%EC%B9%B4%EB%93%9C-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EB%B0%9C%EA%B8%89%EB%B0%9B%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Let's Encrypted certbot으로 와일드카드 SSL인증서 발급 받기)
++ https://velog.io/@suhongkim98/Lets-Encrypted-certbot%EC%9C%BC%EB%A1%9C-%EC%99%80%EC%9D%BC%EB%93%9C%EC%B9%B4%EB%93%9C-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EB%B0%9C%EA%B8%89%EB%B0%9B%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Get wildcard SSL certificate using Let's Encrypted certbot)
 + https://eff-certbot.readthedocs.io/en/latest/using.html#automated-renewals ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Let's encrypt docs - Setting up automated renewal)
 + https://certbot.eff.org/instructions ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Certbot Instructions)
 + https://cksdid4993.tistory.com/12 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Auto Renewal for let's encrypt certificate with wildcard domain)
