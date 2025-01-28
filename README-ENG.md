@@ -174,6 +174,9 @@ Text
 locals
 + https://stackoverflow.com/questions/5372559/what-is-the-proper-way-to-check-for-existence-of-variable-in-an-ejs-template-us ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> What is the proper way to check for existence of variable in an EJS template (using ExpressJS)?)
 
+Rendering
++ https://stackoverflow.com/questions/10326950/render-a-variable-as-html-in-ejs ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Render a variable as HTML in EJS)
+
 ## CSS
 
 after & before
@@ -548,6 +551,12 @@ Express
 + https://stackoverflow.com/questions/50033966/simple-subdomain-with-express ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Simple subdomain with Express)
 + https://stackoverflow.com/questions/11845471/how-can-i-get-the-browser-language-in-node-js-express-js ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How can I get the browser language in node.js (express.js)?)
 + https://www.reddit.com/r/webdev/comments/fuxluf/how_do_you_automatically_choose_the_language_for/?rdt=54773 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How do you automatically choose the language for a user in a multilingual website?)
++ https://stackoverflow.com/questions/18875292/passing-variables-to-the-next-middleware-using-next-in-express-js ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Passing variables to the next middleware using next() in Express.js)
++ https://github.com/expressjs/express/issues/3050 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Is it possible to share error handler middleware between express instances?)
++ https://github.com/expressjs/express/issues/2973 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Error handler in sub app)
++ https://stackoverflow.com/questions/28352871/in-express-how-do-i-redirect-a-user-to-an-external-url ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> In express how do I redirect a user to an external url?)
++ https://stackoverflow.com/questions/11845471/how-can-i-get-the-browser-language-in-node-js-express-js ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How can I get the browser language in node.js (express.js)?)
++ https://stackoverflow.com/questions/15995461/node-js-pass-variable-to-route ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Node.js pass variable to route)
 
 fs
 + https://stackoverflow.com/questions/65986153/how-to-make-fs-readfile-async-await ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to use fs.readfile() asynchronously)
@@ -592,6 +601,10 @@ Security (helmet, csurf etc)
 + https://www.veracode.com/blog/research/analysis-and-remediation-guidance-csrf-vulnerability-csurf-expressjs-middleware ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> 2 way of Remediation of csurf)
 + https://inpa.tistory.com/entry/NODE-%EB%B3%B4%EC%95%88-%F0%9F%93%9A-csurf-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> how to use csurf module)
 + https://inpa.tistory.com/entry/NODE-%F0%9F%93%9A-bcrypt-%EB%AA%A8%EB%93%88-%EC%9B%90%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> principle of bcrypt)
+
+vhost
++ https://forum.codeselfstudy.com/t/tutorial-how-to-use-subdomains-in-express-js-with-vhost/2290/7 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to use subdomains in Express.js with vhost)
++ https://dvlp-jun.tistory.com/74 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Node.js - Connect subdomain using express vhost)
 
 ## Django
 
@@ -826,6 +839,8 @@ localhost
 + https://www.youtube.com/watch?v=0lUJvVqSEkY ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> expose your localhost to the world! ngrok and localtunnel)
 + https://radiant515.tistory.com/655 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> What is ngrok, and how to use)
 + https://dev.to/iamscottcab/debugging-meta-tags-on-localhost-413c ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Debugging Meta Tags On Localhost)
++ https://codewithpawan.medium.com/running-a-subdomain-on-localhost-a-step-by-step-guide-8e522dd0a46e ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Running a Subdomain on localhost: A Step-by-Step Guide)
++ https://stackoverflow.com/questions/19016553/add-subdomain-to-localhost-url ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Add subdomain to localhost URL)
 
 Web editor
 + https://codepen.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> The best place to build, test, and discover front-end code)
@@ -856,6 +871,9 @@ Image
 DigitalOcean
 + https://www.youtube.com/watch?v=eO1gl7NxZHU ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> digitalocean how to apply multiple domains to droplet)
 + https://docs.digitalocean.com/products/droplets/how-to/connect-with-ssh/openssh/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to Connect to your Droplet with OpenSSH)
++ https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04#step-3-allowing-https-through-the-firewall ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How To Secure Nginx with Let's Encrypt on Ubuntu 20.04)
++ https://www.digitalocean.com/community/tutorials/how-to-create-let-s-encrypt-wildcard-certificates-with-certbot ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How To Create Let's Encrypt Wildcard Certificates with Certbot)
++ https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates-on-ubuntu-1804 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How To Use Certbot Standalone Mode to Retrieve Let's Encrypt SSL Certificates on Ubuntu 18.04)
 
 Domain
 + https://tld-list.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Domain comparison)
@@ -867,6 +885,16 @@ Domain
 
 Godaddy
 + https://rosemelon.hwachae.com/12 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Process after domain expiration)
+
+Let's encrypt
++ https://www.youtube.com/watch?v=VJPfdXN-dSc ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to Get Letsencrypt Wildcard Certificate (Using Letsencrypt Nginx DNS Challenge | Certbot))
++ https://velog.io/@suhongkim98/Lets-Encrypted-certbot%EC%9C%BC%EB%A1%9C-%EC%99%80%EC%9D%BC%EB%93%9C%EC%B9%B4%EB%93%9C-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EB%B0%9C%EA%B8%89%EB%B0%9B%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Let's Encrypted certbot으로 와일드카드 SSL인증서 발급 받기)
++ https://eff-certbot.readthedocs.io/en/latest/using.html#automated-renewals ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Let's encrypt docs - Setting up automated renewal)
++ https://certbot.eff.org/instructions ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Certbot Instructions)
++ https://cksdid4993.tistory.com/12 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Auto Renewal for let's encrypt certificate with wildcard domain)
++ https://community.letsencrypt.org/t/renewal-certs-error-by-certbot-renew-dry-run/32978 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Renewal certs error by certbot renew –dry-run)
++ https://serverfault.com/questions/1125472/how-can-i-make-ssl-lets-encrypt-certificate-auto-renew-on-ubuntu ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How can I make SSL Lets Encrypt certificate auto renew on Ubuntu)
++ https://github.com/certbot/certbot/issues/5550 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Error: duplicate listen options for [::]:443)
 
 Nginx
 + https://blog.leocat.kr/notes/2020/04/21/nginx-413-request-entity-too-large ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 413 Request Entity Too Large Error)
