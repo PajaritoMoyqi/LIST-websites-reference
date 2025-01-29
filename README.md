@@ -15,8 +15,9 @@ Click a category below to see useful websites you need.
 #### Languages
 
 - [GUIDE](#GUIDE)
-- [MARKDOWN](#MARKDOWN)
+- [Assembly](#Assembly)
 - [Shell script](#Shell-script)
+- [MARKDOWN](#MARKDOWN)
 - [YAML](#YAML)
 - [HTML](#HTML)
 - [ejs](#ejs)
@@ -28,9 +29,8 @@ Click a category below to see useful websites you need.
 - [Python](#Python)
 - [C](#C)
 - [C++](#Cpp)
-- [Rust](#Rust)
-- [Assembly](#Assembly)
 - [Lua](#Lua)
+- [Rust](#Rust)
 - [Compiler, Transfiler](#Compiler-and-Transfiler)
 - [Node.js](#Node.js)
 - [Django](#Django)
@@ -39,8 +39,8 @@ Click a category below to see useful websites you need.
 
 #### Programming
 
+- [Architecture](#Architecture)
 - [DB](#DB)
-- [PWA](#PWA)
 - [Linux](#Linux)
 - [Git & Github](#Git-and-Github)
 - [Debug](#Debug)
@@ -48,13 +48,13 @@ Click a category below to see useful websites you need.
 - [Design](#Design)
 - [Hosting](#Hosting)
 - [SEO](#SEO)
+- [PWA](#PWA)
 - [Web Accessibility](#Web-Accessibility)
 - [CDN](#CDN)
 - [VSCode](#VSCode)
 - [Optimization](#Optimization)
 - [Security](#Security)
 - [API](#API)
-- [Architecture](#Architecture)
 - [File System](#File-System)
 - [Network](#Network)
 - [Device](#Device)
@@ -92,6 +92,30 @@ Click a category below to see useful websites you need.
 + https://github.com/innovationacademy-kr/hitchhikers_guide ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 언어 및 프로그래밍 전반에 관한 가이드를 모아둔 문서)
 + https://github.com/pr0gr4m/Newbie-Guideline ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 프로그래밍 입문 뉴비 및 새로운 공부 리소스가 필요한 사람들을 위해)
 
+## Assembly
+
+x86
++ https://www.cs.virginia.edu/~evans/cs216/guides/x86.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> x86 Assembly guide)
++ https://www.nasm.us/doc/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> NASM - The Netwide Assembler - targeting the Intel x86 series of processors, with portable source)
++ https://programminggroundup.blogspot.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Programming from the Ground Up - An introduction to programming using linux assembly language)
+
+6502
++ https://www.pagetable.com/c64ref/6502/?tab=2 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> 6502 instructions guide)
++ https://www.masswerk.at/6502/assembler.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> virtual 6502 / Assembler)
++ http://sun.hasenbraten.de/vasm/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> portable 6502 Assembler)
+
+Compiler
++ https://godbolt.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> High level language code to assembly code)
+
+Game
++ https://store.steampowered.com/app/370360/TIS100/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> TIS-100)
++ https://store.steampowered.com/app/375820/Human_Resource_Machine/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Human Resource Machine)
++ https://store.steampowered.com/app/504210/SHENZHEN_IO/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> SHENZHEN I/O - BUILD CIRCUITS. WRITE CODE. RTFM.)
+
+## Shell script
+
++ https://explainshell.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Explain shell script)
+
 ## MARKDOWN
 
 Markdown
@@ -101,10 +125,6 @@ Markdown
 
 etc
 + https://www.youtube.com/watch?v=1NrHkjlWVhM ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to make markdown blog by nodejs, express, mongodb)
-
-## Shell script
-
-+ https://explainshell.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Explain shell script)
 
 ## YAML
 
@@ -330,17 +350,8 @@ Event
 fetch
 + https://stackoverflow.com/questions/7346563/loading-local-json-file ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> load local json - fetch)
 
-fs
-+ https://stackoverflow.com/questions/14391690/how-to-capture-no-file-for-fs-readfilesync ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to capture no file for fs.readFileSync()?)
-
 JSON
 + https://stackoverflow.com/questions/4467044/proper-way-to-catch-exception-from-json-parse ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Proper way to catch exception from JSON.parse)
-
-mongoose
-+ https://stackoverflow.com/questions/19599543/check-mongoose-connection-state-without-creating-new-connection ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Check mongoose connection state without creating new connection)
-+ https://github.com/Automattic/mongoose/issues/2280 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to check if mongoose is already connected/connecting to the db?)
-+ https://mongoosejs.com/docs/connections.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> we recommend using 127.0.0.1 instead of localhost)
-+ https://stackoverflow.com/questions/65408618/mongooseerror-operation-users-findone-buffering-timed-out-after-10000ms ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> MongooseError - Operation `users.findOne()` buffering timed out after 10000ms)
 
 Object
 + https://geometery-programing.tistory.com/23 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> map, filter로 object 가공하기)
@@ -442,32 +453,6 @@ Scanf & printf
 
 + https://boycoding.tistory.com/category/C%2B%2B%20%EC%9D%B4%EC%95%BC%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> C++ 기초)
 
-## Rust
-
-I/O
-
-+ https://velog.io/@unhappydogchew/%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EB%B0%A9%EB%B2%95-%EC%B4%9D%EC%A0%95%EB%A6%AC-Rust%EB%A1%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%92%80%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 러스트로 알고리즘 풀기 - 입출력)
-
-## Assembly
-
-x86
-+ https://www.cs.virginia.edu/~evans/cs216/guides/x86.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> x86 Assembly guide)
-+ https://www.nasm.us/doc/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> NASM - The Netwide Assembler - targeting the Intel x86 series of processors, with portable source)
-+ https://programminggroundup.blogspot.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Programming from the Ground Up - An introduction to programming using linux assembly language)
-
-6502
-+ https://www.pagetable.com/c64ref/6502/?tab=2 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> 6502 instructions guide)
-+ https://www.masswerk.at/6502/assembler.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> virtual 6502 / Assembler)
-+ http://sun.hasenbraten.de/vasm/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> portable 6502 Assembler)
-
-Compiler
-+ https://godbolt.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> High level language code to assembly code)
-
-Game
-+ https://store.steampowered.com/app/370360/TIS100/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> TIS-100)
-+ https://store.steampowered.com/app/375820/Human_Resource_Machine/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Human Resource Machine)
-+ https://store.steampowered.com/app/504210/SHENZHEN_IO/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> SHENZHEN I/O - BUILD CIRCUITS. WRITE CODE. RTFM.)
-
 ## Lua
 
 + https://www.lua.org/source/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua source code)
@@ -513,6 +498,12 @@ String
 
 Table
 + https://stackoverflow.com/questions/2282444/how-to-check-if-a-table-contains-an-element-in-lua ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to check if a table contains an element in Lua?)
+
+## Rust
+
+I/O
+
++ https://velog.io/@unhappydogchew/%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EB%B0%A9%EB%B2%95-%EC%B4%9D%EC%A0%95%EB%A6%AC-Rust%EB%A1%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%92%80%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 러스트로 알고리즘 풀기 - 입출력)
 
 ## Compiler and Transfiler
 
@@ -561,6 +552,8 @@ Express
 fs
 + https://stackoverflow.com/questions/65986153/how-to-make-fs-readfile-async-await ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to use fs.readfile() asynchronously)
 + https://coding-yesung.tistory.com/172 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 파일 읽기 오류처리 - 동기식 & 비동기식,  서버에러 처리)
++ https://stackoverflow.com/questions/14391690/how-to-capture-no-file-for-fs-readfilesync ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to capture no file for fs.readFileSync()?)
++ https://stackoverflow.com/questions/31799274/node-js-fs-exists-will-be-deprecated-what-to-use-instead ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> node.js fs.exists() will be deprecated, what to use instead?)
 
 Gulp
 + https://velopert.com/1344 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> build 자동화 도구, gulp - basic)
@@ -576,11 +569,18 @@ Image
 Markdown
 + https://bohyeon-n.github.io/content/node.js/blogIndex.html ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> md문서 html로 만들고 node.js 서버에 올리기 with ejs)
 
+mongoose
++ https://stackoverflow.com/questions/19599543/check-mongoose-connection-state-without-creating-new-connection ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Check mongoose connection state without creating new connection)
++ https://github.com/Automattic/mongoose/issues/2280 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to check if mongoose is already connected/connecting to the db?)
++ https://mongoosejs.com/docs/connections.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> we recommend using 127.0.0.1 instead of localhost)
++ https://stackoverflow.com/questions/65408618/mongooseerror-operation-users-findone-buffering-timed-out-after-10000ms ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> MongooseError - Operation `users.findOne()` buffering timed out after 10000ms)
+
 Npm
 + https://opentutorials.org/module/4571/27567 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> npm에 public으로 배포해보자!)
 + https://bundlephobia.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> find the cost of adding a npm package to your bundle)
 + https://npmtrends.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Compare package download counts over time)
 + https://cloudfour.com/thinks/how-to-publish-an-updated-version-of-an-npm-package/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to Publish an Updated Version of an npm Package)
++ https://stackoverflow.com/questions/12478679/npm-install-vs-update-whats-the-difference ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> npm install vs. update - what's the difference?)
 
 Package.json
 + https://docs.npmjs.com/cli/v8/configuring-npm/package-json ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> package-json properties)
@@ -590,6 +590,8 @@ Pm2
 + https://pm2.io/docs/runtime/best-practices/environment-variables/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> when you want to update env var)
 + https://inpa.tistory.com/entry/node-%F0%9F%93%9A-PM2-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%84%9C%EB%B9%84%EC%8A%A4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> pm2 총정리 - Inpa blog)
 + https://stackoverflow.com/questions/41517492/pm2-update-env-option-seems-not-working ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> pm2 --update-env option seems not working)
++ https://stackoverflow.com/questions/78519120/pm2-current-process-list-is-not-synchronized-with-saved-list ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> PM2 - Current process list is not synchronized with saved list)
++ https://github.com/Unitech/pm2/issues/4632 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> exited with code [1] via signal [SIGINT])
 
 Security (helmet, csurf etc)
 + https://m.blog.naver.com/PostView.nhn?blogId=cck223&logNo=221019399455&proxyReferer=https:%2F%2Fwww.google.com%2F ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Helmet & Cookie/Session 중심)
@@ -605,6 +607,9 @@ Security (helmet, csurf etc)
 vhost
 + https://forum.codeselfstudy.com/t/tutorial-how-to-use-subdomains-in-express-js-with-vhost/2290/7 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to use subdomains in Express.js with vhost)
 + https://dvlp-jun.tistory.com/74 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Node.js - express vhost로 서브도메인 연결하기)
+
+etc
++ https://hasumang.tistory.com/39 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> NodeJS 에러 해결 - EADDRINUSE)
 
 ## Django
 
@@ -677,6 +682,102 @@ etc
 
 # Programming
 
+## Architecture
+
++ https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Computation Structures, MIT open course)
++ https://www.youtube.com/watch?v=8mAITcNt710 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Harvard CS50 – Full Computer Science University Course)
++ https://computerhistory.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Computer History Museum)
+
+Analogue and Digital
++ https://bugoverdose.github.io/computer-science/analog-and-digital/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 왜 디지털인가?)
++ https://www.youtube.com/watch?v=9ROD_oxpVcA ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 인공지능 시대의 간지폭풍, 아날로그 컴퓨터 (1편))
++ https://www.youtube.com/watch?v=euR76oRd7L4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 당신의 그래픽카드 이 칩으로 대체되었다. 아날로그 컴퓨터 (2편))
++ https://www.youtube.com/watch?v=6AgkTdQXFTY ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Analog computing will take over 30 billion devices by 2040. Wtf does that mean? | Hard Reset)
+
+Assembly
++ https://godbolt.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> see results for Assembly for each compiler or CPU)
++ https://www.youtube.com/playlist?list=PL0M0Rj5S0RUwXH-3RhBipvfUHYVkA2FPw ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 유튜브 강의 배은태-어셈블리 언어)
++ https://store.steampowered.com/app/375820/Human_Resource_Machine/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> steam game - human resource machine)
++ https://store.steampowered.com/app/370360/TIS100/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> steam game - TIS-100)
++ https://www.inflearn.com/course/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EB%B0%B0%EC%9A%B0%EA%B8%B0 (인프런 강좌 - 어셈블리어 배우기)
++ https://pacman128.github.io/static/pcasm-book-korean.pdf ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> PC 어셈블리어 번역본)
++ https://jakupsil.tistory.com/33 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Assembly 파일 확장자 .s와 .S는 다르다!)
+
+Capacitor(Condenser)
++ https://www.youtube.com/watch?v=oD4R0dG6qoQ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 콘덴서에 대한 설명)
+
+Code Execution
++ https://www.youtube.com/watch?v=D5c4anv2REk ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 컴퓨터는 이진수를 어떤 방법으로 실행하나요?)
+
+Clock
++ https://woodforest.tistory.com/195 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> rising edge, falling edge, Q, Q+)
+
+CPU
++ https://www.youtube.com/watch?v=Fg00LN30Ezg ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> CPU란 무엇인가?)
++ http://visual6502.org/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> CPU 돌아갈 때 얼마나 많은 신호가 돌아다니는지 볼 수 있는 곳)
+
+Diode
++ https://www.youtube.com/watch?v=RI3uH0eo6ek ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 다이오드 설명)
+
+Encoding
++ https://www.youtube.com/watch?v=1jo6q4dihoU ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 문자 인코딩, 유니코드, UTF-8이 뭔가요? - 인코딩에 대한 기초 짧은 영상)
+
+Gate
++ https://logic.ly/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> logic gate design)
+
+GPU
++ https://www.youtube.com/watch?v=ZdITviTD3VM ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> GPU란 무엇인가?)
+
+IC
++ https://www.youtube.com/watch?v=g8Qav3vIv9s ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How are microchips made?)
++ https://www.youtube.com/watch?v=1VPFWeRisz4&list=PLrJcoRcsaj2t-dbXH8A3KZaZTjFDNfBgB ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 디지털집적회로설계 강의 재생목록 미쳤다!)
+
+Latch
++ https://gdnn.tistory.com/287 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> D Latch 간단한 설명)
++ https://www.youtube.com/watch?v=nL7d2_4TYZk ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> SR Latch)
+
+Logic Gate
++ https://sebastian.itch.io/digital-logic-sim ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Digital Logic Sim)
+
+Memory
++ https://m.blog.naver.com/ycpiglet/221984934010 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> SRAM vs DRAM)
++ https://information-factory.tistory.com/270 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> RAM vs ROM)
++ https://www.youtube.com/watch?v=paQ3zIsz1-8 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> watch core memory)
++ https://www.youtube.com/watch?v=YnnGbcM-H8c ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> show how keypunch card punches!)
++ https://www.youtube.com/watch?v=KG2M4ttzBnY ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> the history of punch card)
++ https://www.youtube.com/watch?v=XS3UBuZ7D34 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How magnetic drum memory works)
++ https://www.youtube.com/watch?v=9XJapKLq_6k ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Computer History: Memory & Storage 1950-1985 - (Core, disc, vacuum tube, etc.))
++ https://www.youtube.com/watch?v=I0-izyq6q5s ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How Do Computers Remember? - incredible video!!)
++ https://www.youtube.com/watch?v=xS4RmkvE_d4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> SRAM DRAM 플래시메모리 동작 원리)
++ https://www.materialssquare.com/blog/semiconductor-memory-dram ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 메모리 반도체는 어떻게 데이터를 저장할까? [Part. 1 DRAM] - transistor 단위)
++ https://www.materialssquare.com/blog/semiconductor-flash-memory ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 메모리 반도체는 어떻게 데이터를 저장할까? [Part. 2 Flash Memory, New Memory] - transistor 단위)
++ https://blog.naver.com/PostView.nhn?blogId=durian0328&logNo=222245268881&parentCategoryNo=&categoryNo=16&viewDate=&isShowPopularPosts=false&from=postView ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> DRAM, SRAM, NAND flash 비교)
+
+Resistor
++ https://www.youtube.com/watch?v=JJGdXT846f0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 저항기 설명)
+
+Semiconductor
++ https://www.youtube.com/playlist?list=PLm7kUQYfvIRP0l66keVy-DZ0vhTi7jOII ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 반도체 전공면접 한 번에 통과하기 - 시대에듀 재생목록 -> 대학 강의보다는 더 쉬운 느낌)
+
+Signal
++ https://treeroad.tistory.com/entry/%EC%B0%A8%EB%8F%99-%EC%8B%A0%ED%98%B8%EB%9E%80-differential-input-signal ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 차동신호란)
+
+Time
++ http://brenocon.com/dean_perf.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> "Numbers Everyone Should Know" from Jeff Dean)
+
+Transistor
++ https://www.youtube.com/shorts/EACjoPZPYzI ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> What is transistor)
+https://www.youtube.com/watch?v=T1eMKml3iE0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 트랜지스터 설명)
+
+Truth Table
++ https://en.wikipedia.org/wiki/Truth_table ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> binary operation truth table)
+
+Relay
++ https://m.blog.naver.com/roboholic84/220460268471 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 릴레이란 무엇인가, 기초 원리)
+
+etc
++ https://github.com/kangtegong/self-learning-cs ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 책 "혼자 공부하는 컴퓨터구조 + 운영체제" 추가자료 및 issue용 github repository)
+
 ## DB
 
 ERD
@@ -705,11 +806,6 @@ SQL
 + https://cornswrold.tistory.com/131 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> SQL문이 SQL Engine에 닿기까지)
 + https://coding-factory.tistory.com/743 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> optimizer 자세한 설명)
 + https://www.jooq.org/translate/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> SQL translator)
-
-## PWA
-
-Builder
-+ https://www.pwabuilder.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> website PWA score and necessary files generating)
 
 ## Linux
 
@@ -956,6 +1052,11 @@ Test
 + https://pagelocity.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Optimize your website for customers)
 + https://www.webpagetest.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Web page test)
 
+## PWA
+
+Builder
++ https://www.pwabuilder.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> website PWA score and necessary files generating)
+
 ## Web Accessibility
 
 + https://nuli.navercorp.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 웹 접근성이 어떤 사람들에게 필요하고 어떻게 구현이 가능한가)
@@ -1006,102 +1107,6 @@ Web
 ## API
 
 + https://newsapi.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> world-wide news api)
-
-## Architecture
-
-+ https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Computation Structures, MIT open course)
-+ https://www.youtube.com/watch?v=8mAITcNt710 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Harvard CS50 – Full Computer Science University Course)
-+ https://computerhistory.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Computer History Museum)
-
-Analogue and Digital
-+ https://bugoverdose.github.io/computer-science/analog-and-digital/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 왜 디지털인가?)
-+ https://www.youtube.com/watch?v=9ROD_oxpVcA ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 인공지능 시대의 간지폭풍, 아날로그 컴퓨터 (1편))
-+ https://www.youtube.com/watch?v=euR76oRd7L4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 당신의 그래픽카드 이 칩으로 대체되었다. 아날로그 컴퓨터 (2편))
-+ https://www.youtube.com/watch?v=6AgkTdQXFTY ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Analog computing will take over 30 billion devices by 2040. Wtf does that mean? | Hard Reset)
-
-Assembly
-+ https://godbolt.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> see results for Assembly for each compiler or CPU)
-+ https://www.youtube.com/playlist?list=PL0M0Rj5S0RUwXH-3RhBipvfUHYVkA2FPw ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 유튜브 강의 배은태-어셈블리 언어)
-+ https://store.steampowered.com/app/375820/Human_Resource_Machine/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> steam game - human resource machine)
-+ https://store.steampowered.com/app/370360/TIS100/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> steam game - TIS-100)
-+ https://www.inflearn.com/course/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EB%B0%B0%EC%9A%B0%EA%B8%B0 (인프런 강좌 - 어셈블리어 배우기)
-+ https://pacman128.github.io/static/pcasm-book-korean.pdf ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> PC 어셈블리어 번역본)
-+ https://jakupsil.tistory.com/33 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Assembly 파일 확장자 .s와 .S는 다르다!)
-
-Capacitor(Condenser)
-+ https://www.youtube.com/watch?v=oD4R0dG6qoQ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 콘덴서에 대한 설명)
-
-Code Execution
-+ https://www.youtube.com/watch?v=D5c4anv2REk ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 컴퓨터는 이진수를 어떤 방법으로 실행하나요?)
-
-Clock
-+ https://woodforest.tistory.com/195 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> rising edge, falling edge, Q, Q+)
-
-CPU
-+ https://www.youtube.com/watch?v=Fg00LN30Ezg ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> CPU란 무엇인가?)
-+ http://visual6502.org/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> CPU 돌아갈 때 얼마나 많은 신호가 돌아다니는지 볼 수 있는 곳)
-
-Diode
-+ https://www.youtube.com/watch?v=RI3uH0eo6ek ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 다이오드 설명)
-
-Encoding
-+ https://www.youtube.com/watch?v=1jo6q4dihoU ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 문자 인코딩, 유니코드, UTF-8이 뭔가요? - 인코딩에 대한 기초 짧은 영상)
-
-Gate
-+ https://logic.ly/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> logic gate design)
-
-GPU
-+ https://www.youtube.com/watch?v=ZdITviTD3VM ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> GPU란 무엇인가?)
-
-IC
-+ https://www.youtube.com/watch?v=g8Qav3vIv9s ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How are microchips made?)
-+ https://www.youtube.com/watch?v=1VPFWeRisz4&list=PLrJcoRcsaj2t-dbXH8A3KZaZTjFDNfBgB ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 디지털집적회로설계 강의 재생목록 미쳤다!)
-
-Latch
-+ https://gdnn.tistory.com/287 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> D Latch 간단한 설명)
-+ https://www.youtube.com/watch?v=nL7d2_4TYZk ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> SR Latch)
-
-Logic Gate
-+ https://sebastian.itch.io/digital-logic-sim ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Digital Logic Sim)
-
-Memory
-+ https://m.blog.naver.com/ycpiglet/221984934010 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> SRAM vs DRAM)
-+ https://information-factory.tistory.com/270 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> RAM vs ROM)
-+ https://www.youtube.com/watch?v=paQ3zIsz1-8 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> watch core memory)
-+ https://www.youtube.com/watch?v=YnnGbcM-H8c ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> show how keypunch card punches!)
-+ https://www.youtube.com/watch?v=KG2M4ttzBnY ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> the history of punch card)
-+ https://www.youtube.com/watch?v=XS3UBuZ7D34 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How magnetic drum memory works)
-+ https://www.youtube.com/watch?v=9XJapKLq_6k ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Computer History: Memory & Storage 1950-1985 - (Core, disc, vacuum tube, etc.))
-+ https://www.youtube.com/watch?v=I0-izyq6q5s ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How Do Computers Remember? - incredible video!!)
-+ https://www.youtube.com/watch?v=xS4RmkvE_d4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> SRAM DRAM 플래시메모리 동작 원리)
-+ https://www.materialssquare.com/blog/semiconductor-memory-dram ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 메모리 반도체는 어떻게 데이터를 저장할까? [Part. 1 DRAM] - transistor 단위)
-+ https://www.materialssquare.com/blog/semiconductor-flash-memory ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 메모리 반도체는 어떻게 데이터를 저장할까? [Part. 2 Flash Memory, New Memory] - transistor 단위)
-+ https://blog.naver.com/PostView.nhn?blogId=durian0328&logNo=222245268881&parentCategoryNo=&categoryNo=16&viewDate=&isShowPopularPosts=false&from=postView ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> DRAM, SRAM, NAND flash 비교)
-
-Resistor
-+ https://www.youtube.com/watch?v=JJGdXT846f0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 저항기 설명)
-
-Semiconductor
-+ https://www.youtube.com/playlist?list=PLm7kUQYfvIRP0l66keVy-DZ0vhTi7jOII ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 반도체 전공면접 한 번에 통과하기 - 시대에듀 재생목록 -> 대학 강의보다는 더 쉬운 느낌)
-
-Signal
-+ https://treeroad.tistory.com/entry/%EC%B0%A8%EB%8F%99-%EC%8B%A0%ED%98%B8%EB%9E%80-differential-input-signal ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 차동신호란)
-
-Time
-+ http://brenocon.com/dean_perf.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> "Numbers Everyone Should Know" from Jeff Dean)
-
-Transistor
-+ https://www.youtube.com/shorts/EACjoPZPYzI ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> What is transistor)
-https://www.youtube.com/watch?v=T1eMKml3iE0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 트랜지스터 설명)
-
-Truth Table
-+ https://en.wikipedia.org/wiki/Truth_table ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> binary operation truth table)
-
-Relay
-+ https://m.blog.naver.com/roboholic84/220460268471 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 릴레이란 무엇인가, 기초 원리)
-
-etc
-+ https://github.com/kangtegong/self-learning-cs ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 책 "혼자 공부하는 컴퓨터구조 + 운영체제" 추가자료 및 issue용 github repository)
 
 ## File System
 
