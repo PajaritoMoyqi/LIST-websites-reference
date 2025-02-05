@@ -811,6 +811,11 @@ SQL
 
 cp
 + https://developer-davii.tistory.com/15 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Linux - 소유자와 함께 권한을 포함하여 파일 복사하기)
++ https://linuxcommand.org/lc3_man_pages/cp1.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> cp options)
++ https://withcoding.com/93 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 리눅스 cp 명령어 사용법 정리 (파일, 디렉토리 복사, 백업))
+
+crontab
++ https://m.blog.naver.com/shino1025/221432633410 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 일정 시간마다 작업 실행시키기)
 
 Environment Variable
 + https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to set and where to set)
@@ -850,6 +855,9 @@ Actions
 
 Branch make and integration
 + https://goddaehee.tistory.com/274 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 간단하게 설명되어 있음)
+
+Changelog
++ https://github.com/olivierlacan/keep-a-changelog/blob/main/CHANGELOG.md ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> CHANGELOG.md example - keepachangelog.com)
 
 Commit
 + https://meetup.nhncloud.com/posts/106 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 좋은 commit message란?)

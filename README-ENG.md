@@ -811,6 +811,11 @@ SQL
 
 cp
 + https://developer-davii.tistory.com/15 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Linux - copy file with owner and permissions)
++ https://linuxcommand.org/lc3_man_pages/cp1.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> cp options)
++ https://withcoding.com/93 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> linux cp commands (file, directory copy, backup))
+
+crontab
++ https://m.blog.naver.com/shino1025/221432633410 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Run a task at certain time interval)
 
 Environment Variable
 + https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to set and where to set)
@@ -850,6 +855,9 @@ Actions
 
 Branch make and integration
 + https://goddaehee.tistory.com/274 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> simple explanation)
+
+Changelog
++ https://github.com/olivierlacan/keep-a-changelog/blob/main/CHANGELOG.md ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> CHANGELOG.md example - keepachangelog.com)
 
 Commit
 + https://meetup.nhncloud.com/posts/106 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> What is good commit message?)
