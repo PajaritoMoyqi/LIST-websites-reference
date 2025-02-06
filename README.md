@@ -1033,7 +1033,14 @@ VPS
 ## SEO
 
 + https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=ko ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 구글 기본 가이드)
-+ https://velog.io/@byeol4001/Meta-Tag-OG%EC%98%A4%ED%94%88%EA%B7%B8%EB%9E%98%ED%94%84-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> og tags)
++ https://blog.ab180.co/posts/google-seo-guide-part-one ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 8단계로 끝내는 구글 SEO 실천법 - 1)
++ https://blog.ab180.co/posts/google-seo-guide-part-two ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 8단계로 끝내는 구글 SEO 실천법 - 2)
+
+Atom
++ https://www.ietf.org/rfc/rfc4287.txt ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> The Atom Syndication Format)
++ https://www.tutorialspoint.com/difference-between-rss-and-atom ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Difference Between RSS and ATOM)
++ https://validator.w3.org/feed/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Feed Validation Service)
++ https://api.flickr.com/services/feeds/photos_public.gne?lang=ko-kr&format=atom ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Atom example - Flickr feed)
 
 BlackHat SEO
 + https://www.youtube.com/watch?v=J2hj2s9gtG4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 블랙햇이란 무엇인가?)
@@ -1047,11 +1054,29 @@ Canonical URL
 Favicon maker
 + https://favicon.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> text favicon maker)
 
+Google search console
++ https://infomationpyramid.tistory.com/entry/%EA%B5%AC%EA%B8%80-%EC%84%9C%EC%B9%98-%EC%BD%98%EC%86%94Google-Search-Console%EC%97%90-%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 구글 서치 콘솔에 티스토리 블로그 등록하기)
++ https://infomationpyramid.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80-%EA%B5%AC%EA%B8%80-%EC%84%9C%EC%B9%98%EC%BD%98%EC%86%94-%EB%93%B1%EB%A1%9D%EB%B2%95-%EC%88%98%EB%8F%99-%EC%83%89%EC%9D%B8-%EC%9A%94%EC%B2%AD ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 티스토리 블로그 글 구글 서치콘솔 등록법 - 수동 색인 요청)
+
 Multilingual URL
 + https://www.lionbridge.com/ko/blog/global-marketing/choosing-multilingual-url-structure-5-things-consider/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 다국어 URL은 어떻게 선택해야 하는가)
 + https://www.lionbridge.com/ko/blog/translation-localization/9-essential-elements-intelligent-multilingual-website-design/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 다국어 웹사이트 구축 방법: 모범 사례 9개와 예시)
 + https://brunch.co.kr/@mlml5/7 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 6개국 언어로 웹사이트 디자인하기)
 + https://www.semrush.com/blog/subdomain-vs-subdirectory/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Subdomain vs. Subdirectory: What They Are & Which Is Better for SEO)
+
+Naver search advisor
++ https://infomationpyramid.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%84%9C%EC%B9%98-%EC%96%B4%EB%93%9C%EB%B0%94%EC%9D%B4%EC%A0%80-%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%93%B1%EB%A1%9D%EB%B2%95 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 네이버 서치 어드바이저 티스토리 블로그 등록 방법)
+
+tag(og)
++ https://velog.io/@byeol4001/Meta-Tag-OG%EC%98%A4%ED%94%88%EA%B7%B8%EB%9E%98%ED%94%84-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> og tags)
+
+RSS
++ https://www.w3schools.com/xml/xml_rss.asp ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> XML RSS)
++ https://www.xul.fr/en-xml-rss.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Building and Using an RSS Feed)
++ https://validator.w3.org/feed/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Feed Validation Service)
++ https://api.flickr.com/services/feeds/photos_public.gne?lang=ko-kr&format=rss2 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> RSS example - Flickr feed)
++ https://www.rssboard.org/rss-profile ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Really Simple Syndication Best Practices Profile)
++ https://cyber.harvard.edu/rss/rss.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> RSS 2.0 Specification)
 
 Test
 + https://developer.chrome.com/docs/lighthouse/overview ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Introduction to Google Lighthouse)
