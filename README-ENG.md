@@ -32,10 +32,10 @@ Click a category below to see useful websites you need.
 - [Lua](#Lua)
 - [Rust](#Rust)
 - [Compiler, Transfiler](#Compiler-and-Transfiler)
-- [Node.js](#Node.js)
+- [Node.js](#Node\.js)
 - [Django](#Django)
-- [React.js](#React.js)
-- [Vue.js](#Vue.js)
+- [React.js](#React\.js)
+- [Vue.js](#Vue\.js)
 
 #### Programming
 
@@ -548,6 +548,7 @@ Express
 + https://stackoverflow.com/questions/28352871/in-express-how-do-i-redirect-a-user-to-an-external-url ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> In express how do I redirect a user to an external url?)
 + https://stackoverflow.com/questions/11845471/how-can-i-get-the-browser-language-in-node-js-express-js ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How can I get the browser language in node.js (express.js)?)
 + https://stackoverflow.com/questions/15995461/node-js-pass-variable-to-route ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Node.js pass variable to route)
++ https://stackoverflow.com/questions/51661744/how-to-set-content-type-when-doing-res-send ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to set content-type when doing res.send()?)
 
 fs
 + https://stackoverflow.com/questions/65986153/how-to-make-fs-readfile-async-await ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to use fs.readfile() asynchronously)
@@ -592,6 +593,8 @@ Pm2
 + https://stackoverflow.com/questions/41517492/pm2-update-env-option-seems-not-working ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> pm2 --update-env option seems not working)
 + https://stackoverflow.com/questions/78519120/pm2-current-process-list-is-not-synchronized-with-saved-list ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> PM2 - Current process list is not synchronized with saved list)
 + https://github.com/Unitech/pm2/issues/4632 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> exited with code [1] via signal [SIGINT])
++ https://stackoverflow.com/questions/28424657/how-to-remove-pm2-from-startup-on-mac ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to remove pm2 from startup)
++ https://www.inflearn.com/community/questions/291028/eaddrinuse-address-already-in-use-0-0-0-0-3060?srsltid=AfmBOooFQXJx-0YTWwyrx5Zg11VtmKVYYbulXKQGT8vr5TNUOzhCG_SA ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> EADDRINUSE: address already in use 0.0.0.0:3060)
 
 Security (helmet, csurf etc)
 + https://m.blog.naver.com/PostView.nhn?blogId=cck223&logNo=221019399455&proxyReferer=https:%2F%2Fwww.google.com%2F ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Helmet & Cookie/Session)
