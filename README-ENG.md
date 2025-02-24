@@ -123,6 +123,9 @@ Markdown
 + https://canaryrelease.tistory.com/8 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Markup vs Markdown)
 + https://mangkyu.tistory.com/80 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Add Markdown to Windows)
 
+Image
++ https://feel5ny.github.io/2018/08/06/JS_13/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Image orientation (feat. exif metadata - Orientation))
+
 etc
 + https://www.youtube.com/watch?v=1NrHkjlWVhM ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to make markdown blog by nodejs, express, mongodb)
 
@@ -489,6 +492,9 @@ Docs
 
 Game
 + https://www.jaenung.net/tree/1308?srsltid=AfmBOooYq3E3Mw-F7jDEcIjFtVfuUPLyFodFmzW-G2REAv9NDWdY-lVj ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Lua Scripting: Game development)
+
+goto
++ http://lua-users.org/wiki/GotoStatement ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua goto is only available from Lua 5.2)
 
 table.sort
 + https://stackoverflow.com/questions/45164441/how-to-sort-a-table-on-multiple-values-in-lua ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to sort a table on multiple values in lua?)
