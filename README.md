@@ -169,6 +169,9 @@ style(inline, inline-block, block)
 Svg
 + https://heropatterns.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> A collection of repeatable SVG background patterns)
 + https://seons-dev.tistory.com/entry/%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-SVG%EA%B0%80-%EB%82%98%ED%83%80%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%84%EB%95%8C-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 사파리에서 svg가 안 보여요!)
++ https://uxwing.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Exclusive collection of free icons download for commercial projects without attribution)
++ https://www.reshot.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Free Icons & Illustrations. Design freely with instant downloads and commercial licenses.)
++ https://feathericons.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Simply beautiful open source icons)
 
 Tags
 + https://docs.emmet.io/cheat-sheet/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> emmet cheat sheet)
@@ -416,6 +419,9 @@ Big-O and Complexity
 
 Interpreter
 + https://www.onlinegdb.com/online_python_compiler ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Python online compiler)
+
+ipynb
++ https://blog.naver.com/regenesis90/222552728649 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> ipynb 주피터노트북 파일이 너무 커서 못 여는 경우 - 파일을 열지 않고도 아웃풋 파일을 지워서 새로 저장하기)
 
 json
 + https://tifferent.tistory.com/40 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> json의 load, loads, dump, dumps)
@@ -889,6 +895,10 @@ Github Achievement
 GitHub Emoji
 + https://github.com/ikatyang/emoji-cheat-sheet/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> emoji cheat sheet using github emoji API and Unicode emoji list)
 
+Github Errors
++ https://stackoverflow.com/questions/6842687/the-remote-end-hung-up-unexpectedly-while-git-cloning ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Github http 500 curl 22 error)
++ https://stackoverflow.com/questions/44780221/git-push-failing-http-500-curl-22-the-requested-url-returned-error-500-internal ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Github http 500 curl 22 error)
+
 Github Extensions
 + https://inpa.tistory.com/entry/GitHub-%F0%9F%8F%9B%EF%B8%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EA%B9%83%ED%97%99-%ED%81%AC%EB%A1%AC-%EC%9D%B5%EC%8A%A4%ED%85%90%EC%85%98-%F0%9F%A7%A9-%EB%AA%A8%EC%9D%8C ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 유용한 깃헙 익스텐션 모음)
 
@@ -1268,9 +1278,6 @@ Converter
 Execution environment
 + https://ryugod.com/pages/ide/bash ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 별의별 코딩언어 다 있는 실행환경)
 
-First website
-+ http://info.cern.ch/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> First website)
-
 Module, package, library, framwork
 + https://doozi0316.tistory.com/entry/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%ACFramework-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%ACLibrary-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8Plug-in-%EB%AA%A8%EB%93%88Module%EC%9D%98-%EC%B0%A8%EC%9D%B4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 라이브러리와 프레임워크의 차이를 아주 명쾌하게 설명)
 + https://blckchainetc.tistory.com/entry/%EB%AA%A8%EB%93%88-vs-%ED%8C%A8%ED%82%A4%EC%A7%80-vs-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-vs-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC?category=853037 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> module, package, library, framwork 차이 간단하게 설명)
@@ -1284,6 +1291,10 @@ Unminify
 
 URL
 + https://www.shorturl.at/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> url shortener)
+
+Website
++ http://info.cern.ch/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> First website)
++ https://archive.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Search the history of over 916 billion web pages on the Internet.)
 
 <br />
 
