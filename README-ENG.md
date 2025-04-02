@@ -270,8 +270,10 @@ Icon
 + https://fontawesome.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Take the hassle out of icons in your native app)
 + https://www.flaticon.com/icons ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> get free icons)
 
-MediaQuery
+Media query
 + https://www.w3schools.com/css/css3_mediaqueries.asp ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> all media types)
++ https://inpa.tistory.com/entry/CSS-%F0%9F%9A%80-%EB%AF%B8%EB%94%94%EC%96%B4-%EC%BF%BC%EB%A6%AC-%EB%B2%94%EC%9C%84-%EC%A7%80%EC%A0%95-%EC%B5%9C%EC%8B%A0-%EB%AC%B8%EB%B2%95 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Latest syntax for specifying media query range)
++ https://caniuse.com/css-media-range-syntax ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> CSS Media range syntax support)
 
 Modal
 + https://penguingoon.tistory.com/249 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> how to make basic modal by oneself)
@@ -1121,6 +1123,9 @@ aria(HTML)
 + https://cdnjs.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> world CDN Search)
 
 ## VSCode
+
+Encoding
++ https://zoosso.tistory.com/826 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Encoding setting for Visual Studio Code)
 
 Shortcuts
 + https://hianna.tistory.com/550  ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> When screen/menu letters become smaller)
