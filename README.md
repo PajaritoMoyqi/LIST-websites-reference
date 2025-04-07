@@ -64,6 +64,7 @@ Click a category below to see useful websites you need.
 - [Mathematics](#Mathematics)
 - [Coding TEST](#Coding-TEST)
 - [AI](#AI)
+- [Science](#Science)
 - [Games](#Games)
 - [Streaming](#Streaming)
 - [etc](#etc)
@@ -468,6 +469,9 @@ Scanf & printf
 
 + https://www.lua.org/source/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua source code)
 + https://www.lua.org/source/5.4/idx.html ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Source code for Lua 5.4 – index)
+
+API
++ https://tingcobell.tistory.com/18 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Lua Api 총정리)
 
 Basic
 + https://www.youtube.com/playlist?list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Lua Programming Tutorials)
@@ -1127,11 +1131,14 @@ aria(HTML)
 Encoding
 + https://zoosso.tistory.com/826 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Visual Studio Code 인코딩 설정)
 
+Extensions
++ https://www.inflearn.com/blogs/2156 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Beautify 더 이상 지원 안 함, 대체품은?)
+
 Shortcuts
 + https://hianna.tistory.com/550  ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 화면/메뉴 글자들이 전체적으로 작아졌을 때)
 
-Extensions
-+ https://www.inflearn.com/blogs/2156 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Beautify 더 이상 지원 안 함, 대체품은?)
+Update
++ https://wesias7.tistory.com/113 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> VsCode 수동으로 업데이트 하는 방법 - Window)
 
 ## Optimization
 
@@ -1236,7 +1243,14 @@ Machine Learning
 Deep Learning
 + https://bbongcol.github.io/deep-learning-bookmarks/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 딥러닝 스터디 자료 모음)
 
+## Science
+
+Astronomy
++ https://www.youtube.com/watch?v=gKWJbdtHLe4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 우주선 시스템을 어떻게 코딩할까? (극한 C 프로그래밍 가이드))
+
 ## Games
+
++ https://itch.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> itch.io is a simple way to find and share indie games online for free.)
 
 Don't starve together
 + https://www.youtube.com/playlist?list=PLfMGRgz7yTw8aVdlImIOPNkyGoWe8NurK ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Create Mods in Don't Starve Together)
