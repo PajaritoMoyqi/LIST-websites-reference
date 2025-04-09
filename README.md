@@ -42,6 +42,7 @@ Click a category below to see useful websites you need.
 - [Architecture](#Architecture)
 - [DB](#DB)
 - [Linux](#Linux)
+- [Windows](#Windows)
 - [Git & Github](#Git-and-Github)
 - [Debug](#Debug)
 - [Front-end](#Front-end)
@@ -600,6 +601,7 @@ Npm
 + https://npmtrends.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Compare package download counts over time)
 + https://cloudfour.com/thinks/how-to-publish-an-updated-version-of-an-npm-package/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> How to Publish an Updated Version of an npm Package)
 + https://stackoverflow.com/questions/12478679/npm-install-vs-update-whats-the-difference ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> npm install vs. update - what's the difference?)
++ https://icerabbit.tistory.com/78 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> npm cache 해결)
 
 Package.json
 + https://docs.npmjs.com/cli/v8/configuring-npm/package-json ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> package-json properties)
@@ -869,6 +871,13 @@ Terminal
 Watcher
 + https://stackoverflow.com/questions/53930305/nodemon-error-system-limit-for-number-of-file-watchers-reached ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Nodemon Error: System limit for number of file watchers reached)
 
+## Windows
+
++ https://quasarzone.com/bbs/qf_sw/views/107535 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> hiberfil.sys 이거 없애버리면 뭔가 안좋은 문제가 생기나요?)
+
+Installer
++ https://veblush.blogspot.com/2012/11/windows-installer-ssd.html?m=1 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Windows Installer 동작과 SSD 여유 공간)
+
 ## Git and Github
 
 Actions
@@ -1127,6 +1136,9 @@ aria(HTML)
 + https://cdnjs.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> world CDN Search)
 
 ## VSCode
+
+Cache
++ https://stackoverflow.com/questions/78300434/is-it-safe-to-delete-cache-vscode-cpptools-in-vscode ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Is it safe to delete ~/.cache/vscode-cpptools in vscode?)
 
 Encoding
 + https://zoosso.tistory.com/826 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Visual Studio Code 인코딩 설정)
