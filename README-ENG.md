@@ -606,6 +606,11 @@ Npm
 Package.json
 + https://docs.npmjs.com/cli/v8/configuring-npm/package-json ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> package-json properties)
 + https://spdx.org/licenses/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> list of license that you can write in package.json)
++ https://blog.shiren.dev/ko/post/2020-12-01 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> browserslist guide)
++ https://github.com/browserslist/browserslist ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> browserslist github page)
++ https://browsersl.ist/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Check compatible browsers using browserslist)
++ https://solo5star.dev/posts/51/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Set up browserslist + eslint + stylelint for cross-browsing)
++ https://www.daleseo.com/js-package-json/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> package.json summary for Javascript developer)
 
 Pm2
 + https://pm2.io/docs/runtime/best-practices/environment-variables/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> when you want to update env var)
