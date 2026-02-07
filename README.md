@@ -31,6 +31,7 @@ Click a category below to see useful websites you need.
 - [C++](#Cpp)
 - [Lua](#Lua)
 - [Rust](#Rust)
+- [아희](#아희)
 - [Compiler, Transfiler](#Compiler-and-Transfiler)
 - [Node.js](#Node\.js)
 - [Django](#Django)
@@ -523,6 +524,14 @@ Table
 I/O
 
 + https://velog.io/@unhappydogchew/%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EB%B0%A9%EB%B2%95-%EC%B4%9D%EC%A0%95%EB%A6%AC-Rust%EB%A1%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%92%80%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 러스트로 알고리즘 풀기 - 입출력)
+
+## 아희
+
++ https://aheui.readthedocs.io/ko/latest/specs.html ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 아희 documentation)
++ https://ko.wikipedia.org/wiki/%EC%95%84%ED%9D%AC ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 아희 Wikipedia)
++ https://namu.wiki/w/%EC%95%84%ED%9D%AC ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 아희 namuwiki)
++ https://m.blog.naver.com/PostView.naver?blogId=euotyt&logNo=223371961023&navType=by ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 프로그래밍 언어 - 1 : 아희)
++ https://aheui.github.io/avis ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 아희 online Editor and Compiler)
 
 ## Compiler and Transfiler
 
@@ -1192,6 +1201,9 @@ Web
 ## File System
 
 + https://askubuntu.com/questions/149984/formatting-usb-flash-memory-for-ubuntu-ext4 ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> formatting USB Flash memory for ubuntu ext4)
+
+stdio
++ https://shoark7.github.io/programming/knowledge/what-is-standard-stream ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 표준 스트림, 표준 입출력에 대해 알아보자)
 
 ## Network
 
