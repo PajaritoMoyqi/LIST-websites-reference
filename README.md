@@ -67,6 +67,7 @@ Click a category below to see useful websites you need.
 - [Mathematics](#Mathematics)
 - [Coding TEST](#Coding-TEST)
 - [AI](#AI)
+- [Application](#Application)
 - [Science](#Science)
 - [Games](#Games)
 - [Streaming](#Streaming)
@@ -863,6 +864,9 @@ Environment Variable
 Id
 + https://stackoverflow.com/questions/4517301/difference-between-pid-and-tid ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Difference between PID and TID)
 
+Keyboard
++ https://andrewpage.tistory.com/390 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Ubuntu 24.04 한글 입력기 설정 (한영 변환 설정))
+
 Outdated libraries message
 + https://stackoverflow.com/questions/73397110/how-to-stop-ubuntu-pop-up-daemons-using-outdated-libraries-when-using-apt-to-i ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to automize it)
 
@@ -1232,6 +1236,10 @@ Mouse
 
 + https://brunch.co.kr/@wikibook/87 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 가상 머신(VM) vs 도커 컨테이너 5분컷 개념 정리)
 
+KVM
++ https://42morrow.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-2404%EC%97%90-KVM-%EA%B0%80%EC%83%81%ED%99%94-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 우분투 24.04에 KVM 가상화 환경 설치하기)
++ https://42morrow.tistory.com/entry/KVM%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9C%88%EB%8F%84%EC%9A%B0-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0-%EC%84%A4%EC%B9%98 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> KVM을 이용한 윈도우 가상머신 설치)
+
 VMware
 + https://all4null.tistory.com/75 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> VMware Workstation Pro 설치하기)
 + https://velog.io/@jong-kyung/Mac%EC%97%90-VMware-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> MacOS M2에 VMware 설치하기)
@@ -1280,6 +1288,10 @@ Machine Learning
 
 Deep Learning
 + https://bbongcol.github.io/deep-learning-bookmarks/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 딥러닝 스터디 자료 모음)
+
+## Application
+
++ https://smallpants.tistory.com/294 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 데스크탑 프로그램 GUI 프레임워크 정리)
 
 ## Science
 
