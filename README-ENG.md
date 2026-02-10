@@ -67,6 +67,7 @@ Click a category below to see useful websites you need.
 - [Mathematics](#Mathematics)
 - [Coding TEST](#Coding-TEST)
 - [AI](#AI)
+- [Application](#Application)
 - [Science](#Science)
 - [Games](#Games)
 - [Streaming](#Streaming)
@@ -863,6 +864,9 @@ Environment Variable
 Id
 + https://stackoverflow.com/questions/4517301/difference-between-pid-and-tid ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Difference between PID and TID)
 
+Keyboard
++ https://andrewpage.tistory.com/390 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Korean keyboard setting for Ubuntu 24.04)
+
 Outdated libraries message
 + https://stackoverflow.com/questions/73397110/how-to-stop-ubuntu-pop-up-daemons-using-outdated-libraries-when-using-apt-to-i ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> how to automize it)
 
@@ -1232,6 +1236,10 @@ Mouse
 
 + https://brunch.co.kr/@wikibook/87 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> VM vs Docker)
 
+KVM
++ https://42morrow.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-2404%EC%97%90-KVM-%EA%B0%80%EC%83%81%ED%99%94-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Install virtual environoment in ubuntu 24.04)
++ https://42morrow.tistory.com/entry/KVM%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9C%88%EB%8F%84%EC%9A%B0-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0-%EC%84%A4%EC%B9%98 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Install Window VM using KVM)
+
 VMware
 + https://all4null.tistory.com/75 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Install VMware Workstation Pro)
 + https://velog.io/@jong-kyung/Mac%EC%97%90-VMware-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Insatll VMware in MacOS M2)
@@ -1280,6 +1288,10 @@ Machine Learning
 
 Deep Learning
 + https://bbongcol.github.io/deep-learning-bookmarks/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Collection of deep learning study references)
+
+## Application
+
++ https://smallpants.tistory.com/294 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Summary of desktop application frameworks)
 
 ## Science
 
