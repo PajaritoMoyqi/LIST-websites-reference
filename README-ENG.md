@@ -1199,6 +1199,9 @@ Web
 + https://www.zerocho.com/category/NodeJS/post/5a6c347382ee09001b91fb6a ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> In Chrome, adding localhost to CORS is blocked!)
 + https://www.youtube.com/watch?v=1w1B0b8_xnI ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> What is snyk and how to use it?)
 
+Algorithms
++ https://naleejang.tistory.com/218 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Security and encryption algorithms)
+
 ## API
 
 + https://newsapi.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> world-wide news api)
