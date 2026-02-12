@@ -1199,6 +1199,9 @@ Web
 + https://www.zerocho.com/category/NodeJS/post/5a6c347382ee09001b91fb6a ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 크롬에서는 CORS에 localhost를 넣는 것이 막혀있다!)
 + https://www.youtube.com/watch?v=1w1B0b8_xnI ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> snyk란 무엇이고 어떻게 사용하는가?)
 
+Algorithms
++ https://naleejang.tistory.com/218 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 보안 그리고 암호화 알고리즘)
+
 ## API
 
 + https://newsapi.org/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> world-wide news api)
