@@ -1220,6 +1220,10 @@ Ip
 
 ## Device
 
+Hard Disk
++ https://www.youtube.com/watch?v=WKgeWPFSpP4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> If you format it poorly, your personal info will be exposed... ★How to Properly Dispose of Your Computer★)
++ https://www.youtube.com/watch?v=IZ5TMJ-YZQw ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Factory Reset: Doing It ‘Like This’ Can Cause Major Problems... How to Properly Dispose of Old Smartphones)
+
 Keyboard
 + https://www.youtube.com/watch?v=RGUvUf9YfFw ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Understanding keyboard: what is ghost key?)
 
@@ -1286,11 +1290,14 @@ Linear Algebra
 
 ## AI
 
-Machine Learning
-+ https://www.kaggle.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> ML competition)
+Claude
++ https://yozm.wishket.com/magazine/detail/3339/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> CLAUDE.md guide)
 
 Deep Learning
 + https://bbongcol.github.io/deep-learning-bookmarks/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Collection of deep learning study references)
+
+Machine Learning
++ https://www.kaggle.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> ML competition)
 
 ## Application
 

@@ -1220,6 +1220,10 @@ Ip
 
 ## Device
 
+Hard Disk
++ https://www.youtube.com/watch?v=WKgeWPFSpP4 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 포맷 어설프게 하면 개인정보 탈탈,, ★컴퓨터 제대로 버리는 법★ / [오목교 전자상가 EP.24] 스브스뉴스)
++ https://www.youtube.com/watch?v=IZ5TMJ-YZQw ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 공장 초기화 '이렇게' 하면 큰일 납니다... 오래된 스마트폰 '제대로' 버리는 법 / [오목교 전자상가 EP.25] 스브스뉴스)
+
 Keyboard
 + https://www.youtube.com/watch?v=RGUvUf9YfFw ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 키보드의 이해: 고스트키란 무엇인가)
 
@@ -1286,11 +1290,14 @@ Linear Algebra
 
 ## AI
 
-Machine Learning
-+ https://www.kaggle.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> ML competition)
+Claude
++ https://yozm.wishket.com/magazine/detail/3339/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> CLAUDE.md 이렇게 쓰면 정말 편합니다)
 
 Deep Learning
 + https://bbongcol.github.io/deep-learning-bookmarks/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 딥러닝 스터디 자료 모음)
+
+Machine Learning
++ https://www.kaggle.com/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> ML competition)
 
 ## Application
 
