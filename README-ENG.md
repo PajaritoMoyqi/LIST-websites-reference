@@ -1292,6 +1292,7 @@ Linear Algebra
 
 Claude
 + https://yozm.wishket.com/magazine/detail/3339/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> CLAUDE.md guide)
++ https://magichour1.tistory.com/11 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> The reality of MCP installation which made me suffer)
 
 Deep Learning
 + https://bbongcol.github.io/deep-learning-bookmarks/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> Collection of deep learning study references)

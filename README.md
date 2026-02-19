@@ -1292,6 +1292,7 @@ Linear Algebra
 
 Claude
 + https://yozm.wishket.com/magazine/detail/3339/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> CLAUDE.md 이렇게 쓰면 정말 편합니다)
++ https://magichour1.tistory.com/11 ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 내가 겪은 MCP 설치의 현실)
 
 Deep Learning
 + https://bbongcol.github.io/deep-learning-bookmarks/ ( <img src="https://img.shields.io/badge/KOR-CD2E3A?style=flat-square"/> 딥러닝 스터디 자료 모음)
