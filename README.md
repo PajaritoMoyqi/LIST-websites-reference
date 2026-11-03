@@ -829,6 +829,7 @@ Join
 JSON
 + http://json.parser.online.fr/      ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> hard-to-see JSON parsing)
 + http://www.jsondiff.com/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> two JSON file comparison)
++ https://bestjson.com/json-diff ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Free browser-local structural JSON comparison with added, removed and changed value paths; no account required)
 + https://jwt.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> JWT conversion website)
 
 MariaDB(SQL)
