@@ -1316,6 +1316,8 @@ Astronomy
 
 + https://itch.io/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> itch.io is a simple way to find and share indie games online for free.)
 
++ https://bestdaily.games/games/ ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Browse daily browser puzzles by type and duration, with links to the original developers and spoiler-free play guides.)
+
 Don't starve together
 + https://www.youtube.com/playlist?list=PLfMGRgz7yTw8aVdlImIOPNkyGoWe8NurK ( <img src="https://img.shields.io/badge/ENG-F7DF1E?style=flat-square"/> Create Mods in Don't Starve Together)
 
